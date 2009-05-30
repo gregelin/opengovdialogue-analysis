@@ -1,0 +1,790 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>U.S.A. Community Trust Fund Initiative (the “CTF Initiative”) - by IdeaScale</title>
+
+    <!--[if lt IE 7.]>
+    <script defer type="text/javascript" src="/javascript/pngfix.js"></script>
+    <![endif]-->
+
+    <script language="JavaScript" SRC="/javascript/global.js?version=1"></script>
+
+    <link rel="stylesheet" type="text/css" href="/stylesheets/common.css"/>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/sitestyle.css"/>
+
+
+    
+        
+        <link rel="stylesheet" type="text/css"
+              href="/stylesheets/themes/clean_blue.css">
+        
+
+    
+
+    
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0"
+          href="http://www.ideascale.com//userimages/sub-1/595334/ideascale_4049.xml"/>
+    
+
+</head>
+
+<body id="IdeaScale_Body">
+
+    
+
+    
+    
+    
+
+
+<table id="IdeaScale_Layout" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+
+        <td>
+
+
+                
+                <div align=center style="height:130px;*height:155px;overflow:hidden;border-top:25px solid #E8E8E8">
+<a href="http://opengov.ideascale.com"><img src="http://www.ideascale.com//userimages/sub-1/595334/opengov-banner.png" alt="Open Government Dialogue" border="0"/></a>
+</div>
+<style type="text/css">
+#IdeaScale_Navigation_Container{background:#F6F6F6 url(http://www.ostp.gov/galleries/default-image/bg_sidebar.gif) no-repeat;width:204px;border:1px solid #D1D1D1;}
+#ideaScale_CategoryTitle, h3{color:#003399;}
+p{color:#333;}
+a.IdeaScale_SelectedMenu{background:#003399 !important;color:#FFF;}
+a:hover.IdeaScale_SelectedMenu{color:#FFF;}
+
+#CO_Footer {
+    display: block;
+    color: #A0A0A0;
+    border-top: 1px solid #BABABA;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 11px;
+    background: #E8E8E8;
+}
+
+h3{
+font-style: italic;
+font-weight:bold;
+line-height:130%;
+color: #770000;
+font-family: Georgia, serif;
+}
+
+h4{
+background: #FFFFFF;
+color: black;
+border-top: solid 1px slategray;
+border-bottom: solid 1px slategray;
+text-align:center;
+font-size:14px;
+font-weight:bold;
+font-style:italic;
+margin: 5px 0 0 0;
+padding: 2px 0;
+}
+
+.questions{
+font-size:12px;
+font-style: italic;
+font-weight:bold;
+color: #770000;
+font-family: Georgia, serif;
+margin:0px;
+}
+
+.top input.largeBox{
+width: 210px;
+}
+</style>
+                
+
+                
+
+            <div id="IdeaScale_Header"></div>
+
+                
+
+            <TABLE id="IdeaScale_MainContent" cellspacing="0" cellpadding="0" align="center">
+                <TR>
+                    <TD id="IdeaScale_Navigation_Container" width="20%" valign="top">
+
+                        <table align="center" width="100%" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <!-- For WordPress CSS Import -->
+                                    <div id="IdeaScale_Navigation_Sidebar">
+                                        
+
+
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+<div align="center">
+    <a id="NewIdeaButton"
+       href="javascript:ajaxInlinePopup('NewIdeaButton', '/akira/showCreateTopic.do')">
+        <img alt="New Idea"
+             src="/images/ideascale/new_idea.png"
+             border="0"></img>
+    </a>
+</div>
+
+
+  
+    
+
+
+
+
+
+<h3>Categories</h3>
+<ul class="notice">
+  <li><a href="/akira/panel.do?id=4049"><span id="NavigationAll">All (1187)</span></a></li>
+  
+  
+    
+    <li>
+      <b>1. Transparency</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2236"><span id="NavigationCategory_2236">Making Data More Accessible (111)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2237"><span id="NavigationCategory_2237">Making Government Operations More Open (183)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2238"><span id="NavigationCategory_2238">Records Management (46)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>2. Participation</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2242"><span id="NavigationCategory_2242">New Strategies and Techniques (170)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2243"><span id="NavigationCategory_2243">New Tools and Technologies (73)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2244"><span id="NavigationCategory_2244">Federal Advisory Committees (15)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2245"><span id="NavigationCategory_2245">Rulemaking (34)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>3. Collaboration</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2246"><span id="NavigationCategory_2246">Between Federal Agencies (22)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2247"><span id="NavigationCategory_2247">Between Federal, State, and Local Governments (48)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2248"><span id="NavigationCategory_2248">Public-Private Partnerships (38)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2249"><span id="NavigationCategory_2249">Do-It-Yourself Government (13)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>4. Capacity Building</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2250"><span id="NavigationCategory_2250">Hiring &amp; Recruitment (26)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2251"><span id="NavigationCategory_2251">Performance Appraisal (22)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2252"><span id="NavigationCategory_2252">Training and Development (41)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2253"><span id="NavigationCategory_2253">Communications Strategies (27)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2254"><span id="NavigationCategory_2254">Strategic Planning and Budgeting (42)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>5. Legal &amp; Policy Challenges</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2294"><span id="NavigationCategory_2294">Legal &amp; Policy Challenges (150)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>Uncategorized</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2255"><span id="NavigationCategory_2255">Uncategorized (126)</span></a></li>        
+        
+      </ul>      
+  
+  
+</ul>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+    <tr>
+        <td align="center">
+            <br/> <br/> <br/>
+
+            <table  cellspacing="0" cellpadding="0"><tr><td style="background:url('/images/btn_left.gif') no-repeat;" height="25" class="buttonLeft"></td><td style="background:url('/images/btn_center.gif') repeat-x;" height="25" align="center" class="buttonCenter">
+                <div id="SubscribeFooter">
+                    <a style="text-decoration:none" href="/akira/ideafactoryStats.do">
+                        Subscribe
+                        &nbsp; &nbsp; &nbsp;
+
+                        <img alt="Mail" class="iconLink" src="/images/iconshock/mail_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="Twitter" class="iconLink" src="/images/iconshock/twitter_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="RSS" class="iconLink" src="/images/iconshock/rss_16.gif" border="0">&nbsp;
+                    </a>
+                </div>
+            </td><td style="background:url('/images/btn_right.gif') no-repeat;" height="25" class="buttonRight"></td></tr></table>
+
+            <div style="font-size:.8em" align="center" id="IdeaFactoryStats">
+	      
+
+
+
+
+
+<a href="/akira/ideafactoryStats.do">
+  1187&nbsp;Ideas,&nbsp;2429&nbsp;Comments,&nbsp;49K&nbsp;Votes&nbsp;&raquo;
+</a>
+ 
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+
+
+
+                                        
+
+                                        
+                                        <div align="center" style="margin-top: 15px;">
+                                            <a href="http://www.ideascale.com"
+                                               title="Idea Management"
+                                               border="0"><img border="0"
+                                                               src="/images/ideascale-poweredby-160.png"></img></a>
+                                        </div>
+                                        
+
+                                        
+                                        <div style="height: 50px;"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+
+                    </TD>
+                    <TD width="80%" valign="top">
+
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+<tr> 
+  <td valign="top">
+    <a href="/akira/panel.do?id=4049">&laquo;&nbsp;Back To Open Government Brainstorm</a>
+  </td>
+  <td valign="top" align="right">
+    
+  </td>
+</tr>
+</table>
+
+    <div id="AlertMessage" align="center">
+      
+    </div>
+
+
+
+
+<table width="100%">
+<tr>
+  <td valign="top">  
+  <div class="contentPadding">
+  
+  <div id="IdeaScale_IdeaTitle">U.S.A. Community Trust Fund Initiative (the “CTF Initiative”)</div>
+  <table width="100%">
+  <tr>
+    <td valign="top">
+    <div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4685-4049">audmathews</a></b> <span class="IdeaScale_SecondaryText">1 day ago</span></div>
+    </td>
+    <td align="right">
+      
+
+
+
+
+
+    <div>
+      
+
+
+      
+
+      
+        <span id="FlagIdea"><a class="iconLink" href="javascript:ajaxInlinePopup('FlagIdea', '/akira/flagDiscussionTopic.do?ID=3557')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Flag</a></span>
+      
+
+      
+
+    </div>
+
+    </td>
+  </tr>
+  </table>
+    
+
+
+  <div id="DiscussionTopicText_3557">
+    
+
+
+
+
+
+  <div style="float:left; margin:3px;">
+      <div id="DiscussionTopicVote_3557">
+        <div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3557', '/akira/discussionVote.do?dbid=2247&topicID=3557&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 4</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3557'))" style="text-decoration:none;" id="TopicVote_3557" href="javascript:Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 4</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3557'))">2</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3557', '/akira/discussionVote.do?dbid=2247&topicID=3557&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+      </div>  
+  </div>
+
+  
+
+
+  Action Steps to implement all three Phases of the Community Trust Fund Initiative:<br/>Action Step 1: Consolidate all available economic recovery and bailout funding authority under one agency. Place all of these resources under the U.S.A. Community Trust Fund Initiative (the “CTF Initiative”). It is recommended that the CTF Initiative be established under auspices of the Secretary for the U.S. Department of Commerce (the “Department of Commerce”). Even though the Troubled Asset Relief<br/>Implementation Strategy - 8<br/>Program (“TARP”) is under the auspices of the U.S. Department of Treasury, the Independent Scholars Group believes that the Department of Commerce has the mission, overall potential flexibility and capacity to manage this comprehensive undertaking. To the degree the Department of Commerce lacks personnel, funding, and other support mechanisms, these resources can be reallocated, redirected, and eventually reprogrammed to the Department of Commerce to enhance its capacity to manage the CTF Initiative.<br/>By moving resources to this Initiative, the Administration is giving the American public and Congress notice that business as usual will not be allowed. The notice provides them with the opportunity to buy-in on the Administration’s broad vision for the country’s recovery from this economic crisis. The CTF Initiative is presented as a comprehensive flexible multi-component effort, structured to meet the multi-faceted and dynamic challenges this crisis is proven to be at present. ISG believes that this is a great opportunity for this Administration to demonstrate bold leadership in a new cooperative Federalism. Additionally, this action is the Administration’s opportunity to align fiscal, domestic and global commercial policies and actions to provide national stability and economic growth.<br/>Action Step 2: Establish a formulary for defining communities in need due to declining economic conditions. This crisis is an evolving situation requiring the country to view its progression through varied perspectives. It is multi-dimensional in nature, contributing to the paradox of “the chicken and the egg” – which is or was first. Was the housing value decline or the slowdown in financing the first to start the declining domino effect? At this stage, the Administration is required to address this crisis at several levels at once. This CTF Initiative provides the venue to support and track multiple efforts in the pursuit of common goals and objectives for economic recovery, stability and growth. The CTF Initiative’s formulary as with those for prescription drugs can address several types of situations using similar data and information that captures indicators about the conditions in various impacted communities. Some data and information in the formulary needs to address conditions of:<br/> unemployment, business, health, rate of growth of new businesses, percent of change in the number of closed businesses;<br/> communities impacted most with declining economies such as suburban, urban, rural or blended composition;<br/> community’s percentage of education above high school level, GEDs, home owners, homeless, enrollees in Medicaid, receiving food stamps, other forms of public assistance; and<br/> changes in income per capita and others.<br/>Implementation Strategy - 9<br/>To capture this level of data and establish target areas and benchmarks for tracking progress requires the participation of many federal, state, regional and local governments and agencies and non-profit and for profit entities who collect and generate this data and information. Organizing this effort will require engaging broad representation from all levels of governments and private and non-profit entities to work together to create the components of the formulary and indicators that adequately portray the causal elements of this situation and the response to efforts redressing it.<br/>Action Step 3: Provide guidelines and requirements for applicable states and local government to establish Community Trust Planning Councils (the “CTPC”). The membership of Community Trust Planning Councils need to reflect subject matter expertise in the community, as well as, the business and consumer communities in the areas impacted and affected by these economic dynamics. As a whole, the CTPC assures the community that the recovery, stabilization and growth efforts are about the entire community. More importantly, establishing these CTPCs involve the entire community in the process for recovery; promoting new ideas, trust, accountability and transparency. The CTPC will:<br/> assess the needs for and use of existing community resources;<br/> develop an area economic target recovery, stability and growth strategy and plan;<br/> recommend programs, functions and services for allocating resources and funds for a fast recovery;<br/> propose measures for sustaining the recovery;<br/> propose economic development opportunities for continued growth;<br/> monitor how the principal governance entity receiving the funds use and distribute the funds; and<br/> participate in the review and evaluation of the results and outcomes of the CTF Initiatives implemented in their area.<br/>Using CTPC will ensure the attitude of “one-size fits all” will not prevail. Each of our communities is different. They are diverse and do not have the same dynamics and problems. The CTPC builds in a “fix-ability” and a “rubber hits the road” competency from its member representatives. These CTPC members will bring the nuances of living, working and playing in their communities to the table representing urban, rural, mountain, plains, desert, and lowlands locations, or diverse ethnic and social economic character.<br/>In addition, employing the CTPC will free elected officials at the state, regional and local levels to focus on the ongoing concerns of the government and ensure those efforts complement and support the requirements of executing the CTF Initiative. Even though the principal governing entity is receiving and managing the funds, the CTPC provides the general guidelines and directives on how the funds are allocated and spent. This will ensure minimum conflict of interest; the entity is not supplanting available<br/>Implementation Strategy - 10<br/>funds by using the CTF Initiative funds (e.g., maintenance of effort and other intergovernmental fiscal policies i.e., cash management act, etc.). Applying many of the infrastructure components established for the Ryan White Title I Planning Council will serve well as a model for the establishment, role and composition of the CTPC.<br/>There are mechanisms already in place that can be used and modified to get funding out the door in a timely fashion. The CTPC can:<br/> complement existing state, local, and regional governance and non-profit infrastructures (e.g., community-based organizations);<br/> provide more flexibility for these intergovernmental infrastructures to jointly plan, develop, work and fund critical initiatives in their communities;<br/> provide broader access to the decision-making process for applicable community stakeholders and consumers; and<br/> promote effective evaluations, greater accountability and transparency and feedback at all levels of government.<br/>Action Step 4: A component of the CTF Initiative is establishing Jurisdictions that will serve as laboratories for developing and implementing many projects and programs demonstrating the pros and cons of various economic recovery and stabilization efforts. Establishing these laboratories ensures that the actions taken to accomplish the goals and objectives of the Community Trust Fund Initiative are actually working. The ISG recommends the establishment of at least one site per ten (10) Federal regions. Also, it is recommended that the District of Columbia be established as a site.<br/>The ISG recommends the District of Columbia as an initial pilot site for a number of reasons, not the least of which is the federal government‘s oversight of the District’s budget process. Additional reasons to pilot the CTF Initiative and the CTPC in the Washington Metropolitan Area are:<br/> the geographic size is manageable and within easy proximity;<br/> socio-economic demographics range from severe poverty to low income/moderate income, a strapped middle class, and a sizable upper income class;<br/> a failing public education system (pre-school through high-school), and a substantial number of both private pre-K to high school and private post-secondary institutions;<br/> an industrial infrastructure that needs to be retooled and expanded into green industry as well as an increasing number of underemployed and unemployed;<br/>Implementation Strategy - 11<br/> an aging capital infrastructure with plans and appropriations already authorized and ready to begin (i.e., public works, transportation, housing, environmental water clean-up);<br/> areas suffering severely from foreclosed housing;<br/> an increasingly diverse racial, ethnic and linguistic population (some schools have over 26 languages spoken); and<br/> a diverse geographic population from densely populated inner city to suburban and ex-urban.<br/>In many ways the Washington Metropolitan Area provides an ideal pilot laboratory site, it replicates so many of the issues that each of the ten (10) regions are presently facing, but in a relatively contained geographic area and population.<br/>Over time, these regional laboratories will provide innovations and leading edge developments in economic and community development and stability. Another key responsibility of these laboratory sites is monitoring, reporting results and facilitating the transfer of experience and knowledge to other similar communities for successful replication.<br/>Action Step 5: With $700 billion authorized for TARP, approximately $800 billion being considered for a recovery package, the Administration must immediately harness these resources within a comprehensive strategy to ensure effective change for the good of the USA and its global partners. It is advised that the Administration immediately redirect remaining available funds under this action to the CTF Initiative in a supplemental budget request. Assess where the dollars spent were effective, terminate ineffective programs and proposals, and where possible, reallocate remaining funds and resources to enhance the CTF Initiative’s capacity.<br/>Another action within the federal government is to have the Office of Management and Budget (the “OMB”) look for all unobligated FY 2009 authority that can be redirected or reprogrammed to the CTF Initiative. These resources can be used to: 1) increase funding for effective current programs and efforts that address the goals and objectives of the CTF Initiative; 2) fund at-a-minimum, the ten (10) Federal regional and Washington Metropolitan Area laboratories; and 3) fund promising new projects and initiatives that will strengthen the recovery in an expeditious manner.<br/>Having established the remainder of the bailout stimulus package fund and unobligated and unspent FY 2009 Federal Budget authority under a cogent comprehensive approach to remedying the nation’s short and long-term economic situation, the Administration has given itself some time to develop and propose a national economic strategy in FY 2011 Budget. Review FY 2010 Budget and bring similar services, functions<br/>Implementation Strategy - 12<br/>and dollars associated with activities together under one program instead of the shot gun approach currently used (i.e., all VA, HUD and other housing programs can be placed in one agency).<br/>The FY 2011 Budget planning and development process is critical to bring onboard all federal agencies and their resources (e.g., workforce, infrastructures and funds) to either implement components of the CTF Initiative, ensure that their programs and functions remove obstacles or complement the CTF Initiative and/or provide tertiary support to the CTF Initiative. FY 2011 is also the time to propose any agency reorganizations and staff reallocation plans for the CTF Initiative operations.<br/>Action step 6: Monitor and evaluate the CTF Initiative to promptly respond and to initiate corrective actions and interventions and to skillfully fine tune the strategies and approaches. The monitoring and evaluation processes afford more effective and timely outcomes and create models for successful replication. Considering the magnitude of the expected outcomes, ongoing monitoring and evaluation ensures resources are being used at overall adequate proportional levels. This is an opportunity for this Administration to modify both the intent and use of the Government Performance and Results Act (the “GPRA”) and Program Assessment Rating Tool (“PART”).<br/>GPRA, passed in 1993, addresses a range of issues regarding accountability and performance at the federal government level, serving as the performance measurement process required by law. This performance system principally measures an agency’s performance as a result of budgetary decision-making. However, this does not necessarily address measuring and improving the agency’s performance of its mission or required major initiatives.<br/>The Office of Management and Budget created PART in 2002 as part of the previous Administration’s effort to integrate budget and performance as a result of Congressional and the Executive Branch management and budget decisions. It is clear that the intent of both actions is to provide a way to hold the government accountable for its performance and yet, be responsive to the impact of the political nature of the federal government budget and management decision-making. Some academics consider PART a performance budgeting tool; others view it as a tool for generating performance data. There are apparent disagreements on how budget and performance data can fit or complement each other; which they can, and see conflicts between GPRA and PART. However, there has been a great investment made in data collection and reporting infrastructures for these performance measurement tools. Building off this existing infrastructure and modifying these tools to complement each other will better serve the U.S. Congress, this Administration, federal agencies, state, regional and local governments, non-profits and the<br/>Implementation Strategy - 13<br/>public as a whole. This very fixable situation will have far reaching impact on the effectiveness of the federal government at all levels beyond just the CTF Initiative.<br/>Conclusion<br/>This is a momentous time in the history of our country and the world. There are many choices before the people. We believe this Administration has an opportunity to provide a framework within which communities can make selective choices remedying their unique situations, yet, contributing to a collection of solutions for the challenges we face and a comprehensive national strategy for moving effectively forward. The USA Community Trust Fund Initiative provides the infrastructure to pave the way for repair and innovations with a united effort built on Trust.
+
+  <h3>Why Is This Idea Important?</h3><div>It is an economic recovery initiative that focuses on Main Street called the USA Community Trust Fund Initiative (the “CTF Initiative”). Trust funds are generally considered instruments of security and opportunity. This CTF Initiative will incorporate the best practices and lessons learned from Federal intergovernmental efforts such as the Ryan White Care Act (“Ryan White”), Community Development Block Grant (“CDBG”), Enterprise Zones, Comprehensive Employment and Training Act (“CETA”), Homeland Security Grants to States and Federal Revenue Sharing to name a few.</div>
+
+  </div>
+
+  <div style="clear:both"><div>
+
+  <div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;">Idea # 872</span><span id="DiscussionTopicTag_3557"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=the independent scholars group’s primary telephone and email con">the independent scholars group’s primary telephone and email con</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=dpa">dpa</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=4605 brentwood lane">4605 brentwood lane</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=san bernardino">san bernardino</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=california 92407">california 92407</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=909-881-8618 e-mail: audmathews@aol.com or amathews@csusb.edu. t">909-881-8618 e-mail: audmathews@aol.com or amathews@csusb.edu. t</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=via teleconferencing">via teleconferencing</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=or online to answer questions and/or discuss the initiative in t">or online to answer questions and/or discuss the initiative in t</a></span></div>  
+
+  
+
+
+  <div id="IdeaScale_SectionHeader">Comments</div>  
+
+  
+
+
+  <div id="DiscussionTopicComment_3557">
+    
+
+
+
+
+
+<table width="100%">
+
+</table>
+
+
+
+    
+    <ul class="noimage">
+      <li>
+        <a class="iconLink" href="javascript:ajaxLink('PostComment_3557', '/akira/postComment.do?dbid=2247&topicID=3557&mode=add-comment-show')"><img alt="Add New" class="iconLink" src="/images/iconshock/add_16.gif" border="0">&nbsp;Post New Comment</a>
+
+        <div id="PostComment_3557"></div>
+      </li>
+    </ul>      
+    
+
+
+  </div>
+
+  
+
+  
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+  <div id="IdeaScale_SectionHeader">Activity Chart</div>
+  <div>
+    <object width="450" height="300" ><param name="movie" value="/images/fusionchart/Pie3D.swf"></param><param name="wmode" value="transparent"></param><param name="allowScriptAccess" value="always"></param><param name="flashvars" value="debugMode=0&amp;dataXML=<chart showPercentValues='1' palatte='2'><set label='Vote Up' value='4'/><set isSliced='1' label='Vote Down' value='2'/></chart>"></param><embed src="/images/fusionchart/Pie3D.swf" type="application/x-shockwave-flash" wmode="transparent" flashvars="debugMode=0&amp;dataXML=<chart showPercentValues='1' palatte='2'><set label='Vote Up' value='4'/><set isSliced='1' label='Vote Down' value='2'/></chart>" allowScriptAccess="always" width="450" height="300"></embed></object>
+  </div>
+
+
+  
+
+
+
+  </td>
+  <td width="200" valign="top" style="padding-left:10px;">
+  
+
+     
+
+      
+
+
+      
+      <div style="padding-top:10px;">
+        
+
+
+
+
+
+<div id="IdeaScale_WidgetHeader">Users Activity</div>
+<div id="IdeaScale_WidgetText">
+  <table>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6201-4049">
+      goggins
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4219-4049">
+      cjis1982
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6960-4049">
+      sea_of_mirth
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6797-4049">
+      pixietrks
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6770-4049">
+      pschuh
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4685-4049">
+      audmathews
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  </table>
+</div>
+
+
+
+
+  
+      </div>
+      
+
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+    
+
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+   <div id="IdeaScale_Footer">
+   <div style="background-color:#E8E8E8; height:20px;"></div>
+
+<div id="CO_Footer" style="height:200px;">Powered By <a href="http://www.ideascale.com" target="_BLANK"><strong>IdeaScale</strong></a> and the <a href="http://www.napawash.org" target="_BLANK"><strong>National Academy of Public Administration</strong></a>
+
+<p><a href="http://www.napawash.org" target="_BLANK"><img src="http://www.ideascale.com//userimages/sub-1/595334/NAPA_Logo_pagebottom.png" alt="National Academy of Public Administration" border=0 width="188" height="76"></a></p>
+
+<p style="width:80%;margin: 15px auto;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">All feedback received through the Open Government Dialogue</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+
+</div>
+
+   </div>
+
+
+
+</td></tr></table>
+
+
+
+  
+
+
+
+
+
+<table width="100%" id="IdeaScale_Theme_Footer" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="center" valign="top">
+    Copyright &copy; 2009 
+
+    &nbsp;&nbsp;
+    <a href="/">Home</a> 
+    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=contact">Contact</a> 
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=widget">Widgets</a>    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=api">Developers</a>    
+    
+    <!--
+     &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=feedback">Feedback</a>
+    -->
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var wpcomPageTracker = _gat._getTracker("UA-5056819-3");
+wpcomPageTracker._initData();
+wpcomPageTracker._trackPageview();
+</script>
+
+
+
+
+
+
+
+
+
+<div class="shadowedBox" id="shadowedBox" style="display:none;">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+          <td class="drop a"></td>
+          <td class="drop b"></td>
+          <td style="width: 623px;" class="drop c"></td>
+          <td class="drop d"></td>
+          <td class="drop e"></td>
+        </tr>
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        
+        <tr valign="top">
+          <td class="drop p">
+            <div>&nbsp;</div>
+          </td>
+          <td style="width: 663px;" class="shadowedBoxBody" rowspan="3">
+            <div align="right">
+            <a class="iconLink" href="javascript:closeInlinePopup('shadowedBox')"><img alt="Delete" class="iconLink" src="/images/iconshock/delete_16.gif" border="0">&nbsp;Close</a>
+            </div>
+            <div id="shadowedBoxBody">
+            </div>
+          </td>
+          <td class="drop f">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop o">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop g">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop n">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop h">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+    
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+            <td class="drop m"></td>
+            <td class="drop l"></td>
+            <td style="width: 623px;" class="drop k "></td>
+            <td class="drop j"></td>
+            <td class="drop i"></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+<table bgcolor="#ffffff"  border="0" cellpadding="0" cellspacing="0" style="display:none;">
+
+  <!-- Content | Right DS -->
+  <tr>
+    <td valign="top"> 
+      <div id="contentEnclosingDivID" style="position: absolute; background-color: #ffffff; display:none;z-index:2;" >
+
+      <!-- ContentTable -->
+      <table id="contentTableID" class="simpleBorder" style="height:300;width:500;" border="0" cellpadding="0" cellspacing="0">
+        <!-- close popup row -->
+        <tr>
+          <td align="right" valign="top">
+            <a href="javascript:closeLiteInlinePopup();">Close</a>
+          </td>
+        </tr>
+        <!-- Content Row -->
+        <tr>
+          <td valign="top">
+            <div id="contentDivID"></div>
+          </td>
+        </tr>
+      </table>
+      <!-- End Content Table -->
+      
+      </div>
+    </td>
+
+    <!-- Right DS -->
+    <td width="10" valign="top" height="100%">
+      <div id="rightShadowDivID" class="transparent" style="position:absolute;display:none;width:10;none;z-index:1;">
+      </div>
+    </td>
+  
+  </tr>
+
+  <!-- Bottom DS -->
+  <tr>
+    <td colspan="2">
+      <div id="bottomShadowDivID" class="transparent" style="position:absolute;display:none;height:10;display:none;z-index:1;">
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+
+</body>
+
+</html>
+
+

@@ -1,0 +1,951 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>A Whole Systems Training Approach: Leadership for Four Stages of Transition from Crisis to Resilience - by IdeaScale</title>
+
+    <!--[if lt IE 7.]>
+    <script defer type="text/javascript" src="/javascript/pngfix.js"></script>
+    <![endif]-->
+
+    <script language="JavaScript" SRC="/javascript/global.js?version=1"></script>
+
+    <link rel="stylesheet" type="text/css" href="/stylesheets/common.css"/>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/sitestyle.css"/>
+
+
+    
+        
+        <link rel="stylesheet" type="text/css"
+              href="/stylesheets/themes/clean_blue.css">
+        
+
+    
+
+    
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0"
+          href="http://www.ideascale.com//userimages/sub-1/595334/ideascale_4049.xml"/>
+    
+
+</head>
+
+<body id="IdeaScale_Body">
+
+    
+
+    
+    
+    
+
+
+<table id="IdeaScale_Layout" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+
+        <td>
+
+
+                
+                <div align=center style="height:130px;*height:155px;overflow:hidden;border-top:25px solid #E8E8E8">
+<a href="http://opengov.ideascale.com"><img src="http://www.ideascale.com//userimages/sub-1/595334/opengov-banner.png" alt="Open Government Dialogue" border="0"/></a>
+</div>
+<style type="text/css">
+#IdeaScale_Navigation_Container{background:#F6F6F6 url(http://www.ostp.gov/galleries/default-image/bg_sidebar.gif) no-repeat;width:204px;border:1px solid #D1D1D1;}
+#ideaScale_CategoryTitle, h3{color:#003399;}
+p{color:#333;}
+a.IdeaScale_SelectedMenu{background:#003399 !important;color:#FFF;}
+a:hover.IdeaScale_SelectedMenu{color:#FFF;}
+
+#CO_Footer {
+    display: block;
+    color: #A0A0A0;
+    border-top: 1px solid #BABABA;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 11px;
+    background: #E8E8E8;
+}
+
+h3{
+font-style: italic;
+font-weight:bold;
+line-height:130%;
+color: #770000;
+font-family: Georgia, serif;
+}
+
+h4{
+background: #FFFFFF;
+color: black;
+border-top: solid 1px slategray;
+border-bottom: solid 1px slategray;
+text-align:center;
+font-size:14px;
+font-weight:bold;
+font-style:italic;
+margin: 5px 0 0 0;
+padding: 2px 0;
+}
+
+.questions{
+font-size:12px;
+font-style: italic;
+font-weight:bold;
+color: #770000;
+font-family: Georgia, serif;
+margin:0px;
+}
+
+.top input.largeBox{
+width: 210px;
+}
+</style>
+                
+
+                
+
+            <div id="IdeaScale_Header"></div>
+
+                
+
+            <TABLE id="IdeaScale_MainContent" cellspacing="0" cellpadding="0" align="center">
+                <TR>
+                    <TD id="IdeaScale_Navigation_Container" width="20%" valign="top">
+
+                        <table align="center" width="100%" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <!-- For WordPress CSS Import -->
+                                    <div id="IdeaScale_Navigation_Sidebar">
+                                        
+
+
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+<div align="center">
+    <a id="NewIdeaButton"
+       href="javascript:ajaxInlinePopup('NewIdeaButton', '/akira/showCreateTopic.do')">
+        <img alt="New Idea"
+             src="/images/ideascale/new_idea.png"
+             border="0"></img>
+    </a>
+</div>
+
+
+  
+    
+
+
+
+
+
+<h3>Categories</h3>
+<ul class="notice">
+  <li><a href="/akira/panel.do?id=4049"><span id="NavigationAll">All (1187)</span></a></li>
+  
+  
+    
+    <li>
+      <b>1. Transparency</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2236"><span id="NavigationCategory_2236">Making Data More Accessible (111)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2237"><span id="NavigationCategory_2237">Making Government Operations More Open (183)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2238"><span id="NavigationCategory_2238">Records Management (46)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>2. Participation</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2242"><span id="NavigationCategory_2242">New Strategies and Techniques (170)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2243"><span id="NavigationCategory_2243">New Tools and Technologies (73)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2244"><span id="NavigationCategory_2244">Federal Advisory Committees (15)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2245"><span id="NavigationCategory_2245">Rulemaking (34)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>3. Collaboration</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2246"><span id="NavigationCategory_2246">Between Federal Agencies (22)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2247"><span id="NavigationCategory_2247">Between Federal, State, and Local Governments (48)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2248"><span id="NavigationCategory_2248">Public-Private Partnerships (38)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2249"><span id="NavigationCategory_2249">Do-It-Yourself Government (13)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>4. Capacity Building</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2250"><span id="NavigationCategory_2250">Hiring &amp; Recruitment (26)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2251"><span id="NavigationCategory_2251">Performance Appraisal (22)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2252"><span id="NavigationCategory_2252">Training and Development (41)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2253"><span id="NavigationCategory_2253">Communications Strategies (27)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2254"><span id="NavigationCategory_2254">Strategic Planning and Budgeting (42)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>5. Legal &amp; Policy Challenges</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2294"><span id="NavigationCategory_2294">Legal &amp; Policy Challenges (150)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>Uncategorized</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2255"><span id="NavigationCategory_2255">Uncategorized (126)</span></a></li>        
+        
+      </ul>      
+  
+  
+</ul>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+    <tr>
+        <td align="center">
+            <br/> <br/> <br/>
+
+            <table  cellspacing="0" cellpadding="0"><tr><td style="background:url('/images/btn_left.gif') no-repeat;" height="25" class="buttonLeft"></td><td style="background:url('/images/btn_center.gif') repeat-x;" height="25" align="center" class="buttonCenter">
+                <div id="SubscribeFooter">
+                    <a style="text-decoration:none" href="/akira/ideafactoryStats.do">
+                        Subscribe
+                        &nbsp; &nbsp; &nbsp;
+
+                        <img alt="Mail" class="iconLink" src="/images/iconshock/mail_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="Twitter" class="iconLink" src="/images/iconshock/twitter_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="RSS" class="iconLink" src="/images/iconshock/rss_16.gif" border="0">&nbsp;
+                    </a>
+                </div>
+            </td><td style="background:url('/images/btn_right.gif') no-repeat;" height="25" class="buttonRight"></td></tr></table>
+
+            <div style="font-size:.8em" align="center" id="IdeaFactoryStats">
+	      
+
+
+
+
+
+<a href="/akira/ideafactoryStats.do">
+  1187&nbsp;Ideas,&nbsp;2430&nbsp;Comments,&nbsp;49K&nbsp;Votes&nbsp;&raquo;
+</a>
+ 
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+
+
+
+                                        
+
+                                        
+                                        <div align="center" style="margin-top: 15px;">
+                                            <a href="http://www.ideascale.com"
+                                               title="Idea Management"
+                                               border="0"><img border="0"
+                                                               src="/images/ideascale-poweredby-160.png"></img></a>
+                                        </div>
+                                        
+
+                                        
+                                        <div style="height: 50px;"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+
+                    </TD>
+                    <TD width="80%" valign="top">
+
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+<tr> 
+  <td valign="top">
+    <a href="/akira/panel.do?id=4049">&laquo;&nbsp;Back To Open Government Brainstorm</a>
+  </td>
+  <td valign="top" align="right">
+    
+  </td>
+</tr>
+</table>
+
+    <div id="AlertMessage" align="center">
+      
+    </div>
+
+
+
+
+<table width="100%">
+<tr>
+  <td valign="top">  
+  <div class="contentPadding">
+  
+  <div id="IdeaScale_IdeaTitle">A Whole Systems Training Approach: Leadership for Four Stages of Transition from Crisis to Resilience</div>
+  <table width="100%">
+  <tr>
+    <td valign="top">
+    <div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4619-4049">hina</a></b> <span class="IdeaScale_SecondaryText">1 day ago</span></div>
+    </td>
+    <td align="right">
+      
+
+
+
+
+
+    <div>
+      
+
+
+      
+
+      
+        <span id="FlagIdea"><a class="iconLink" href="javascript:ajaxInlinePopup('FlagIdea', '/akira/flagDiscussionTopic.do?ID=3757')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Flag</a></span>
+      
+
+      
+
+    </div>
+
+    </td>
+  </tr>
+  </table>
+    
+
+
+  <div id="DiscussionTopicText_3757">
+    
+
+
+
+
+
+  <div style="float:left; margin:3px;">
+      <div id="DiscussionTopicVote_3757">
+        <div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3757', '/akira/discussionVote.do?dbid=2252&topicID=3757&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 17</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3757'))" style="text-decoration:none;" id="TopicVote_3757" href="javascript:Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 17</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3757'))">14</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3757', '/akira/discussionVote.do?dbid=2252&topicID=3757&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+      </div>  
+  </div>
+
+  
+
+
+  Many of the suggestions for creating Open Government advocate for open forums for dialog and deliberation. How do we get there from here? <br/><br/>Let's consider some of the factors that contribute to where we are before we can talk about where we're going:  We are having a financial meltdown affecting every person, community and state in this country. We are spending at least half of our budget on war and all its components and don't have enough funds for domestic needs. Our schools and infrastructure are a huge mess, on the verge of disaster in many places. Climate change is causing more natural disasters. Our political system and its citizens are polarized. We are in crisis or heading that way. Another challenge to implementing Open Government is that our history and culture is one of domination, by class, by authority, by race, religion, gender. We don't have the cultural habits of mutual respect, working for mutual benefit, consideration, cooperation, inclusion, generosity, and kindness. All among the qualities needed for true democracy.<br/><br/>We will be more successful by approaching the transition to open government by understanding the stages of culture from a state of crisis to the potential of building a resilient true democracy. By learning to recognize the stage the group or individuals are in facilitators can use the most effective leadership strategies and support the needs of the situation. <br/><br/>We can expand the corps of leaders, public, government and private, knowledgeable in 1. crisis management, 2. creating security, 3. helping groups become proactive and 4. building resilience though dialog.  Educating people to facilitate communities, organizations, business, and individuals to emerge from the trauma of crisis to becoming self-reliant, self-organizing, innovative and resilient are the building blocks of true democracy. <br/><br/>People often resist or ignore the effects of crisis or the need for transition until it becomes a no choice choice. They can become either helpless, a hindrance or helpful. Prepared facilitators, leaders, managers and citizens can guide the changes to move beyond crisis to becoming self-reliant and whole. <br/><br/>To guide the process it's helpful to:<br/><br/>• Know where you are: <br/>Recognize the characteristics and objectives of each of the stages of transition from crisis to resilience.<br/><br/>• Know who you’re dealing with: <br/>Identify psychological, social and behavioral profiles of the participants.<br/><br/>• Know what to do: <br/>Learn the interventions and facilitation strategies that are most effective to meet needs.<br/><br/>• Know what NOT to do: <br/>Avoid unintended consequences and misunderstandings and shift ineffective strategies.<br/><br/>• Know when to move on: <br/>Learn the factors that signal optimal time to transition.<br/><br/>Being the Most Effective Together<br/><br/>This framework can be used to map a whole system of the many processes and tools presented in this forum and beyond— across four stages indicating when they can achieve optimal effectiveness. For example; Visual Recording would be very effective in Stage 1- Crisis, to make very clear, large visual aids for quick comprehension, and in Stage 2 - coordinating basic security for mapping services. Processes that create a context for dialog and deliberation could be used when people are in Stage 3 & 4- as they are ready to participate in groups. <br/><br/>This is from my experience as a facilitator and organizational development professional. <br/><br/>For more information http://crisis2resilience.com, feel free to contact me. Hina Pendle, PhD, Hina@uspartners.com
+
+  <h3>Why Is This Idea Important?</h3><div>It's a big leap to Open Government from where we are now. We can increase the capacity of facilitators, government and community leaders to be prepared to engage the public on many different levels beginning with crisis and ending with fully engaged resilient community.</div>
+
+  </div>
+
+  <div style="clear:both"><div>
+
+  <div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;">Idea # 1037</span><span id="DiscussionTopicTag_3757"><a href="/akira/ideafactory.do?discussionID=2252">Training and Development</a></span></div>  
+
+  
+
+
+  <div id="IdeaScale_SectionHeader">Comments</div>  
+
+  
+
+
+  <div id="DiscussionTopicComment_3757">
+    
+
+
+
+
+
+<table width="100%">
+
+
+  <tr id="row_3609" onmouseover="showDiv('CommentBar_3609');" onmouseout="hideDiv('CommentBar_3609')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/7688-4049">hard2be50</a></b>
+          <span class="IdeaScale_SecondaryText">1 day ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_3609" style="display:none;">
+
+      
+      <span id="FlagComment_3609">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_3609', '/akira/flagDiscussionComment.do?topicID=3757&commentID=3609')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      You kept saying "true democracy".  Are you suggesting we change the Constitution?  Many people either don't know or forget that we are a republic....
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_3863" onmouseover="showDiv('CommentBar_3863');" onmouseout="hideDiv('CommentBar_3863')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/4619-4049">hina</a></b>
+          <span class="IdeaScale_SecondaryText">6 hours ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_3863" style="display:none;">
+
+      
+      <span id="FlagComment_3863">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_3863', '/akira/flagDiscussionComment.do?topicID=3757&commentID=3863')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      Thanks for your question. I see true democracy as the process that inhabits the structure...the constitution, the government. The US already has the framework and has protocols built in for altering, amending itself. I am concerned with "who" inhabits the structure, the level of consciousness, the facility for including all the voices, that goes into self-reliance. Our 200 year old government has the opportunity to self-reflect, self-correct and refresh where needed to serve the greater whole. We have a lot of room to re-engage as citizens, to dialog, to design our future together. Not saying this is easy but when things breakdown, we have an unprecedented opportunity to break though to a new level of mutual benefit.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_4079" onmouseover="showDiv('CommentBar_4079');" onmouseout="hideDiv('CommentBar_4079')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/4997-4049">klingspoon.troy</a></b>
+          <span class="IdeaScale_SecondaryText">14 minutes ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_4079" style="display:none;">
+
+      
+      <span id="FlagComment_4079">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_4079', '/akira/flagDiscussionComment.do?topicID=3757&commentID=4079')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      The complexities of business and invention need not be compromised in supporting standard portal connections. The ability to connect to the rest of the world and access the strength of community the web has to offer is vital for all humanity to compete in future learning environments. The fundamental secure portal that this writing refers to is a high level secure portal connection, the device offers the user the immediate ability to connect and transmit or receive data on the move. It unifies what is technically possible and marketable into a single device. Vital statistics would be monitored and available to the user for analysis. Applications that enhance the user in interactions with the community at large offer advantages that right now while available, are weakened in usefulness by fragmented and independent design. The trends in communications design and embedded applications have made rapid acceptance in society. The convergence with green power generation from the user coupled with embedded applications that provide enhancements for connectivity would also assist in societies efforts to reign in cybercrime. A standard portal device will offer encryption levels that are hack proof and will be designed to ensure user privacy. A citizen standard connection portal, in the spirit of transparency the strength in the adoption lies in the societal acceptance. When all citizens have the power of connectivity to participate in the strength of community, opportunity for enhanced learning becomes more powerful as well. <br/>The costs of governance have the potential for drastic reduction. By merely giving every person in America immediate connectivity no matter where they are in the world reduces the infrastructure costs of providing the services of government and society as a whole. By giving this level of possibility to all Americans the strength of what it means to participate in building success will become immediately apparent. The design of this device through peer review across the population’s diverse spectrum of scientists’, business leaders, social network professionals and government agencies, along with the public at large will give 21st century clout to the protection offered within the constitution.<br/>Cyber security will be made highly affordable to implement as the standard would have the largest audience not only in its creation but as well in its deployment. Once deployed the increased connectivity to efficiently deliver the services primarily of government but of all aspects of societal interactions, will be the 21st century platform for all cumulative societal efforts engaged in national and global prosperity.<br/>Wireless connectivity offers the most efficient transition to full participatory access for all Americans.<br/><br/><br/>
+
+                  
+    </td>
+  </tr>
+
+</table>
+
+
+
+    
+    <ul class="noimage">
+      <li>
+        <a class="iconLink" href="javascript:ajaxLink('PostComment_3757', '/akira/postComment.do?dbid=2252&topicID=3757&mode=add-comment-show')"><img alt="Add New" class="iconLink" src="/images/iconshock/add_16.gif" border="0">&nbsp;Post New Comment</a>
+
+        <div id="PostComment_3757"></div>
+      </li>
+    </ul>      
+    
+
+
+  </div>
+
+  
+
+  
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+  <div id="IdeaScale_SectionHeader">Activity Chart</div>
+  <div>
+    <object width="450" height="300" ><param name="movie" value="/images/fusionchart/Pie3D.swf"></param><param name="wmode" value="transparent"></param><param name="allowScriptAccess" value="always"></param><param name="flashvars" value="debugMode=0&amp;dataXML=<chart showPercentValues='1' palatte='2'><set label='Vote Up' value='17'/><set isSliced='1' label='Vote Down' value='3'/></chart>"></param><embed src="/images/fusionchart/Pie3D.swf" type="application/x-shockwave-flash" wmode="transparent" flashvars="debugMode=0&amp;dataXML=<chart showPercentValues='1' palatte='2'><set label='Vote Up' value='17'/><set isSliced='1' label='Vote Down' value='3'/></chart>" allowScriptAccess="always" width="450" height="300"></embed></object>
+  </div>
+
+
+  
+
+
+
+  </td>
+  <td width="200" valign="top" style="padding-left:10px;">
+  
+
+     
+
+      
+
+
+      
+      <div style="padding-top:10px;">
+        
+
+
+
+
+
+<div id="IdeaScale_WidgetHeader">Users Activity</div>
+<div id="IdeaScale_WidgetText">
+  <table>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4997-4049">
+      klingspoon.troy
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/8462-4049">
+      sprinklv
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6201-4049">
+      goggins
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/8230-4049">
+      dan
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4345-4049">
+      jflan
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4219-4049">
+      cjis1982
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4334-4049">
+      geertsanton
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4226-4049">
+      lshultz
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6116-4049">
+      sbuie
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/7811-4049">
+      Advocate
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  </table>
+</div>
+
+
+
+
+  
+      </div>
+      
+
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+    
+
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+   <div id="IdeaScale_Footer">
+   <div style="background-color:#E8E8E8; height:20px;"></div>
+
+<div id="CO_Footer" style="height:200px;">Powered By <a href="http://www.ideascale.com" target="_BLANK"><strong>IdeaScale</strong></a> and the <a href="http://www.napawash.org" target="_BLANK"><strong>National Academy of Public Administration</strong></a>
+
+<p><a href="http://www.napawash.org" target="_BLANK"><img src="http://www.ideascale.com//userimages/sub-1/595334/NAPA_Logo_pagebottom.png" alt="National Academy of Public Administration" border=0 width="188" height="76"></a></p>
+
+<p style="width:80%;margin: 15px auto;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">All feedback received through the Open Government Dialogue</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+
+</div>
+
+   </div>
+
+
+
+</td></tr></table>
+
+
+
+  
+
+
+
+
+
+<table width="100%" id="IdeaScale_Theme_Footer" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="center" valign="top">
+    Copyright &copy; 2009 
+
+    &nbsp;&nbsp;
+    <a href="/">Home</a> 
+    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=contact">Contact</a> 
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=widget">Widgets</a>    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=api">Developers</a>    
+    
+    <!--
+     &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=feedback">Feedback</a>
+    -->
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var wpcomPageTracker = _gat._getTracker("UA-5056819-3");
+wpcomPageTracker._initData();
+wpcomPageTracker._trackPageview();
+</script>
+
+
+
+
+
+
+
+
+
+<div class="shadowedBox" id="shadowedBox" style="display:none;">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+          <td class="drop a"></td>
+          <td class="drop b"></td>
+          <td style="width: 623px;" class="drop c"></td>
+          <td class="drop d"></td>
+          <td class="drop e"></td>
+        </tr>
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        
+        <tr valign="top">
+          <td class="drop p">
+            <div>&nbsp;</div>
+          </td>
+          <td style="width: 663px;" class="shadowedBoxBody" rowspan="3">
+            <div align="right">
+            <a class="iconLink" href="javascript:closeInlinePopup('shadowedBox')"><img alt="Delete" class="iconLink" src="/images/iconshock/delete_16.gif" border="0">&nbsp;Close</a>
+            </div>
+            <div id="shadowedBoxBody">
+            </div>
+          </td>
+          <td class="drop f">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop o">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop g">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop n">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop h">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+    
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+            <td class="drop m"></td>
+            <td class="drop l"></td>
+            <td style="width: 623px;" class="drop k "></td>
+            <td class="drop j"></td>
+            <td class="drop i"></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+<table bgcolor="#ffffff"  border="0" cellpadding="0" cellspacing="0" style="display:none;">
+
+  <!-- Content | Right DS -->
+  <tr>
+    <td valign="top"> 
+      <div id="contentEnclosingDivID" style="position: absolute; background-color: #ffffff; display:none;z-index:2;" >
+
+      <!-- ContentTable -->
+      <table id="contentTableID" class="simpleBorder" style="height:300;width:500;" border="0" cellpadding="0" cellspacing="0">
+        <!-- close popup row -->
+        <tr>
+          <td align="right" valign="top">
+            <a href="javascript:closeLiteInlinePopup();">Close</a>
+          </td>
+        </tr>
+        <!-- Content Row -->
+        <tr>
+          <td valign="top">
+            <div id="contentDivID"></div>
+          </td>
+        </tr>
+      </table>
+      <!-- End Content Table -->
+      
+      </div>
+    </td>
+
+    <!-- Right DS -->
+    <td width="10" valign="top" height="100%">
+      <div id="rightShadowDivID" class="transparent" style="position:absolute;display:none;width:10;none;z-index:1;">
+      </div>
+    </td>
+  
+  </tr>
+
+  <!-- Bottom DS -->
+  <tr>
+    <td colspan="2">
+      <div id="bottomShadowDivID" class="transparent" style="position:absolute;display:none;height:10;display:none;z-index:1;">
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+
+</body>
+
+</html>
+
+

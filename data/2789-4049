@@ -1,0 +1,1461 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>Give Citizens a Simple Checklist for Rating "Public Engagement" - by IdeaScale</title>
+
+    <!--[if lt IE 7.]>
+    <script defer type="text/javascript" src="/javascript/pngfix.js"></script>
+    <![endif]-->
+
+    <script language="JavaScript" SRC="/javascript/global.js?version=1"></script>
+
+    <link rel="stylesheet" type="text/css" href="/stylesheets/common.css"/>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/sitestyle.css"/>
+
+
+    
+        
+        <link rel="stylesheet" type="text/css"
+              href="/stylesheets/themes/clean_blue.css">
+        
+
+    
+
+    
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0"
+          href="http://www.ideascale.com//userimages/sub-1/595334/ideascale_4049.xml"/>
+    
+
+</head>
+
+<body id="IdeaScale_Body">
+
+    
+
+    
+    
+    
+
+
+<table id="IdeaScale_Layout" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+
+        <td>
+
+
+                
+                <div align=center style="height:130px;*height:155px;overflow:hidden;border-top:25px solid #E8E8E8">
+<a href="http://opengov.ideascale.com"><img src="http://www.ideascale.com//userimages/sub-1/595334/opengov-banner.png" alt="Open Government Dialogue" border="0"/></a>
+</div>
+<style type="text/css">
+#IdeaScale_Navigation_Container{background:#F6F6F6 url(http://www.ostp.gov/galleries/default-image/bg_sidebar.gif) no-repeat;width:204px;border:1px solid #D1D1D1;}
+#ideaScale_CategoryTitle, h3{color:#003399;}
+p{color:#333;}
+a.IdeaScale_SelectedMenu{background:#003399 !important;color:#FFF;}
+a:hover.IdeaScale_SelectedMenu{color:#FFF;}
+
+#CO_Footer {
+    display: block;
+    color: #A0A0A0;
+    border-top: 1px solid #BABABA;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 11px;
+    background: #E8E8E8;
+}
+
+h3{
+font-style: italic;
+font-weight:bold;
+line-height:130%;
+color: #770000;
+font-family: Georgia, serif;
+}
+
+h4{
+background: #FFFFFF;
+color: black;
+border-top: solid 1px slategray;
+border-bottom: solid 1px slategray;
+text-align:center;
+font-size:14px;
+font-weight:bold;
+font-style:italic;
+margin: 5px 0 0 0;
+padding: 2px 0;
+}
+
+.questions{
+font-size:12px;
+font-style: italic;
+font-weight:bold;
+color: #770000;
+font-family: Georgia, serif;
+margin:0px;
+}
+
+.top input.largeBox{
+width: 210px;
+}
+</style>
+                
+
+                
+
+            <div id="IdeaScale_Header"></div>
+
+                
+
+            <TABLE id="IdeaScale_MainContent" cellspacing="0" cellpadding="0" align="center">
+                <TR>
+                    <TD id="IdeaScale_Navigation_Container" width="20%" valign="top">
+
+                        <table align="center" width="100%" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <!-- For WordPress CSS Import -->
+                                    <div id="IdeaScale_Navigation_Sidebar">
+                                        
+
+
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+<div align="center">
+    <a id="NewIdeaButton"
+       href="javascript:ajaxInlinePopup('NewIdeaButton', '/akira/showCreateTopic.do')">
+        <img alt="New Idea"
+             src="/images/ideascale/new_idea.png"
+             border="0"></img>
+    </a>
+</div>
+
+
+  
+    
+
+
+
+
+
+<h3>Categories</h3>
+<ul class="notice">
+  <li><a href="/akira/panel.do?id=4049"><span id="NavigationAll">All (1185)</span></a></li>
+  
+  
+    
+    <li>
+      <b>1. Transparency</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2236"><span id="NavigationCategory_2236">Making Data More Accessible (111)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2237"><span id="NavigationCategory_2237">Making Government Operations More Open (183)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2238"><span id="NavigationCategory_2238">Records Management (46)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>2. Participation</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2242"><span id="NavigationCategory_2242">New Strategies and Techniques (170)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2243"><span id="NavigationCategory_2243">New Tools and Technologies (73)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2244"><span id="NavigationCategory_2244">Federal Advisory Committees (15)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2245"><span id="NavigationCategory_2245">Rulemaking (34)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>3. Collaboration</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2246"><span id="NavigationCategory_2246">Between Federal Agencies (22)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2247"><span id="NavigationCategory_2247">Between Federal, State, and Local Governments (48)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2248"><span id="NavigationCategory_2248">Public-Private Partnerships (38)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2249"><span id="NavigationCategory_2249">Do-It-Yourself Government (13)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>4. Capacity Building</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2250"><span id="NavigationCategory_2250">Hiring &amp; Recruitment (26)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2251"><span id="NavigationCategory_2251">Performance Appraisal (22)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2252"><span id="NavigationCategory_2252">Training and Development (41)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2253"><span id="NavigationCategory_2253">Communications Strategies (27)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2254"><span id="NavigationCategory_2254">Strategic Planning and Budgeting (42)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>5. Legal &amp; Policy Challenges</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2294"><span id="NavigationCategory_2294">Legal &amp; Policy Challenges (150)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>Uncategorized</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2255"><span id="NavigationCategory_2255">Uncategorized (124)</span></a></li>        
+        
+      </ul>      
+  
+  
+</ul>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+    <tr>
+        <td align="center">
+            <br/> <br/> <br/>
+
+            <table  cellspacing="0" cellpadding="0"><tr><td style="background:url('/images/btn_left.gif') no-repeat;" height="25" class="buttonLeft"></td><td style="background:url('/images/btn_center.gif') repeat-x;" height="25" align="center" class="buttonCenter">
+                <div id="SubscribeFooter">
+                    <a style="text-decoration:none" href="/akira/ideafactoryStats.do">
+                        Subscribe
+                        &nbsp; &nbsp; &nbsp;
+
+                        <img alt="Mail" class="iconLink" src="/images/iconshock/mail_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="Twitter" class="iconLink" src="/images/iconshock/twitter_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="RSS" class="iconLink" src="/images/iconshock/rss_16.gif" border="0">&nbsp;
+                    </a>
+                </div>
+            </td><td style="background:url('/images/btn_right.gif') no-repeat;" height="25" class="buttonRight"></td></tr></table>
+
+            <div style="font-size:.8em" align="center" id="IdeaFactoryStats">
+	      
+
+
+
+
+
+<a href="/akira/ideafactoryStats.do">
+  1185&nbsp;Ideas,&nbsp;2428&nbsp;Comments,&nbsp;49K&nbsp;Votes&nbsp;&raquo;
+</a>
+ 
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+
+
+
+                                        
+
+                                        
+                                        <div align="center" style="margin-top: 15px;">
+                                            <a href="http://www.ideascale.com"
+                                               title="Idea Management"
+                                               border="0"><img border="0"
+                                                               src="/images/ideascale-poweredby-160.png"></img></a>
+                                        </div>
+                                        
+
+                                        
+                                        <div style="height: 50px;"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+
+                    </TD>
+                    <TD width="80%" valign="top">
+
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+<tr> 
+  <td valign="top">
+    <a href="/akira/panel.do?id=4049">&laquo;&nbsp;Back To Open Government Brainstorm</a>
+  </td>
+  <td valign="top" align="right">
+    
+  </td>
+</tr>
+</table>
+
+    <div id="AlertMessage" align="center">
+      
+    </div>
+
+
+
+
+<table width="100%">
+<tr>
+  <td valign="top">  
+  <div class="contentPadding">
+  
+  <div id="IdeaScale_IdeaTitle">Give Citizens a Simple Checklist for Rating "Public Engagement"</div>
+  <table width="100%">
+  <tr>
+    <td valign="top">
+    <div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/3860-4049">Stephen Buckley</a></b> <span class="IdeaScale_SecondaryText">7 days ago</span></div>
+    </td>
+    <td align="right">
+      
+
+
+
+
+
+    <div>
+      
+
+
+      
+
+      
+        <span id="FlagIdea"><a class="iconLink" href="javascript:ajaxInlinePopup('FlagIdea', '/akira/flagDiscussionTopic.do?ID=2789')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Flag</a></span>
+      
+
+      
+
+    </div>
+
+    </td>
+  </tr>
+  </table>
+    
+
+
+  <div id="DiscussionTopicText_2789">
+    
+
+
+
+
+
+  <div style="float:left; margin:3px;">
+      <div id="DiscussionTopicVote_2789">
+        <div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2789', '/akira/discussionVote.do?dbid=2251&topicID=2789&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 62</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_2789'))" style="text-decoration:none;" id="TopicVote_2789" href="javascript:Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 62</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_2789'))">57</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2789', '/akira/discussionVote.do?dbid=2251&topicID=2789&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+      </div>  
+  </div>
+
+  
+
+
+  When I attend a meeting that is supposed to involve some type of "public engagement", it would be nice to have a simple checklist that I could use to rate whether that meeting really was Transparent, Participatory, and Collaborative.<br/><br/>This simple checklist could be the standard tool for citizens to provide feedback to government agencies about the quality of their public engagement activities.  In fact, the requirement for federal department and agencies to "solicit public feedback" about their public engagement is mentioned three (3) times in President Obama's Memorandum on Transparent and Open Government.<br/><br/>The checklist could contain simple "Yes/No" questions, along these lines:<br/><br/>"Was it Transparent?"<br/><br/>--> At some public meetings, it is not clear what is being discussed.  Even if the meeting's agenda is available, the actual proposal or other documents being discussed are not made available to the public.<br/>[Transparent? Check "No".]<br/><br/>"Was it Participatory?"<br/><br/>--> At some public meetings, members of the public are allowed to attend, but are not given an opportunity to ask questions and comment on the proposal being discussed.<br/>[Participatory? Check "No".]<br/><br/>"Was it Collaborative?"<br/><br/>--> Even when a public meeting allows for public *feedback* on a proposal, it may have skipped over the step for public *input* could have shaped the proposal differently.<br/>[Collaborative? Check "No".]<br/><br/>Of course, different citizens can have different judgements about the very same meeting.  But, just like a "customer survey", a review of the collected checklists should provide some objective evidence about the quality of public engagement.<br/><br/>ALSO, this standard checklist should be developed and promoted by government agencies - now - in order to gauge their current effort *before* they attempt improvements.  Otherwise, they won't know - later on - if they are doing any better. (You know: it's like weighing yourself *before* the diet.)<br/><br/>[NOTE: The League of Women Voters (LWV) have some local chapters with an "Observer Corps" that use checklists to rate public meetings.  However, different chapters have developed different formats.  The LWV's experience would be helpful in creating a federal checklist for "citizen observers".] 
+
+  <h3>Why Is This Idea Important?</h3><div>Citizens need a clear and simple way (i.e., a checklist) to let government officials know whether "public engagement" is working. 
+
+It will NOT be simple and clear to citizens if different government departments and agencies create a plethora of ways for citizens to judge their success regarding "public engagement".
+
+respectfully,
+Stephen Buckley
+www.UStransparency.com</div>
+
+  </div>
+
+  <div style="clear:both"><div>
+
+  <div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;">Idea # 285</span><span id="DiscussionTopicTag_2789"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=transparent">transparent</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=collaborative">collaborative</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=participatory">participatory</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=checklist">checklist</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=measure">measure</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=judge">judge</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=rate">rate</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public">public</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=input">input</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=feedback">feedback</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=obama">obama</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=league of women voters">league of women voters</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=solicit">solicit</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=customer">customer</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=survey">survey</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=standard">standard</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=tool">tool</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public engagement">public engagement</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=observer">observer</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=observer corps">observer corps</a></span></div>  
+
+  
+
+
+  <div id="IdeaScale_SectionHeader">Comments</div>  
+
+  
+
+
+  <div id="DiscussionTopicComment_2789">
+    
+
+
+
+
+
+<table width="100%">
+
+
+  <tr id="row_1913" onmouseover="showDiv('CommentBar_1913');" onmouseout="hideDiv('CommentBar_1913')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/0-4049">Johnruuu</a></b>
+          <span class="IdeaScale_SecondaryText">6 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_1913" style="display:none;">
+
+      
+      <span id="FlagComment_1913">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_1913', '/akira/flagDiscussionComment.do?topicID=2789&commentID=1913')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      U r working under the KISS principal and I like that!
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_1948" onmouseover="showDiv('CommentBar_1948');" onmouseout="hideDiv('CommentBar_1948')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/0-4049">bluesky222</a></b>
+          <span class="IdeaScale_SecondaryText">6 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_1948" style="display:none;">
+
+      
+      <span id="FlagComment_1948">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_1948', '/akira/flagDiscussionComment.do?topicID=2789&commentID=1948')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      I think this is a great idea!  At many local government meetings the staff outnumbers the "public".  And, when the Brown Act is used, it is used to the benefit of the government agenda - not to the inclusion of the public as an equal partner in contribution and solution seeking.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_2622" onmouseover="showDiv('CommentBar_2622');" onmouseout="hideDiv('CommentBar_2622')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/4031-4049">Nicholas Dewar</a></b>
+          <span class="IdeaScale_SecondaryText">3 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_2622" style="display:none;">
+
+      
+      <span id="FlagComment_2622">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_2622', '/akira/flagDiscussionComment.do?topicID=2789&commentID=2622')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      Stephen, this is a good idea. <br/>For ideas of how to compose the checklist, have a look at the posting "Ask Federal Agencies to Adopt the Core Principles for Public Engagement". If these principles are being followed, the meeting is probably on-track.<br/><br/>	
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_2977" onmouseover="showDiv('CommentBar_2977');" onmouseout="hideDiv('CommentBar_2977')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/6222-4049">baldocchi</a></b>
+          <span class="IdeaScale_SecondaryText">2 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_2977" style="display:none;">
+
+      
+      <span id="FlagComment_2977">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_2977', '/akira/flagDiscussionComment.do?topicID=2789&commentID=2977')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      I am concerned on the potential means of dissemination of the checklist and the gathering of data after. With the imminent demise of many newspapers and the TV media becoming less and less influential, how are you planning to reach the public at large. Public meetings are much too limited.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_3062" onmouseover="showDiv('CommentBar_3062');" onmouseout="hideDiv('CommentBar_3062')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/3860-4049">Stephen Buckley</a></b>
+          <span class="IdeaScale_SecondaryText">1 day ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_3062" style="display:none;">
+
+      
+      <span id="FlagComment_3062">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_3062', '/akira/flagDiscussionComment.do?topicID=2789&commentID=3062')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      Dear fellow "Idea" brainstormers and commentors:<br/><br/>For news and moderated discussion (public, but unofficial) about the <br/>continuing development and implementation of the "Open Government <br/>Directive", you are invited to either:<br/><br/>1. send mailto:opengovernmentdirective+subscribe@googlegroups.com<br/><br/>2. visit http://groups.google.com/group/opengovernmentdirective<br/><br/>NOTE:  Because I am posting this to the Comment section of some<br/>(but not all) Ideas, you may see this message more than once.  <br/>I apologize for that.<br/><br/>vr,<br/>Stephen Buckley<br/>http://www.UStransparency.com<br/>
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_3063" onmouseover="showDiv('CommentBar_3063');" onmouseout="hideDiv('CommentBar_3063')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/3860-4049">Stephen Buckley</a></b>
+          <span class="IdeaScale_SecondaryText">1 day ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_3063" style="display:none;">
+
+      
+      <span id="FlagComment_3063">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_3063', '/akira/flagDiscussionComment.do?topicID=2789&commentID=3063')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      Nicholas,<br/><br/>Yes, I know about the "Principles of Public Engagement".  I was on the "core team" that drafted them.  However, even though I endorsed them, I do not consider them as providing more specifics to federal employees than the President's Memo already has.  Basically, it's just more adjectives.<br/><br/>When the President says he wants federal agencies to be "more" (transparent, participatory, collaborative), federal employees just wants to know how much "more", and how do they measure "more"? That's the type of direction that will go OpenGov Directive. (I used to work with federal directive systems.)
+
+                  
+    </td>
+  </tr>
+
+</table>
+
+
+
+    
+    <ul class="noimage">
+      <li>
+        <a class="iconLink" href="javascript:ajaxLink('PostComment_2789', '/akira/postComment.do?dbid=2251&topicID=2789&mode=add-comment-show')"><img alt="Add New" class="iconLink" src="/images/iconshock/add_16.gif" border="0">&nbsp;Post New Comment</a>
+
+        <div id="PostComment_2789"></div>
+      </li>
+    </ul>      
+    
+
+
+  </div>
+
+  
+
+  
+
+
+
+
+
+
+<div id="IdeaScale_SectionHeader">Related Topics/Ideas</div>
+<table width="100%" class="grid">
+<tr class="channelHeader">
+  <td width="100"></td>
+  <td>Title</td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">303</div><div><a href="http://opengov.ideascale.com/akira/dtd/2510-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/2510-4049">Ask Federal Agencies to Adopt the Core Principles for Public Engagement</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=participation">participation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=engagement">engagement</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=d&d">d&d</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=dialogue">dialogue</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public engagement">public engagement</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=ncdd">ncdd</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=principles">principles</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">26</div><div><a href="http://opengov.ideascale.com/akira/dtd/2693-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/2693-4049">Let's Be Clear on the Terminology about "Public Engagement"</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=terminology">terminology</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=term">term</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=define">define</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=definition">definition</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=transparent">transparent</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=clarification">clarification</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=clear">clear</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=clarify">clarify</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=buzzwords">buzzwords</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=engagement">engagement</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=implement">implement</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=implementation">implementation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=participation">participation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=collaboration">collaboration</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">125</div><div><a href="http://opengov.ideascale.com/akira/dtd/2698-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/2698-4049">Utilize the NCDD network for facilitators, consultants and training</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2252">Training and Development</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public engagement">public engagement</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=d&d">d&d</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=dialogue">dialogue</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=deliberation">deliberation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=ncdd">ncdd</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=training">training</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=facilitation">facilitation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=resources">resources</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">-11</div><div><a href="http://opengov.ideascale.com/akira/dtd/2700-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/2700-4049">~The World, As I, We, You May See It: The Strive For The Concept Of </a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=happiness">happiness</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=security">security</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=reason">reason</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=taxes">taxes</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=farming">farming</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=war">war</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=famine">famine</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=help">help</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=community">community</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=children">children</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=education">education</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=obama">obama</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=money">money</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=economy">economy</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">-25</div><div><a href="http://opengov.ideascale.com/akira/dtd/2767-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/2767-4049">The World, As I, We, You May See It:  The Strive For The Concept Of "Happiness" And How To Usefully Maintain It (Written In Resp</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2252">Training and Development</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=happiness">happiness</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=security">security</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=reason">reason</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=taxes">taxes</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=farming">farming</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=war">war</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=famine">famine</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=help">help</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=community">community</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=children">children</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=education">education</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=obama">obama</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=money">money</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=economy">economy</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">30</div><div><a href="http://opengov.ideascale.com/akira/dtd/2809-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/2809-4049">Require agencies to document key activities</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2238">Records Management</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=records">records</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=documentation">documentation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=preservation">preservation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=creation">creation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=standard">standard</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">21</div><div><a href="http://opengov.ideascale.com/akira/dtd/2893-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/2893-4049">COMMUNITY WEAVING AMERICA</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=community weaving">community weaving</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=democracy">democracy</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=neighbors">neighbors</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=neighborhoods">neighborhoods</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=family support network">family support network</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=family">family</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=network">network</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=support">support</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=community">community</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=capacity building">capacity building</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=asset-based community building">asset-based community building</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=resiliency">resiliency</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=community">community</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=support">support</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=social services">social services</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=agencies">agencies</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=transform">transform</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=change">change</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=citizen involvement">citizen involvement</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public engagement">public engagement</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=open and transparent government">open and transparent government</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=justice">justice</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=civility">civility</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=civil rights">civil rights</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=empowerment">empowerment</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=equity">equity</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=equitable">equitable</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=economy">economy</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=community weaving">community weaving</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">33</div><div><a href="http://opengov.ideascale.com/akira/dtd/2895-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/2895-4049">a Citizen Councilor Network: scaleable, manageable, measureable</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2243">New Tools and Technologies</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=new strategies and techniques">new strategies and techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=participation">participation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=engagement">engagement</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=d&d">d&d</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=dialogue">dialogue</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public engagement">public engagement</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=ncdd">ncdd</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=iap2">iap2</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=principles">principles</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=citizen councilor">citizen councilor</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=community forums">community forums</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=king county">king county</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=forum foundation">forum foundation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=seattle">seattle</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">2</div><div><a href="http://opengov.ideascale.com/akira/dtd/2903-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/2903-4049">Diverse Ldrs/Citizens Address Pivotal Issues & Co-Create Sustainable Solutions thru Orbits of Influence Global Social Innovation</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=dialogue">dialogue</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=co-creative">co-creative</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=collaborate">collaborate</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=collaborative">collaborative</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=co-creative">co-creative</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=self-organize">self-organize</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=systems">systems</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=citizens">citizens</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=civic">civic</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=discourse">discourse</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=issues">issues</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=sustainable">sustainable</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=orbits of influence">orbits of influence</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=global">global</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=innovate">innovate</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=innovation">innovation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=scalable">scalable</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=governance">governance</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">-9</div><div><a href="http://opengov.ideascale.com/akira/dtd/2905-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/2905-4049">Diverse Ldrs/Citizens Address Pivotal Issues & Co-Create Sustainable Solutions thru Orbits of Influence Global Social Innovation</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2248">Public-Private Partnerships</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=dialogue">dialogue</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=co-creative">co-creative</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=collaborate">collaborate</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=collaborative">collaborative</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=co-creative">co-creative</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=self-organize">self-organize</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=systems">systems</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=citizens">citizens</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=civic">civic</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=discourse">discourse</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=issues">issues</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=sustainable">sustainable</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=orbits of influence">orbits of influence</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=global">global</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=innovate">innovate</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=innovation">innovation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=scalable">scalable</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=governance">governance</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">24</div><div><a href="http://opengov.ideascale.com/akira/dtd/2929-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/2929-4049">"MyGov.gov" --> Customized to What Affects YOU</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=participation">participation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=mygov">mygov</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=mygov.gov">mygov.gov</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=myregulations">myregulations</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=federal register">federal register</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=collaboration">collaboration</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public notice">public notice</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=decisionmaking">decisionmaking</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=feedback">feedback</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=input">input</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public proposals">public proposals</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=notification">notification</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=usajobs">usajobs</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=usajobs.com">usajobs.com</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=alert">alert</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=email-alert">email-alert</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=semantic">semantic</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=semantic web">semantic web</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=web3.0">web3.0</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=web 3.0">web 3.0</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=nepa">nepa</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=apa">apa</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=proposal">proposal</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=proposed action">proposed action</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=customize">customize</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=customization">customization</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=customer-centric">customer-centric</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=citizen-centric">citizen-centric</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=customer">customer</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=citizen">citizen</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=portal">portal</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">24</div><div><a href="http://opengov.ideascale.com/akira/dtd/2929-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/2929-4049">"MyGov.gov" --> Customized to What Affects YOU</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=participation">participation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=mygov">mygov</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=mygov.gov">mygov.gov</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=myregulations">myregulations</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=federal register">federal register</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=collaboration">collaboration</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public notice">public notice</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=decisionmaking">decisionmaking</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=feedback">feedback</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=input">input</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public proposals">public proposals</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=notification">notification</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=usajobs">usajobs</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=usajobs.com">usajobs.com</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=alert">alert</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=email-alert">email-alert</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=semantic">semantic</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=semantic web">semantic web</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=web3.0">web3.0</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=web 3.0">web 3.0</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=nepa">nepa</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=apa">apa</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=proposal">proposal</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=proposed action">proposed action</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=customize">customize</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=customization">customization</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=customer-centric">customer-centric</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=citizen-centric">citizen-centric</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=customer">customer</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=citizen">citizen</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=portal">portal</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">24</div><div><a href="http://opengov.ideascale.com/akira/dtd/2929-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/2929-4049">"MyGov.gov" --> Customized to What Affects YOU</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=participation">participation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=mygov">mygov</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=mygov.gov">mygov.gov</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=myregulations">myregulations</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=federal register">federal register</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=collaboration">collaboration</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public notice">public notice</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=decisionmaking">decisionmaking</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=feedback">feedback</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=input">input</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public proposals">public proposals</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=notification">notification</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=usajobs">usajobs</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=usajobs.com">usajobs.com</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=alert">alert</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=email-alert">email-alert</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=semantic">semantic</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=semantic web">semantic web</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=web3.0">web3.0</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=web 3.0">web 3.0</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=nepa">nepa</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=apa">apa</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=proposal">proposal</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=proposed action">proposed action</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=customize">customize</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=customization">customization</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=customer-centric">customer-centric</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=citizen-centric">citizen-centric</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=customer">customer</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=citizen">citizen</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=portal">portal</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">-1</div><div><a href="http://opengov.ideascale.com/akira/dtd/3033-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/3033-4049">Governance Reform</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2254">Strategic Planning and Budgeting</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=governance">governance</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=reform">reform</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=ethics">ethics</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=integrity">integrity</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=presidency">presidency</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=constitution">constitution</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public">public</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">10</div><div><a href="http://opengov.ideascale.com/akira/dtd/3038-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/3038-4049">Redirect Secret Intelligence Toward Open Democratic Intelligence</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2254">Strategic Planning and Budgeting</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=intelligence">intelligence</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=strategy">strategy</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=reform">reform</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=secrecy">secrecy</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=open">open</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=openness">openness</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public">public</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=decision-support">decision-support</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">8</div><div><a href="http://opengov.ideascale.com/akira/dtd/3065-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/3065-4049">Free Obama (No Kidding)</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2254">Strategic Planning and Budgeting</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=obama">obama</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=freedom">freedom</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=liberty">liberty</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=constitution">constitution</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=congress">congress</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=electoral reform">electoral reform</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=elections">elections</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=empowerment">empowerment</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=lobbyists">lobbyists</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=wall street">wall street</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=federal reserve">federal reserve</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=democratic mafia">democratic mafia</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=republican mafia">republican mafia</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=integrity">integrity</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">3</div><div><a href="http://opengov.ideascale.com/akira/dtd/3098-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/3098-4049">"Media Dome" + Interactive Displays of Public Intelligence + Public Input for Decision Support</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=media domes">media domes</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=open source intelligence">open source intelligence</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=osint">osint</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public">public</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=entertainment">entertainment</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=social tech">social tech</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=participation">participation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=data viz">data viz</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=data visualization">data visualization</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=gis">gis</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=geographic information systems">geographic information systems</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=mobile">mobile</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=video">video</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=decision-support">decision-support</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=budget-spending">budget-spending</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=citizen intelligence">citizen intelligence</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=collective intelligence">collective intelligence</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=open source democracy">open source democracy</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=policy-making">policy-making</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">11</div><div><a href="http://opengov.ideascale.com/akira/dtd/3251-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/3251-4049">FAQ and Help pages for OGD site</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=feedback">feedback</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">24</div><div><a href="http://opengov.ideascale.com/akira/dtd/3268-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/3268-4049">Measures to track, report, and improve government transparency and openness</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=measures">measures</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=measurement">measurement</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=results">results</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=performance">performance</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=accountability">accountability</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=success">success</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=progress">progress</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=feedback">feedback</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=reporting">reporting</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=publishing">publishing</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=improve">improve</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=continuous improvement">continuous improvement</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">5</div><div><a href="http://opengov.ideascale.com/akira/dtd/3290-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/3290-4049">Tax Payer Bailout</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=money">money</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=obama">obama</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=bail">bail</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=out">out</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=bailout">bailout</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">87</div><div><a href="http://opengov.ideascale.com/akira/dtd/3299-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/3299-4049">Develop and Implement a National Strategy for Sustainability</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=sustainability">sustainability</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=multi-stakeholder">multi-stakeholder</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=goals">goals</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=principles">principles</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=guidelines">guidelines</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=collaboration">collaboration</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=democracy">democracy</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=participatory">participatory</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=sustainable business practices">sustainable business practices</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=education">education</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=restoration">restoration</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=natural resources">natural resources</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=regeneration">regeneration</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=stewardship">stewardship</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">45</div><div><a href="http://opengov.ideascale.com/akira/dtd/3363-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/3363-4049">Rejuvenate the Public Transportation</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=trains">trains</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=bus">bus</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=traffic">traffic</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public">public</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=jobs">jobs</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">77</div><div><a href="http://opengov.ideascale.com/akira/dtd/3381-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/3381-4049">Get Public Officials to Think about and Comment on Transparency before they are Elected </a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=voters guides">voters guides</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=league of women voters">league of women voters</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=candidates">candidates</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">67</div><div><a href="http://opengov.ideascale.com/akira/dtd/3382-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/3382-4049">Public TRUST in Government Needs to be Restored</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public confidence">public confidence</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public trust">public trust</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=league of women voters">league of women voters</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">80</div><div><a href="http://opengov.ideascale.com/akira/dtd/3386-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/3386-4049">Grassroots Leadership on Civic Participation</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=grassroots">grassroots</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=citizen participation">citizen participation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=local government">local government</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=league of women voters">league of women voters</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">7</div><div><a href="http://opengov.ideascale.com/akira/dtd/3495-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/3495-4049">Anonymous evaluation system</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=anonymous">anonymous</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=evaluation">evaluation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=feedback">feedback</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=accountability">accountability</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">1</div><div><a href="http://opengov.ideascale.com/akira/dtd/3530-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/3530-4049">Internal Work, Psychology, and Wholeness</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2243">New Tools and Technologies</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=mind-body">mind-body</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=psychology">psychology</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=centering">centering</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=breath">breath</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=integral">integral</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=whole-systems">whole-systems</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=participatory">participatory</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=paradigm">paradigm</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">5</div><div><a href="http://opengov.ideascale.com/akira/dtd/3676-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/3676-4049">Utilize former Advisory Board Members</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2244">Federal Advisory Committees</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public">public</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">12</div><div><a href="http://opengov.ideascale.com/akira/dtd/3709-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/3709-4049">Focus on objectives, not alternatives</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=decision processes ahp structure">decision processes ahp structure</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=measure">measure</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=synthesize">synthesize</a></div>
+  </td>
+</tr>
+
+</table>
+
+
+
+
+  
+    
+
+
+
+
+
+
+  <div id="IdeaScale_SectionHeader">Activity Chart</div>
+  <div>
+    <object width="450" height="300" ><param name="movie" value="/images/fusionchart/Pie3D.swf"></param><param name="wmode" value="transparent"></param><param name="allowScriptAccess" value="always"></param><param name="flashvars" value="debugMode=0&amp;dataXML=<chart showPercentValues='1' palatte='2'><set label='Vote Up' value='62'/><set isSliced='1' label='Vote Down' value='5'/></chart>"></param><embed src="/images/fusionchart/Pie3D.swf" type="application/x-shockwave-flash" wmode="transparent" flashvars="debugMode=0&amp;dataXML=<chart showPercentValues='1' palatte='2'><set label='Vote Up' value='62'/><set isSliced='1' label='Vote Down' value='5'/></chart>" allowScriptAccess="always" width="450" height="300"></embed></object>
+  </div>
+
+
+  
+
+
+
+  </td>
+  <td width="200" valign="top" style="padding-left:10px;">
+  
+
+     
+
+      
+
+
+      
+      <div style="padding-top:10px;">
+        
+
+
+
+
+
+<div id="IdeaScale_WidgetHeader">Users Activity</div>
+<div id="IdeaScale_WidgetText">
+  <table>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4316-4049">
+      vivek.bhaskaran
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/7397-4049">
+      mftobin
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/7348-4049">
+      rosemayguignard
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/7230-4049">
+      mickie_hodis
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/7068-4049">
+      susanloucks
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6641-4049">
+      hummingbirdtoo
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6944-4049">
+      bonner.patricia
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4649-4049">
+      inboxrr-xtra1
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6633-4049">
+      helen
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4814-4049">
+      connellyt
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  </table>
+</div>
+
+
+
+
+  
+      </div>
+      
+
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+    
+
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+   <div id="IdeaScale_Footer">
+   <div style="background-color:#E8E8E8; height:20px;"></div>
+
+<div id="CO_Footer" style="height:200px;">Powered By <a href="http://www.ideascale.com" target="_BLANK"><strong>IdeaScale</strong></a> and the <a href="http://www.napawash.org" target="_BLANK"><strong>National Academy of Public Administration</strong></a>
+
+<p><a href="http://www.napawash.org" target="_BLANK"><img src="http://www.ideascale.com//userimages/sub-1/595334/NAPA_Logo_pagebottom.png" alt="National Academy of Public Administration" border=0 width="188" height="76"></a></p>
+
+<p style="width:80%;margin: 15px auto;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">All feedback received through the Open Government Dialogue</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+
+</div>
+
+   </div>
+
+
+
+</td></tr></table>
+
+
+
+  
+
+
+
+
+
+<table width="100%" id="IdeaScale_Theme_Footer" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="center" valign="top">
+    Copyright &copy; 2009 
+
+    &nbsp;&nbsp;
+    <a href="/">Home</a> 
+    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=contact">Contact</a> 
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=widget">Widgets</a>    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=api">Developers</a>    
+    
+    <!--
+     &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=feedback">Feedback</a>
+    -->
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var wpcomPageTracker = _gat._getTracker("UA-5056819-3");
+wpcomPageTracker._initData();
+wpcomPageTracker._trackPageview();
+</script>
+
+
+
+
+
+
+
+
+
+<div class="shadowedBox" id="shadowedBox" style="display:none;">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+          <td class="drop a"></td>
+          <td class="drop b"></td>
+          <td style="width: 623px;" class="drop c"></td>
+          <td class="drop d"></td>
+          <td class="drop e"></td>
+        </tr>
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        
+        <tr valign="top">
+          <td class="drop p">
+            <div>&nbsp;</div>
+          </td>
+          <td style="width: 663px;" class="shadowedBoxBody" rowspan="3">
+            <div align="right">
+            <a class="iconLink" href="javascript:closeInlinePopup('shadowedBox')"><img alt="Delete" class="iconLink" src="/images/iconshock/delete_16.gif" border="0">&nbsp;Close</a>
+            </div>
+            <div id="shadowedBoxBody">
+            </div>
+          </td>
+          <td class="drop f">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop o">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop g">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop n">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop h">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+    
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+            <td class="drop m"></td>
+            <td class="drop l"></td>
+            <td style="width: 623px;" class="drop k "></td>
+            <td class="drop j"></td>
+            <td class="drop i"></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+<table bgcolor="#ffffff"  border="0" cellpadding="0" cellspacing="0" style="display:none;">
+
+  <!-- Content | Right DS -->
+  <tr>
+    <td valign="top"> 
+      <div id="contentEnclosingDivID" style="position: absolute; background-color: #ffffff; display:none;z-index:2;" >
+
+      <!-- ContentTable -->
+      <table id="contentTableID" class="simpleBorder" style="height:300;width:500;" border="0" cellpadding="0" cellspacing="0">
+        <!-- close popup row -->
+        <tr>
+          <td align="right" valign="top">
+            <a href="javascript:closeLiteInlinePopup();">Close</a>
+          </td>
+        </tr>
+        <!-- Content Row -->
+        <tr>
+          <td valign="top">
+            <div id="contentDivID"></div>
+          </td>
+        </tr>
+      </table>
+      <!-- End Content Table -->
+      
+      </div>
+    </td>
+
+    <!-- Right DS -->
+    <td width="10" valign="top" height="100%">
+      <div id="rightShadowDivID" class="transparent" style="position:absolute;display:none;width:10;none;z-index:1;">
+      </div>
+    </td>
+  
+  </tr>
+
+  <!-- Bottom DS -->
+  <tr>
+    <td colspan="2">
+      <div id="bottomShadowDivID" class="transparent" style="position:absolute;display:none;height:10;display:none;z-index:1;">
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+
+</body>
+
+</html>
+
+

@@ -1,0 +1,169 @@
+
+
+
+
+
+
+
+
+<!-- START /jsp/portal/header.jsp -->
+<html>
+<head>
+    <title></title>
+    <script language="JavaScript" SRC="http://www.ideascale.com/javascript/global.js?version=1"></script>
+    <script language="JavaScript" SRC="http://www.ideascale.com/javascript/dojo/dojo.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://www.ideascale.com/stylesheets/common.css"/>
+    <link rel="stylesheet" type="text/css" href="http://www.ideascale.com/stylesheets/sitestyle.css">
+</head>
+
+<BODY style="background: #707070 url(/images/qp_gutter.gif) repeat-y center; padding: 0; margin:0;">
+<TABLE WIDTH="700" ALIGN="CENTER">
+  <TR> 
+    <TD>
+
+<!-- END /jsp/portal/header.jsp -->
+
+
+<TABLE width="400" style="padding:0px;border;0px;"><TR><TD><DIV CLASS="headingMedium">Invalid Link</DIV><TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0"><TR><TD CLASS="darkstroke" width="100%" style="padding:3px;">
+<div class="error">
+The link you have clicked is invalid. There could be multiple reasons for this : 
+<ul>
+  <li>Make sure you copy/paste the <i>entire url</i></li>
+  <li>The sender of the email message has cancelled his account</li>
+</ul>
+</div>
+
+<ul class="notice">
+  <li><a href="/">Home</a>
+</ul>
+
+</TD><TD style="padding-top:5px;height:100%;" align="right"><div style="border-left:3px solid #cccccc;height:100%;"></div></TD></TR><TR><TD colspan="2" style="padding-left:5px;"><div style="border-top:3px solid #cccccc;width:100%;"></div></TD></TR></TABLE></TD></TR></TABLE>
+
+
+
+
+
+
+<!--Close up the hard width table from run/header.jsp-->
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+
+
+<div class="shadowedBox" id="shadowedBox" style="display:none;">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+          <td class="drop a"></td>
+          <td class="drop b"></td>
+          <td style="width: 623px;" class="drop c"></td>
+          <td class="drop d"></td>
+          <td class="drop e"></td>
+        </tr>
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        
+        <tr valign="top">
+          <td class="drop p">
+            <div>&nbsp;</div>
+          </td>
+          <td style="width: 663px;" class="shadowedBoxBody" rowspan="3">
+            <div align="right">
+            <a class="iconLink" href="javascript:closeInlinePopup('shadowedBox')"><img alt="Delete" class="iconLink" src="/images/iconshock/delete_16.gif" border="0">&nbsp;Close</a>
+            </div>
+            <div id="shadowedBoxBody">
+            </div>
+          </td>
+          <td class="drop f">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop o">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop g">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop n">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop h">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+    
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+            <td class="drop m"></td>
+            <td class="drop l"></td>
+            <td style="width: 623px;" class="drop k "></td>
+            <td class="drop j"></td>
+            <td class="drop i"></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+<table bgcolor="#ffffff"  border="0" cellpadding="0" cellspacing="0" style="display:none;">
+
+  <!-- Content | Right DS -->
+  <tr>
+    <td valign="top"> 
+      <div id="contentEnclosingDivID" style="position: absolute; background-color: #ffffff; display:none;z-index:2;" >
+
+      <!-- ContentTable -->
+      <table id="contentTableID" class="simpleBorder" style="height:300;width:500;" border="0" cellpadding="0" cellspacing="0">
+        <!-- close popup row -->
+        <tr>
+          <td align="right" valign="top">
+            <a href="javascript:closeLiteInlinePopup();">Close</a>
+          </td>
+        </tr>
+        <!-- Content Row -->
+        <tr>
+          <td valign="top">
+            <div id="contentDivID"></div>
+          </td>
+        </tr>
+      </table>
+      <!-- End Content Table -->
+      
+      </div>
+    </td>
+
+    <!-- Right DS -->
+    <td width="10" valign="top" height="100%">
+      <div id="rightShadowDivID" class="transparent" style="position:absolute;display:none;width:10;none;z-index:1;">
+      </div>
+    </td>
+  
+  </tr>
+
+  <!-- Bottom DS -->
+  <tr>
+    <td colspan="2">
+      <div id="bottomShadowDivID" class="transparent" style="position:absolute;display:none;height:10;display:none;z-index:1;">
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+
+
+</body>
+</html>
+

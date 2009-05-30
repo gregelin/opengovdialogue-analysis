@@ -1,0 +1,873 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>Foreign Aid Database - by IdeaScale</title>
+
+    <!--[if lt IE 7.]>
+    <script defer type="text/javascript" src="/javascript/pngfix.js"></script>
+    <![endif]-->
+
+    <script language="JavaScript" SRC="/javascript/global.js?version=1"></script>
+
+    <link rel="stylesheet" type="text/css" href="/stylesheets/common.css"/>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/sitestyle.css"/>
+
+
+    
+        
+        <link rel="stylesheet" type="text/css"
+              href="/stylesheets/themes/clean_blue.css">
+        
+
+    
+
+    
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0"
+          href="http://www.ideascale.com//userimages/sub-1/595334/ideascale_4049.xml"/>
+    
+
+</head>
+
+<body id="IdeaScale_Body">
+
+    
+
+    
+    
+    
+
+
+<table id="IdeaScale_Layout" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+
+        <td>
+
+
+                
+                <div align=center style="height:130px;*height:155px;overflow:hidden;border-top:25px solid #E8E8E8">
+<a href="http://opengov.ideascale.com"><img src="http://www.ideascale.com//userimages/sub-1/595334/opengov-banner.png" alt="Open Government Dialogue" border="0"/></a>
+</div>
+<style type="text/css">
+#IdeaScale_Navigation_Container{background:#F6F6F6 url(http://www.ostp.gov/galleries/default-image/bg_sidebar.gif) no-repeat;width:204px;border:1px solid #D1D1D1;}
+#ideaScale_CategoryTitle, h3{color:#003399;}
+p{color:#333;}
+a.IdeaScale_SelectedMenu{background:#003399 !important;color:#FFF;}
+a:hover.IdeaScale_SelectedMenu{color:#FFF;}
+
+#CO_Footer {
+    display: block;
+    color: #A0A0A0;
+    border-top: 1px solid #BABABA;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 11px;
+    background: #E8E8E8;
+}
+
+h3{
+font-style: italic;
+font-weight:bold;
+line-height:130%;
+color: #770000;
+font-family: Georgia, serif;
+}
+
+h4{
+background: #FFFFFF;
+color: black;
+border-top: solid 1px slategray;
+border-bottom: solid 1px slategray;
+text-align:center;
+font-size:14px;
+font-weight:bold;
+font-style:italic;
+margin: 5px 0 0 0;
+padding: 2px 0;
+}
+
+.questions{
+font-size:12px;
+font-style: italic;
+font-weight:bold;
+color: #770000;
+font-family: Georgia, serif;
+margin:0px;
+}
+
+.top input.largeBox{
+width: 210px;
+}
+</style>
+                
+
+                
+
+            <div id="IdeaScale_Header"></div>
+
+                
+
+            <TABLE id="IdeaScale_MainContent" cellspacing="0" cellpadding="0" align="center">
+                <TR>
+                    <TD id="IdeaScale_Navigation_Container" width="20%" valign="top">
+
+                        <table align="center" width="100%" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <!-- For WordPress CSS Import -->
+                                    <div id="IdeaScale_Navigation_Sidebar">
+                                        
+
+
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+<div align="center">
+    <a id="NewIdeaButton"
+       href="javascript:ajaxInlinePopup('NewIdeaButton', '/akira/showCreateTopic.do')">
+        <img alt="New Idea"
+             src="/images/ideascale/new_idea.png"
+             border="0"></img>
+    </a>
+</div>
+
+
+  
+    
+
+
+
+
+
+<h3>Categories</h3>
+<ul class="notice">
+  <li><a href="/akira/panel.do?id=4049"><span id="NavigationAll">All (1186)</span></a></li>
+  
+  
+    
+    <li>
+      <b>1. Transparency</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2236"><span id="NavigationCategory_2236">Making Data More Accessible (111)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2237"><span id="NavigationCategory_2237">Making Government Operations More Open (183)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2238"><span id="NavigationCategory_2238">Records Management (46)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>2. Participation</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2242"><span id="NavigationCategory_2242">New Strategies and Techniques (170)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2243"><span id="NavigationCategory_2243">New Tools and Technologies (73)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2244"><span id="NavigationCategory_2244">Federal Advisory Committees (15)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2245"><span id="NavigationCategory_2245">Rulemaking (34)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>3. Collaboration</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2246"><span id="NavigationCategory_2246">Between Federal Agencies (22)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2247"><span id="NavigationCategory_2247">Between Federal, State, and Local Governments (48)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2248"><span id="NavigationCategory_2248">Public-Private Partnerships (38)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2249"><span id="NavigationCategory_2249">Do-It-Yourself Government (13)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>4. Capacity Building</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2250"><span id="NavigationCategory_2250">Hiring &amp; Recruitment (26)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2251"><span id="NavigationCategory_2251">Performance Appraisal (22)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2252"><span id="NavigationCategory_2252">Training and Development (41)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2253"><span id="NavigationCategory_2253">Communications Strategies (27)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2254"><span id="NavigationCategory_2254">Strategic Planning and Budgeting (42)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>5. Legal &amp; Policy Challenges</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2294"><span id="NavigationCategory_2294">Legal &amp; Policy Challenges (150)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>Uncategorized</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2255"><span id="NavigationCategory_2255">Uncategorized (125)</span></a></li>        
+        
+      </ul>      
+  
+  
+</ul>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+    <tr>
+        <td align="center">
+            <br/> <br/> <br/>
+
+            <table  cellspacing="0" cellpadding="0"><tr><td style="background:url('/images/btn_left.gif') no-repeat;" height="25" class="buttonLeft"></td><td style="background:url('/images/btn_center.gif') repeat-x;" height="25" align="center" class="buttonCenter">
+                <div id="SubscribeFooter">
+                    <a style="text-decoration:none" href="/akira/ideafactoryStats.do">
+                        Subscribe
+                        &nbsp; &nbsp; &nbsp;
+
+                        <img alt="Mail" class="iconLink" src="/images/iconshock/mail_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="Twitter" class="iconLink" src="/images/iconshock/twitter_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="RSS" class="iconLink" src="/images/iconshock/rss_16.gif" border="0">&nbsp;
+                    </a>
+                </div>
+            </td><td style="background:url('/images/btn_right.gif') no-repeat;" height="25" class="buttonRight"></td></tr></table>
+
+            <div style="font-size:.8em" align="center" id="IdeaFactoryStats">
+	      
+
+
+
+
+
+<a href="/akira/ideafactoryStats.do">
+  1186&nbsp;Ideas,&nbsp;2428&nbsp;Comments,&nbsp;49K&nbsp;Votes&nbsp;&raquo;
+</a>
+ 
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+
+
+
+                                        
+
+                                        
+                                        <div align="center" style="margin-top: 15px;">
+                                            <a href="http://www.ideascale.com"
+                                               title="Idea Management"
+                                               border="0"><img border="0"
+                                                               src="/images/ideascale-poweredby-160.png"></img></a>
+                                        </div>
+                                        
+
+                                        
+                                        <div style="height: 50px;"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+
+                    </TD>
+                    <TD width="80%" valign="top">
+
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+<tr> 
+  <td valign="top">
+    <a href="/akira/panel.do?id=4049">&laquo;&nbsp;Back To Open Government Brainstorm</a>
+  </td>
+  <td valign="top" align="right">
+    
+  </td>
+</tr>
+</table>
+
+    <div id="AlertMessage" align="center">
+      
+    </div>
+
+
+
+
+<table width="100%">
+<tr>
+  <td valign="top">  
+  <div class="contentPadding">
+  
+  <div id="IdeaScale_IdeaTitle">Foreign Aid Database</div>
+  <table width="100%">
+  <tr>
+    <td valign="top">
+    <div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4366-4049">m.macneil</a></b> <span class="IdeaScale_SecondaryText">5 days ago</span></div>
+    </td>
+    <td align="right">
+      
+
+
+
+
+
+    <div>
+      
+
+
+      
+
+      
+        <span id="FlagIdea"><a class="iconLink" href="javascript:ajaxInlinePopup('FlagIdea', '/akira/flagDiscussionTopic.do?ID=2994')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Flag</a></span>
+      
+
+      
+
+    </div>
+
+    </td>
+  </tr>
+  </table>
+    
+
+
+  <div id="DiscussionTopicText_2994">
+    
+
+
+
+
+
+  <div style="float:left; margin:3px;">
+      <div id="DiscussionTopicVote_2994">
+        <div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2994', '/akira/discussionVote.do?dbid=2237&topicID=2994&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 days ago</div><div>Votes For : 32</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_2994'))" style="text-decoration:none;" id="TopicVote_2994" href="javascript:Bubble.showTip('<div>Idea Created : 5 days ago</div><div>Votes For : 32</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_2994'))">25</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2994', '/akira/discussionVote.do?dbid=2237&topicID=2994&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+      </div>  
+  </div>
+
+  
+
+
+  <br/>This is a suggestion from a private citizen about improving foreign aid operations.  In general I am suggesting increased transparency and coordination.  Specifically this boils down to an itemized list of all the aid projects currently being carried out in the world.  The list should include the location where the project is being carried out, what aid agency or charity organization is behind it, and the nature of the project (whether it is for food security, water, healthcare, etc.).  USAID, of course, already has this information for its own projects.  Yet it should also have a list of what other aid agencies and charity organizations are doing.  Such a listing is necessary for USAID to choose its own development projects appropriately.  It needs to know what development projects are being carried out by other donors, what projects are being planned by other donors, and what areas are being neglected.  In a recent research report done for the World Bank, it is stated that improved allocation of aid could double aid’s effectiveness.  ( http://econ.worldbank.org/external/default/main?pagePK=64165259&theSitePK=469382&piPK=64165421&menuPK=64166093&entityID=00000948620040521170827 )  In these times of economic downturn such a savings should not be wasted.<br/><br/>One doesn’t really need to argue that such a database would be a valuable asset.  I doubt that anyone would seriously question the cost effectiveness of accurate foreign aid data.  Yet, such a comprehensive listing of aid projects is still missing.  If it does exist, it is being kept from the public’s view.  Curiously, this seems to be standard performance for all of the aid agencies in the world.  For example, not one of the other 30 OECD donor countries, nor the World Bank, nor the United Nations have collected this data either.  This data is not particularly hard to get.  Each donor nation individually keeps records of their own activities, as do the many private charity organizations.  Much of the information is probably publicly available.  It remains, however, for someone to assemble all the data in one place so that everyone can benefit.  It is inconceivable to me that foreign aid agencies around the world currently go about their businesses independently, without checking to see what the others are doing.  It must then be impossible for a nation to plan ahead effectively, since it doesn’t have access to the other nations’ plans.  Also, the many private charities need to have access to this information.  In order to plan their own activities effectively, they too need to know what the other donors are doing.  However, since private charities are unable to compile this data, they are dependent on the government providing it for them. <br/><br/>Such a comprehensive listing of aid projects should be available on a country by country basis, as well as regionally, and it must definitely be accessible by the public.  This would provide invaluable assistance to the many charities that work abroad and it would educate the people at the same time.  People would be able to see at a glance how much is being done in any given country, what types of projects are being carried out, which organizations are directing them, and (importantly) to whom they might send a donation if they wanted.  It would also be very useful for foreign policymakers to be able to easily view the foreign aid situation in any region of the world.  Policy analysts would be able to to critique operations for waste and corruption.  And, of course, it would assist foreign aid agencies around the world in coordinating their actions and accomplishing their objectives.<br/><br/>One plausible explanation for why such a useful database does not exist, and one which I hope is not true, is that corrupt special interests profit from a lack of transparency.  For instance, I have heard it said that half of America’s foreign assistance budget is spent on its own “advisors” and not necessarily on development.  It is also commonly stated that recipient nations can be quite corrupt themselves.  Perhaps it is the lobbying activities of these beneficiaries of the current system which prevent meaningful reforms in accountability and transparency.  All the more reason, then, to firmly establish a coordination database.  This will shine as much light as possible on the misuse of foreign aid dollars.  As standard procedure every government agency should strive to be as transparent and accountable as possible, and there is no reason why foreign aid needs to be an exception.<br/><br/>An additional and perhaps overlooked consequence of improved transparency and coordination is the potential impact this would have on private donations.  Although the role of private donors in fighting global poverty is often downplayed, yet in America alone private citizens donate billions of dollars each year.  According to Charity Navigator, of the $306 billion Americans donated in 2007, $13.2 billion went to international charities.  ( http://www.charitynavigator.org/index.cfm?bay=content.view&cpid=42 )   This is a sizable sum which significantly augments the foreign aid budget.  If it were possible for Americans to see exactly what is and is not being done to end global poverty, that sum might increase significantly.  Currently there are a great many misconceptions about poverty in this country, and a coordination database would change that.<br/><br/>The importance of a well-informed public on this issue cannot be overstated.  As of now, even the barest fundamentals are very often misunderstood.  One common misconception is that eradicating poverty is very expensive.  For example, few people probably can state how much it would cost to feed all the hungry people of the world.  The answer exists, however:  according to the World Food Program there are 923 million people without enough to eat.   ( http://www.wfp.org/aboutwfp/facts/index.asp?section=1&sub_section=5 )  At 35 cents per person per day all year round, that comes to just under $118 billion per year.  (That figure comes from WFP’s 2005 budget of $2.9 billion for 4.2 million metric tonnes and an average ration of ½ kilogram per day—see previous link.)  Given a total annual world GDP of over $65 trillion, that’s less than ¼ of one percent of the world’s income.  ( https://www.cia.gov/library/publications/the-world-factbook/index.html ).  These are exactly the types of statistics that an aid database would bring to light.  Most Americans, though, have never seen these figures.  They don’t know how relatively cheap ending hunger actually is.<br/><br/>To pursue this point even further, let’s look at the statistics for the other components of poverty.  For example: <br/><br/>Water:  The World Health Organization has estimated $136.5 billion (probably more) per year for 10 years to provide in-house piped water supply and in-house sewerage connection for the entire world. ( http://www.who.int/water_sanitation_health/wsh0404summary/en/index.html )<br/>Healthcare:  The World Health Organization Commission on Macroeconomics and Health has estimated that in order to deliver a set of basic healthcare interventions to the entire world it would cost $27 billion per year starting in 2007, increasing up to $38 billion per year in 2015. ( http://www.who.int/macrohealth/infocentre/advocacy/en/investinginhealth02052003.pdf<br/>Education:  The United Nations Educational, Scientific and Cultural Organization tells us $11 billion a year in foreign aid is required to provide primary education to every child in the world.  ( http://unesdoc.unesco.org/images/0014/001477/147785E.pdf )<br/>Electricity:  The United Nations Development Program and the World Energy Assessment tell us that if we want to provide electricity to the whole planet, $165 billion a year is required.  ( http://www.undp.org/energy/weaover2004.htm and also:  http://www.energyandenvironment.undp.org/undp/indexAction.cfm?module=Library&action=GetFile&DocumentAttachmentID=2210 )<br/><br/>An aid database such as I am describing would allow all these sums to be documented and statistically broken down for public viewing.  All together these figures add up to $468.5 billion per year for the first ten years and drop dramatically thereafter.  That’s less that one percent of the world’s income:  hardly an insurmountable obstacle.  If one wanted to, one could even err heavily on the conservative side and still be well within range.  One could allocate $200 billion each for food, water and electricity, $100 billion for education/healthcare and even throw in another $100 billion for roads and home building materials.  All this would still add up to only $800 billion per year—about 1.25 percent of the world’s GDP.  Ten years later a lot of the infrastructure would be finished and the clean water supply would yield more food and less disease.  At that point the totals would come down considerably.  According to the data given here, to fully eradicate poverty in 10 to 20 years the world only needs donate about one percent of its annual income.  I doubt that even a majority of Congress is aware of this statistic, let alone a majority of the American public.<br/><br/>The point to all these numbers is that ending global poverty is amazingly affordable.  Yet, no one seems to realize this simple fact.  It is a goal entirely within our reach and in fact could have been accomplished decades ago.  The world needs to know this.  If Americans in general possessed an adequate understanding of the relative costs of eradicating global poverty, things would change dramatically.  A detailed database showing what is and is not being done to help the world’s poor would go a long way toward that goal.  As of now though, the vast majority of Americans have never seen these types of statistics.  Much more needs to be done to educate the electorate on this most important issue.  Americans have a right to know where the world stands in the fight against global poverty.<br/><br/>The fact that Americans have a lot of misconceptions about foreign aid has been documented.  The Program on International Policy Attitudes (PIPA) conducts in depth studies of public opinion.  ( http://www.pipa.org/ )   One of its findings has continued to be that Americans vastly overestimate the amount of money the federal government spends on foreign aid.  In fact, the median amount the public estimates is 20% of the federal budget.  This is more than twenty times the actual amount.  ( http://www.worldpublicopinion.org/pipa/articles/btdevelopmentaidra/135.php?lb=btda&pnt=135&nid=&id= )  Not surprisingly, many people feel that this should be “reduced” to just ten percent.  The actual figures, however, are quite different.  According to the OECD, in 2007 donor nations gave a combined total of just 0.28 percent of their gross national income.  ( http://www.oecd.org/dataoecd/27/55/40381862.pdf )  America, notably dead last out of 22 nations tallied, gave 0.16 percent of its per capita income.  Meanwhile, the internationally agreed upon target all along has been 0.7 percent.  ( http://www.unmillenniumproject.org/press/07.htm )  The goal of 0.7 percent was first pledged over 35 years ago, in 1970, at the United Nations.  It has been affirmed many times over the years, and again as part of the Millennium Development Goals, but still has never been attained.  These figures are in stark contrast with public opinion.<br/><br/>Given the amount that most Americans think is being contributed, and the amount that they think ought to be contributed, it’s quite likely that many Americans would be very angry if they knew what really is being contributed.  Certainly no one opposes a well-informed public.  But turning that ideal into a reality requires some action.  The government must do its part by compiling and publishing relevant aid data.  There is no excuse for not having accurate information.  A detailed foreign aid database is truly a necessity for effective foreign aid policy.  The fact that private charity organizations have to do without this vital tool is equally indefensible.  Again, their activities effectively augment the foreign aid budget by billions of dollars every year.  To force them to do their work “in the dark”, so to speak,  is pure waste.<br/><br/>For all these reasons, I am asking that you, the reader of this letter, personally do your part in making this project a reality.  Please advocate to the appropriate policymaker the sensibility of a detailed foreign aid database.  It could double the effectiveness of foreign aid.  It could lead to billions of dollars more in private donations.  It could drastically reduce corruption and the misuse of foreign aid dollars.  It would certainly help educate the public on this very important social issue.  And, it would cost very little to implement.  Most of the data already exists, it is simply a matter of putting it all one place.  One might even look at it as nothing more than effective record keeping.  Finally, though I’m sure it sounds cliché-ish, if nothing else do it for the children.  Your efforts might save a life somewhere.  Thank you very much for your time.<br/><br/>   <br/><br/>
+
+  <h3>Why Is This Idea Important?</h3><div>Few ideas are as important as helping the poor.</div>
+
+  </div>
+
+  <div style="clear:both"><div>
+
+  <div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;">Idea # 460</span><span id="DiscussionTopicTag_2994"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a></span></div>  
+
+  
+
+
+  <div id="IdeaScale_SectionHeader">Comments</div>  
+
+  
+
+
+  <div id="DiscussionTopicComment_2994">
+    
+
+
+
+
+
+<table width="100%">
+
+
+  <tr id="row_2443" onmouseover="showDiv('CommentBar_2443');" onmouseout="hideDiv('CommentBar_2443')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/4614-4049">earthintelnet</a></b>
+          <span class="IdeaScale_SecondaryText">3 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_2443" style="display:none;">
+
+      
+      <span id="FlagComment_2443">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_2443', '/akira/flagDiscussionComment.do?topicID=2994&commentID=2443')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      I recently read from the UN noon briefing (http://www.un.org/News/ossg/hilites.htm) last week that medical syringes and food aid for Somalia was stolen and destroyed by "militia."<br/><br/>No details beyond that were given. The reason I bring this up is the need for the inclusion of these kinds of incidents into such an aid database.<br/><br/>Stolen and destroyed aid must be found out as to what were the factors that allowed such an incident, how to prevent this, and bringing those involved to justice.<br/><br/>Jason Liszkiewicz<br/>Executive Director,<br/>Earth Intelligence Network(501c3)<br/>Public Intelligence in the Public Interest<br/>www.earth-intelligence.net<br/>http://twitter.com/earthintelnet<br/>http://youtube.com/earthintelnet
+
+                  
+    </td>
+  </tr>
+
+</table>
+
+
+
+    
+    <ul class="noimage">
+      <li>
+        <a class="iconLink" href="javascript:ajaxLink('PostComment_2994', '/akira/postComment.do?dbid=2237&topicID=2994&mode=add-comment-show')"><img alt="Add New" class="iconLink" src="/images/iconshock/add_16.gif" border="0">&nbsp;Post New Comment</a>
+
+        <div id="PostComment_2994"></div>
+      </li>
+    </ul>      
+    
+
+
+  </div>
+
+  
+
+  
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+  <div id="IdeaScale_SectionHeader">Activity Chart</div>
+  <div>
+    <object width="450" height="300" ><param name="movie" value="/images/fusionchart/Pie3D.swf"></param><param name="wmode" value="transparent"></param><param name="allowScriptAccess" value="always"></param><param name="flashvars" value="debugMode=0&amp;dataXML=<chart showPercentValues='1' palatte='2'><set label='Vote Up' value='32'/><set isSliced='1' label='Vote Down' value='7'/></chart>"></param><embed src="/images/fusionchart/Pie3D.swf" type="application/x-shockwave-flash" wmode="transparent" flashvars="debugMode=0&amp;dataXML=<chart showPercentValues='1' palatte='2'><set label='Vote Up' value='32'/><set isSliced='1' label='Vote Down' value='7'/></chart>" allowScriptAccess="always" width="450" height="300"></embed></object>
+  </div>
+
+
+  
+
+
+
+  </td>
+  <td width="200" valign="top" style="padding-left:10px;">
+  
+
+     
+
+      
+
+
+      
+      <div style="padding-top:10px;">
+        
+
+
+
+
+
+<div id="IdeaScale_WidgetHeader">Users Activity</div>
+<div id="IdeaScale_WidgetText">
+  <table>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/7765-4049">
+      absiebert
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/8401-4049">
+      sellswor
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/8120-4049">
+      rdittmann
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4107-4049">
+      elrocnad
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/7437-4049">
+      dancoup
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6436-4049">
+      chwalker.org
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/5643-4049">
+      greg
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6242-4049">
+      janeth.welch
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6221-4049">
+      kathy.dopp
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/5691-4049">
+      joeo
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  </table>
+</div>
+
+
+
+
+  
+      </div>
+      
+
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+    
+
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+   <div id="IdeaScale_Footer">
+   <div style="background-color:#E8E8E8; height:20px;"></div>
+
+<div id="CO_Footer" style="height:200px;">Powered By <a href="http://www.ideascale.com" target="_BLANK"><strong>IdeaScale</strong></a> and the <a href="http://www.napawash.org" target="_BLANK"><strong>National Academy of Public Administration</strong></a>
+
+<p><a href="http://www.napawash.org" target="_BLANK"><img src="http://www.ideascale.com//userimages/sub-1/595334/NAPA_Logo_pagebottom.png" alt="National Academy of Public Administration" border=0 width="188" height="76"></a></p>
+
+<p style="width:80%;margin: 15px auto;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">All feedback received through the Open Government Dialogue</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+
+</div>
+
+   </div>
+
+
+
+</td></tr></table>
+
+
+
+  
+
+
+
+
+
+<table width="100%" id="IdeaScale_Theme_Footer" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="center" valign="top">
+    Copyright &copy; 2009 
+
+    &nbsp;&nbsp;
+    <a href="/">Home</a> 
+    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=contact">Contact</a> 
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=widget">Widgets</a>    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=api">Developers</a>    
+    
+    <!--
+     &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=feedback">Feedback</a>
+    -->
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var wpcomPageTracker = _gat._getTracker("UA-5056819-3");
+wpcomPageTracker._initData();
+wpcomPageTracker._trackPageview();
+</script>
+
+
+
+
+
+
+
+
+
+<div class="shadowedBox" id="shadowedBox" style="display:none;">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+          <td class="drop a"></td>
+          <td class="drop b"></td>
+          <td style="width: 623px;" class="drop c"></td>
+          <td class="drop d"></td>
+          <td class="drop e"></td>
+        </tr>
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        
+        <tr valign="top">
+          <td class="drop p">
+            <div>&nbsp;</div>
+          </td>
+          <td style="width: 663px;" class="shadowedBoxBody" rowspan="3">
+            <div align="right">
+            <a class="iconLink" href="javascript:closeInlinePopup('shadowedBox')"><img alt="Delete" class="iconLink" src="/images/iconshock/delete_16.gif" border="0">&nbsp;Close</a>
+            </div>
+            <div id="shadowedBoxBody">
+            </div>
+          </td>
+          <td class="drop f">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop o">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop g">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop n">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop h">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+    
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+            <td class="drop m"></td>
+            <td class="drop l"></td>
+            <td style="width: 623px;" class="drop k "></td>
+            <td class="drop j"></td>
+            <td class="drop i"></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+<table bgcolor="#ffffff"  border="0" cellpadding="0" cellspacing="0" style="display:none;">
+
+  <!-- Content | Right DS -->
+  <tr>
+    <td valign="top"> 
+      <div id="contentEnclosingDivID" style="position: absolute; background-color: #ffffff; display:none;z-index:2;" >
+
+      <!-- ContentTable -->
+      <table id="contentTableID" class="simpleBorder" style="height:300;width:500;" border="0" cellpadding="0" cellspacing="0">
+        <!-- close popup row -->
+        <tr>
+          <td align="right" valign="top">
+            <a href="javascript:closeLiteInlinePopup();">Close</a>
+          </td>
+        </tr>
+        <!-- Content Row -->
+        <tr>
+          <td valign="top">
+            <div id="contentDivID"></div>
+          </td>
+        </tr>
+      </table>
+      <!-- End Content Table -->
+      
+      </div>
+    </td>
+
+    <!-- Right DS -->
+    <td width="10" valign="top" height="100%">
+      <div id="rightShadowDivID" class="transparent" style="position:absolute;display:none;width:10;none;z-index:1;">
+      </div>
+    </td>
+  
+  </tr>
+
+  <!-- Bottom DS -->
+  <tr>
+    <td colspan="2">
+      <div id="bottomShadowDivID" class="transparent" style="position:absolute;display:none;height:10;display:none;z-index:1;">
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+
+</body>
+
+</html>
+
+

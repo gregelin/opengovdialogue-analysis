@@ -1,0 +1,1419 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>Who Owns the Media? - by IdeaScale</title>
+
+    <!--[if lt IE 7.]>
+    <script defer type="text/javascript" src="/javascript/pngfix.js"></script>
+    <![endif]-->
+
+    <script language="JavaScript" SRC="/javascript/global.js?version=1"></script>
+
+    <link rel="stylesheet" type="text/css" href="/stylesheets/common.css"/>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/sitestyle.css"/>
+
+
+    
+        
+        <link rel="stylesheet" type="text/css"
+              href="/stylesheets/themes/clean_blue.css">
+        
+
+    
+
+    
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0"
+          href="http://www.ideascale.com//userimages/sub-1/595334/ideascale_4049.xml"/>
+    
+
+</head>
+
+<body id="IdeaScale_Body">
+
+    
+
+    
+    
+    
+
+
+<table id="IdeaScale_Layout" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+
+        <td>
+
+
+                
+                <div align=center style="height:130px;*height:155px;overflow:hidden;border-top:25px solid #E8E8E8">
+<a href="http://opengov.ideascale.com"><img src="http://www.ideascale.com//userimages/sub-1/595334/opengov-banner.png" alt="Open Government Dialogue" border="0"/></a>
+</div>
+<style type="text/css">
+#IdeaScale_Navigation_Container{background:#F6F6F6 url(http://www.ostp.gov/galleries/default-image/bg_sidebar.gif) no-repeat;width:204px;border:1px solid #D1D1D1;}
+#ideaScale_CategoryTitle, h3{color:#003399;}
+p{color:#333;}
+a.IdeaScale_SelectedMenu{background:#003399 !important;color:#FFF;}
+a:hover.IdeaScale_SelectedMenu{color:#FFF;}
+
+#CO_Footer {
+    display: block;
+    color: #A0A0A0;
+    border-top: 1px solid #BABABA;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 11px;
+    background: #E8E8E8;
+}
+
+h3{
+font-style: italic;
+font-weight:bold;
+line-height:130%;
+color: #770000;
+font-family: Georgia, serif;
+}
+
+h4{
+background: #FFFFFF;
+color: black;
+border-top: solid 1px slategray;
+border-bottom: solid 1px slategray;
+text-align:center;
+font-size:14px;
+font-weight:bold;
+font-style:italic;
+margin: 5px 0 0 0;
+padding: 2px 0;
+}
+
+.questions{
+font-size:12px;
+font-style: italic;
+font-weight:bold;
+color: #770000;
+font-family: Georgia, serif;
+margin:0px;
+}
+
+.top input.largeBox{
+width: 210px;
+}
+</style>
+                
+
+                
+
+            <div id="IdeaScale_Header"></div>
+
+                
+
+            <TABLE id="IdeaScale_MainContent" cellspacing="0" cellpadding="0" align="center">
+                <TR>
+                    <TD id="IdeaScale_Navigation_Container" width="20%" valign="top">
+
+                        <table align="center" width="100%" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <!-- For WordPress CSS Import -->
+                                    <div id="IdeaScale_Navigation_Sidebar">
+                                        
+
+
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+<div align="center">
+    <a id="NewIdeaButton"
+       href="javascript:ajaxInlinePopup('NewIdeaButton', '/akira/showCreateTopic.do')">
+        <img alt="New Idea"
+             src="/images/ideascale/new_idea.png"
+             border="0"></img>
+    </a>
+</div>
+
+
+  
+    
+
+
+
+
+
+<h3>Categories</h3>
+<ul class="notice">
+  <li><a href="/akira/panel.do?id=4049"><span id="NavigationAll">All (1186)</span></a></li>
+  
+  
+    
+    <li>
+      <b>1. Transparency</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2236"><span id="NavigationCategory_2236">Making Data More Accessible (111)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2237"><span id="NavigationCategory_2237">Making Government Operations More Open (183)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2238"><span id="NavigationCategory_2238">Records Management (46)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>2. Participation</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2242"><span id="NavigationCategory_2242">New Strategies and Techniques (170)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2243"><span id="NavigationCategory_2243">New Tools and Technologies (73)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2244"><span id="NavigationCategory_2244">Federal Advisory Committees (15)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2245"><span id="NavigationCategory_2245">Rulemaking (34)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>3. Collaboration</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2246"><span id="NavigationCategory_2246">Between Federal Agencies (22)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2247"><span id="NavigationCategory_2247">Between Federal, State, and Local Governments (48)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2248"><span id="NavigationCategory_2248">Public-Private Partnerships (38)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2249"><span id="NavigationCategory_2249">Do-It-Yourself Government (13)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>4. Capacity Building</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2250"><span id="NavigationCategory_2250">Hiring &amp; Recruitment (26)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2251"><span id="NavigationCategory_2251">Performance Appraisal (22)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2252"><span id="NavigationCategory_2252">Training and Development (41)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2253"><span id="NavigationCategory_2253">Communications Strategies (27)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2254"><span id="NavigationCategory_2254">Strategic Planning and Budgeting (42)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>5. Legal &amp; Policy Challenges</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2294"><span id="NavigationCategory_2294">Legal &amp; Policy Challenges (150)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>Uncategorized</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2255"><span id="NavigationCategory_2255">Uncategorized (125)</span></a></li>        
+        
+      </ul>      
+  
+  
+</ul>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+    <tr>
+        <td align="center">
+            <br/> <br/> <br/>
+
+            <table  cellspacing="0" cellpadding="0"><tr><td style="background:url('/images/btn_left.gif') no-repeat;" height="25" class="buttonLeft"></td><td style="background:url('/images/btn_center.gif') repeat-x;" height="25" align="center" class="buttonCenter">
+                <div id="SubscribeFooter">
+                    <a style="text-decoration:none" href="/akira/ideafactoryStats.do">
+                        Subscribe
+                        &nbsp; &nbsp; &nbsp;
+
+                        <img alt="Mail" class="iconLink" src="/images/iconshock/mail_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="Twitter" class="iconLink" src="/images/iconshock/twitter_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="RSS" class="iconLink" src="/images/iconshock/rss_16.gif" border="0">&nbsp;
+                    </a>
+                </div>
+            </td><td style="background:url('/images/btn_right.gif') no-repeat;" height="25" class="buttonRight"></td></tr></table>
+
+            <div style="font-size:.8em" align="center" id="IdeaFactoryStats">
+	      
+
+
+
+
+
+<a href="/akira/ideafactoryStats.do">
+  1186&nbsp;Ideas,&nbsp;2429&nbsp;Comments,&nbsp;49K&nbsp;Votes&nbsp;&raquo;
+</a>
+ 
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+
+
+
+                                        
+
+                                        
+                                        <div align="center" style="margin-top: 15px;">
+                                            <a href="http://www.ideascale.com"
+                                               title="Idea Management"
+                                               border="0"><img border="0"
+                                                               src="/images/ideascale-poweredby-160.png"></img></a>
+                                        </div>
+                                        
+
+                                        
+                                        <div style="height: 50px;"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+
+                    </TD>
+                    <TD width="80%" valign="top">
+
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+<tr> 
+  <td valign="top">
+    <a href="/akira/panel.do?id=4049">&laquo;&nbsp;Back To Open Government Brainstorm</a>
+  </td>
+  <td valign="top" align="right">
+    
+  </td>
+</tr>
+</table>
+
+    <div id="AlertMessage" align="center">
+      
+    </div>
+
+
+
+
+<table width="100%">
+<tr>
+  <td valign="top">  
+  <div class="contentPadding">
+  
+  <div id="IdeaScale_IdeaTitle">Who Owns the Media?</div>
+  <table width="100%">
+  <tr>
+    <td valign="top">
+    <div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/5389-4049">tttahiti</a></b> <span class="IdeaScale_SecondaryText">2 days ago</span></div>
+    </td>
+    <td align="right">
+      
+
+
+
+
+
+    <div>
+      
+
+
+      
+
+      
+        <span id="FlagIdea"><a class="iconLink" href="javascript:ajaxInlinePopup('FlagIdea', '/akira/flagDiscussionTopic.do?ID=3276')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Flag</a></span>
+      
+
+      
+
+    </div>
+
+    </td>
+  </tr>
+  </table>
+    
+
+
+  <div id="DiscussionTopicText_3276">
+    
+
+
+
+
+
+  <div style="float:left; margin:3px;">
+      <div id="DiscussionTopicVote_3276">
+        <div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3276', '/akira/discussionVote.do?dbid=2255&topicID=3276&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 2 days ago</div><div>Votes For : 61</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_3276'))" style="text-decoration:none;" id="TopicVote_3276" href="javascript:Bubble.showTip('<div>Idea Created : 2 days ago</div><div>Votes For : 61</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_3276'))">52</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3276', '/akira/discussionVote.do?dbid=2255&topicID=3276&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+      </div>  
+  </div>
+
+  
+
+
+  We need to create a constitutional amendment separating the major media from the corporations, like the separation of church and state.  Ok, that's a bit complicated and would take decades.  <br/><br/>In the meantime, we need some anti-monopoly rules.  And I want ownership to be limited to real people with names rather than some obscure entity that's impossible to trace.   <br/><br/>We also need a system that would allow ordinary people to find out <br/>WHO OWNS THE MEDIA.  Like the ingredients and nutritional information on the back of a cereal box, I want to know what I'm feeding my mind and my children's minds.  Who owns it, and who owns the owner.
+
+  <h3>Why Is This Idea Important?</h3><div>We need a free and independent media that allows journalists to tell the truth for a change.</div>
+
+  </div>
+
+  <div style="clear:both"><div>
+
+  <div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;">Idea # 664</span><span id="DiscussionTopicTag_3276"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a></span></div>  
+
+  
+
+
+  <div id="IdeaScale_SectionHeader">Comments</div>  
+
+  
+
+
+  <div id="DiscussionTopicComment_3276">
+    
+
+
+
+
+
+<table width="100%">
+
+
+  <tr id="row_2709" onmouseover="showDiv('CommentBar_2709');" onmouseout="hideDiv('CommentBar_2709')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/4140-4049">carrick.baugh</a></b>
+          <span class="IdeaScale_SecondaryText">2 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_2709" style="display:none;">
+
+      
+      <span id="FlagComment_2709">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_2709', '/akira/flagDiscussionComment.do?topicID=3276&commentID=2709')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      Look at my idea post titled "Tool for tracking personal news/media consumption habits, and ownership of those outlets." It is in the "Uncategorized" category, idea entry #400 overall.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_2713" onmouseover="showDiv('CommentBar_2713');" onmouseout="hideDiv('CommentBar_2713')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/5389-4049">tttahiti</a></b>
+          <span class="IdeaScale_SecondaryText">2 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_2713" style="display:none;">
+
+      
+      <span id="FlagComment_2713">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_2713', '/akira/flagDiscussionComment.do?topicID=3276&commentID=2713')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      Actually, it's idea #401.<br/>Good one!  I gave it a thumbs-up.<br/>It's not the same, but closely related.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_2753" onmouseover="showDiv('CommentBar_2753');" onmouseout="hideDiv('CommentBar_2753')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/5646-4049">luvwith</a></b>
+          <span class="IdeaScale_SecondaryText">2 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_2753" style="display:none;">
+
+      
+      <span id="FlagComment_2753">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_2753', '/akira/flagDiscussionComment.do?topicID=3276&commentID=2753')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      We must have public financing of campaigns...period! <br/><br/>I know you think you don't want to pay for it...but you already ARE! <br/><br/>Every no bid contract, every unpaid royalty on an oil lease, every blocked piece of legislation that is supported by the majority because some committee head is paid off or intimidated into inaction, every blocked investigation...YOU PAY AND PAY AND PAY!<br/><br/>You pay hundreds of times what you would to finance campaigns in A CORRUPTION SURCHARGE!<br/><br/>WHERE DO THEY SPEND THAT MONEY THEY GET FROM CAMPAIGN CONTRIBUTIONS? THE MEDIA!!!<br/><br/>Do you suppose there is any connection between that and the absolute media exclusion of third party candidates? HELLO!!!
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_2800" onmouseover="showDiv('CommentBar_2800');" onmouseout="hideDiv('CommentBar_2800')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/5603-4049">hispickup.andtractor</a></b>
+          <span class="IdeaScale_SecondaryText">2 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_2800" style="display:none;">
+
+      
+      <span id="FlagComment_2800">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_2800', '/akira/flagDiscussionComment.do?topicID=3276&commentID=2800')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      Who owns Media is exactly one of the points of view I explained to Mr President Obama a few days ago.Media is in 2009 more powerful than the Education boards and top level authorities: when PhDs in Education find a way to solve problems from children and teens daily life,Media shows more and more corrupted easy ways to live a nasty life which results are against their schools,parents and Educational research.Maybe I am wrong maybe no but I feel like Jews don't help America to create a clean cosmopolitan country unless everybody falls onto their knees to kiss their David Star not the Cosmos stars.Who Owns the Media?
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_2834" onmouseover="showDiv('CommentBar_2834');" onmouseout="hideDiv('CommentBar_2834')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/5389-4049">tttahiti</a></b>
+          <span class="IdeaScale_SecondaryText">2 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_2834" style="display:none;">
+
+      
+      <span id="FlagComment_2834">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_2834', '/akira/flagDiscussionComment.do?topicID=3276&commentID=2834')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      luvwith ~ I forgot to mention that part in my Idea #664.  (“Where do they spend…campaign contributions?  The Media!!!)  <br/><br/>In my analogy, A simple list of ingredients = “Who Owns the Media.”  <br/>Nutritional information = “Who buys advertising time or otherwise influences…”  <br/>It’s more complicated, but could be summarized with a system of definitions.<br/><br/>Get a system up and running with carrick’s Idea #401 (http://opengov.ideascale.com/akira/dtd/2920-4049) then simplify it and make it accessible to the masses.<br/><br/>If anyone has a movement or website that already exists, I’d love to see a link.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_2865" onmouseover="showDiv('CommentBar_2865');" onmouseout="hideDiv('CommentBar_2865')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/3959-4049">Josh Senecal</a></b>
+          <span class="IdeaScale_SecondaryText">2 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_2865" style="display:none;">
+
+      
+      <span id="FlagComment_2865">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_2865', '/akira/flagDiscussionComment.do?topicID=3276&commentID=2865')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      Hasn't the media(s) always been private companies?<br/><br/>Updating the monopoly laws could fix this, it one of the things I meant to say in Idea 681.<br/><br/>No need for constitutional amendments.<br/><br/>http://opengov.ideascale.com/akira/dtd/3302-4049<br/>
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_2872" onmouseover="showDiv('CommentBar_2872');" onmouseout="hideDiv('CommentBar_2872')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/5389-4049">tttahiti</a></b>
+          <span class="IdeaScale_SecondaryText">2 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_2872" style="display:none;">
+
+      
+      <span id="FlagComment_2872">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_2872', '/akira/flagDiscussionComment.do?topicID=3276&commentID=2872')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      Josh (Idea #681) ~ Another good one.  I already saw it and gave it a thumbs-up.<br/><br/>What I really want to propose is a French-style revolution, but with all the poison in the water and on the airwaves, there's no way to get people off their butts.  We need a simple way to get their attention between their dashes to the fridge.  Something as accessible as the remote control or the flush button.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_2875" onmouseover="showDiv('CommentBar_2875');" onmouseout="hideDiv('CommentBar_2875')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/3959-4049">Josh Senecal</a></b>
+          <span class="IdeaScale_SecondaryText">2 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_2875" style="display:none;">
+
+      
+      <span id="FlagComment_2875">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_2875', '/akira/flagDiscussionComment.do?topicID=3276&commentID=2875')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      I am not taking you seriously about a French-style revolution, but more a romantic jest to wake up the people :) -to stop the “ooze coming out the TV set”?  But here we are on the modern tube…<br/>Also, remember to force your own opinion on another is no better –the next generation will just look at you and do the same, and here I am forcing my opinion… see the madness?<br/><br/>
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_2879" onmouseover="showDiv('CommentBar_2879');" onmouseout="hideDiv('CommentBar_2879')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/5389-4049">tttahiti</a></b>
+          <span class="IdeaScale_SecondaryText">2 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_2879" style="display:none;">
+
+      
+      <span id="FlagComment_2879">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_2879', '/akira/flagDiscussionComment.do?topicID=3276&commentID=2879')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      I'm not sure what you're saying.<br/>The current system is all about "forcing your opinion on another" and is why I want to know who owns and controls the media.<br/><br/>We once had a separation of church and state for a similar reason.<br/><br/>Nothing is going to change until the masses realize how bad things have gotten, and there's no way to get the slightest clue from the major media.<br/><br/>None of the brilliant ideas on this site are ever going to amount to anything.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_2896" onmouseover="showDiv('CommentBar_2896');" onmouseout="hideDiv('CommentBar_2896')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/5187-4049">dbaker007</a></b>
+          <span class="IdeaScale_SecondaryText">2 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_2896" style="display:none;">
+
+      
+      <span id="FlagComment_2896">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_2896', '/akira/flagDiscussionComment.do?topicID=3276&commentID=2896')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      geza tttahiti<br/><br/>The media worldwide is owed and operated by the Bilderbergs. Not some but all of them are even PBS. I think pressure could be brought to bear on CSPAN to get nightly news broadcast each night by the WTPA. The other item that could be done invite all the colleges and universities to broadcast from their location to CSPAN for their worldwide NEWS items with their VIEWS too. <br/><br/>Again the NOW word must come to play. Rupert Murdock is trying his best to take over the Internet. And the longer we hang on the more damage he can do. <br/><br/>To check out who owns the media <br/><br/>http://911review.com/denial/imgs/left_gatekeepers.gif<br/><br/>A myriad of names will appear to find out more just: <br/><br/>Google the name=neocon/tri lateral commission/bilderberg <br/>
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_3234" onmouseover="showDiv('CommentBar_3234');" onmouseout="hideDiv('CommentBar_3234')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/6591-4049">wkimbal2</a></b>
+          <span class="IdeaScale_SecondaryText">1 day ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_3234" style="display:none;">
+
+      
+      <span id="FlagComment_3234">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_3234', '/akira/flagDiscussionComment.do?topicID=3276&commentID=3234')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      There are only opion shows now no news shows. I feel CNN fell with Saddam.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_3543" onmouseover="showDiv('CommentBar_3543');" onmouseout="hideDiv('CommentBar_3543')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/5389-4049">tttahiti</a></b>
+          <span class="IdeaScale_SecondaryText">1 day ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_3543" style="display:none;">
+
+      
+      <span id="FlagComment_3543">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_3543', '/akira/flagDiscussionComment.do?topicID=3276&commentID=3543')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      All we're doing here is preaching to the choir.  My point is to get that message to the masses.  They don't read stuff like this.  They're too busy working at their crummy jobs, fighting traffic and watching American Idol.  Ranting in a place like this will never get there.  We need an easy-access way to reach Joe-Beergut.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_3552" onmouseover="showDiv('CommentBar_3552');" onmouseout="hideDiv('CommentBar_3552')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/3959-4049">Josh Senecal</a></b>
+          <span class="IdeaScale_SecondaryText">1 day ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_3552" style="display:none;">
+
+      
+      <span id="FlagComment_3552">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_3552', '/akira/flagDiscussionComment.do?topicID=3276&commentID=3552')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      And your way of life more the right way to live... because? Your job is less crummy because why? Who are you to point your finger and judge so quickly the life of others? It has made all your points invalid.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_3557" onmouseover="showDiv('CommentBar_3557');" onmouseout="hideDiv('CommentBar_3557')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/5187-4049">dbaker007</a></b>
+          <span class="IdeaScale_SecondaryText">1 day ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_3557" style="display:none;">
+
+      
+      <span id="FlagComment_3557">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_3557', '/akira/flagDiscussionComment.do?topicID=3276&commentID=3557')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      tttahiti <br/>is this better comes with a nice picture too. but will not come over this but email me at dbaker007@stx.rr.com will send it along. It will appeal to the masses have already tried or go to <br/><br/>http://www.care2.com/c2c/people/profile.html?pid=664781840 look at some of  my post <br/> <br/>TELL ME WHY WHAT WHEN HOW AND WHO?  SPENT YOUR MONEY!<br/>By Abigail David - Put your skin in the game like me. <br/><br/>Now there we all go.  That is what our laws that get through Congress and the Senate are about.  Way too much for them and us to comprehend but sad to say that is just the way our bad and going worse Federal Government works.  Our big fat checkbook and they spend like crazy.  Why just because we let them.  That is right we could call a halt to their spending spree, if we really wanted.   But, do you want to stop their spending spree? <br/><br/>What I have to say about that today is just too much mum boo jumbo.  Seems no one that goes before Congress or the Senate can answer plain and simple questions, as in the title, about money.  And when push comes to shove the ones to answer just keep on dodging. Sounds a bit like trying to get answers out of a gone wild teenager. <br/><br/>A good friend of mine sent me a bill before a State to be voted on.  My nine-year-old grandson could have done better.  What the bill finally said ---we want to spend your money for something not real sure for what---- you might get some benefits ----but that is still to be determined ---- but give us an approval to write some checks and maybe someday it might or might not all work out. <br/><br/>So what are we to do, as a people?  Easy answer --- We must have those we trust to do our legal bidding and battle for us on Capitol Hill.  And that is that. <br/><br/>We must as a coalition take our power [3 to 5 million of us] to Congress and the Senate and say boys and girls we come to have the final and most powerful vote on all issues.  So move over give us a seat or get out. <br/><br/>Now how hard would that be?  We 3 to 5 million strong can do that make monthly pledges hire our own attorneys and experts to do what we want.  We must fight the battles with lawyers on our side the best in the west.  See folks that are what lobbyist are and what they do. They wage war against us now----so to get an even chance we must do the same thing. <br/><br/>So bottom line WE MUST TAKE OUR COUNTRY BACK.  We own it not them---they are our servants just getting paid to do what we tell them to do --- but they have forgotten to whom they serve. <br/><br/>A very good cause I have pledged to support is the following putting my skin in the game, as it should be for all. Abigail David <br/><br/>THE VOICES FOR WE THE PEOPLE ADVOCATES ---WTPA for Grass Roots Actions needed for forming our own truth filled lobby in Washington DC to power push our VOICES and VOTES of the people for our rights to life in acts of equity with Justice. <br/>Dwight Baker Chairman PO BOX 7065 Eagle Pass, TX 78853 Tel/fax 1-830-773-1077 Contact E-mail dbaker007@stx.rr.com<br/><br/><br/><br/><br/><br/>
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_3567" onmouseover="showDiv('CommentBar_3567');" onmouseout="hideDiv('CommentBar_3567')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/5389-4049">tttahiti</a></b>
+          <span class="IdeaScale_SecondaryText">1 day ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_3567" style="display:none;">
+
+      
+      <span id="FlagComment_3567">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_3567', '/akira/flagDiscussionComment.do?topicID=3276&commentID=3567')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      Josh -- what the hell are you talking about?  My job stinks, too.  I said nothing about the way I live, let alone imply that it is being better.  I'm not pointing a finger at anyone but those who wrongly control the media.  That's it.  I said that the masses don't know the truth because the mass media refuses to tell the truth.  The point of this Idea #664 is to free the media and tell the truth, not to dictate any issue in particular. <br/><br/>The government is out of control and there's no way to organize and take it back without freedom of the press.  It's simple and basic.  It was the intention of the First Amendment.
+
+                  
+    </td>
+  </tr>
+
+</table>
+
+
+
+    
+    <ul class="noimage">
+      <li>
+        <a class="iconLink" href="javascript:ajaxLink('PostComment_3276', '/akira/postComment.do?dbid=2255&topicID=3276&mode=add-comment-show')"><img alt="Add New" class="iconLink" src="/images/iconshock/add_16.gif" border="0">&nbsp;Post New Comment</a>
+
+        <div id="PostComment_3276"></div>
+      </li>
+    </ul>      
+    
+
+
+  </div>
+
+  
+
+  
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+  <div id="IdeaScale_SectionHeader">Activity Chart</div>
+  <div>
+    <object width="450" height="300" ><param name="movie" value="/images/fusionchart/Pie3D.swf"></param><param name="wmode" value="transparent"></param><param name="allowScriptAccess" value="always"></param><param name="flashvars" value="debugMode=0&amp;dataXML=<chart showPercentValues='1' palatte='2'><set label='Vote Up' value='61'/><set isSliced='1' label='Vote Down' value='9'/></chart>"></param><embed src="/images/fusionchart/Pie3D.swf" type="application/x-shockwave-flash" wmode="transparent" flashvars="debugMode=0&amp;dataXML=<chart showPercentValues='1' palatte='2'><set label='Vote Up' value='61'/><set isSliced='1' label='Vote Down' value='9'/></chart>" allowScriptAccess="always" width="450" height="300"></embed></object>
+  </div>
+
+
+  
+
+
+
+  </td>
+  <td width="200" valign="top" style="padding-left:10px;">
+  
+
+     
+
+      
+
+
+      
+      <div style="padding-top:10px;">
+        
+
+
+
+
+
+<div id="IdeaScale_WidgetHeader">Users Activity</div>
+<div id="IdeaScale_WidgetText">
+  <table>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/8275-4049">
+      omajulia
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/8401-4049">
+      sellswor
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/5059-4049">
+      steinlaura
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4657-4049">
+      jvmizz
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4808-4049">
+      Sam Mehrani
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/8171-4049">
+      creolepeach40
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/8120-4049">
+      rdittmann
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/7746-4049">
+      vconrad
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/7074-4049">
+      mchlsrrb
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/7657-4049">
+      sophia2b
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  </table>
+</div>
+
+
+
+
+  
+      </div>
+      
+
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+    
+
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+   <div id="IdeaScale_Footer">
+   <div style="background-color:#E8E8E8; height:20px;"></div>
+
+<div id="CO_Footer" style="height:200px;">Powered By <a href="http://www.ideascale.com" target="_BLANK"><strong>IdeaScale</strong></a> and the <a href="http://www.napawash.org" target="_BLANK"><strong>National Academy of Public Administration</strong></a>
+
+<p><a href="http://www.napawash.org" target="_BLANK"><img src="http://www.ideascale.com//userimages/sub-1/595334/NAPA_Logo_pagebottom.png" alt="National Academy of Public Administration" border=0 width="188" height="76"></a></p>
+
+<p style="width:80%;margin: 15px auto;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">All feedback received through the Open Government Dialogue</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+
+</div>
+
+   </div>
+
+
+
+</td></tr></table>
+
+
+
+  
+
+
+
+
+
+<table width="100%" id="IdeaScale_Theme_Footer" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="center" valign="top">
+    Copyright &copy; 2009 
+
+    &nbsp;&nbsp;
+    <a href="/">Home</a> 
+    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=contact">Contact</a> 
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=widget">Widgets</a>    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=api">Developers</a>    
+    
+    <!--
+     &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=feedback">Feedback</a>
+    -->
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var wpcomPageTracker = _gat._getTracker("UA-5056819-3");
+wpcomPageTracker._initData();
+wpcomPageTracker._trackPageview();
+</script>
+
+
+
+
+
+
+
+
+
+<div class="shadowedBox" id="shadowedBox" style="display:none;">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+          <td class="drop a"></td>
+          <td class="drop b"></td>
+          <td style="width: 623px;" class="drop c"></td>
+          <td class="drop d"></td>
+          <td class="drop e"></td>
+        </tr>
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        
+        <tr valign="top">
+          <td class="drop p">
+            <div>&nbsp;</div>
+          </td>
+          <td style="width: 663px;" class="shadowedBoxBody" rowspan="3">
+            <div align="right">
+            <a class="iconLink" href="javascript:closeInlinePopup('shadowedBox')"><img alt="Delete" class="iconLink" src="/images/iconshock/delete_16.gif" border="0">&nbsp;Close</a>
+            </div>
+            <div id="shadowedBoxBody">
+            </div>
+          </td>
+          <td class="drop f">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop o">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop g">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop n">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop h">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+    
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+            <td class="drop m"></td>
+            <td class="drop l"></td>
+            <td style="width: 623px;" class="drop k "></td>
+            <td class="drop j"></td>
+            <td class="drop i"></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+<table bgcolor="#ffffff"  border="0" cellpadding="0" cellspacing="0" style="display:none;">
+
+  <!-- Content | Right DS -->
+  <tr>
+    <td valign="top"> 
+      <div id="contentEnclosingDivID" style="position: absolute; background-color: #ffffff; display:none;z-index:2;" >
+
+      <!-- ContentTable -->
+      <table id="contentTableID" class="simpleBorder" style="height:300;width:500;" border="0" cellpadding="0" cellspacing="0">
+        <!-- close popup row -->
+        <tr>
+          <td align="right" valign="top">
+            <a href="javascript:closeLiteInlinePopup();">Close</a>
+          </td>
+        </tr>
+        <!-- Content Row -->
+        <tr>
+          <td valign="top">
+            <div id="contentDivID"></div>
+          </td>
+        </tr>
+      </table>
+      <!-- End Content Table -->
+      
+      </div>
+    </td>
+
+    <!-- Right DS -->
+    <td width="10" valign="top" height="100%">
+      <div id="rightShadowDivID" class="transparent" style="position:absolute;display:none;width:10;none;z-index:1;">
+      </div>
+    </td>
+  
+  </tr>
+
+  <!-- Bottom DS -->
+  <tr>
+    <td colspan="2">
+      <div id="bottomShadowDivID" class="transparent" style="position:absolute;display:none;height:10;display:none;z-index:1;">
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+
+</body>
+
+</html>
+
+

@@ -1,0 +1,1536 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>Voting for Elected Officials by Telephone or by Internet  - by IdeaScale</title>
+
+    <!--[if lt IE 7.]>
+    <script defer type="text/javascript" src="/javascript/pngfix.js"></script>
+    <![endif]-->
+
+    <script language="JavaScript" SRC="/javascript/global.js?version=1"></script>
+
+    <link rel="stylesheet" type="text/css" href="/stylesheets/common.css"/>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/sitestyle.css"/>
+
+
+    
+        
+        <link rel="stylesheet" type="text/css"
+              href="/stylesheets/themes/clean_blue.css">
+        
+
+    
+
+    
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0"
+          href="http://www.ideascale.com//userimages/sub-1/595334/ideascale_4049.xml"/>
+    
+
+</head>
+
+<body id="IdeaScale_Body">
+
+    
+
+    
+    
+    
+
+
+<table id="IdeaScale_Layout" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+
+        <td>
+
+
+                
+                <div align=center style="height:130px;*height:155px;overflow:hidden;border-top:25px solid #E8E8E8">
+<a href="http://opengov.ideascale.com"><img src="http://www.ideascale.com//userimages/sub-1/595334/opengov-banner.png" alt="Open Government Dialogue" border="0"/></a>
+</div>
+<style type="text/css">
+#IdeaScale_Navigation_Container{background:#F6F6F6 url(http://www.ostp.gov/galleries/default-image/bg_sidebar.gif) no-repeat;width:204px;border:1px solid #D1D1D1;}
+#ideaScale_CategoryTitle, h3{color:#003399;}
+p{color:#333;}
+a.IdeaScale_SelectedMenu{background:#003399 !important;color:#FFF;}
+a:hover.IdeaScale_SelectedMenu{color:#FFF;}
+
+#CO_Footer {
+    display: block;
+    color: #A0A0A0;
+    border-top: 1px solid #BABABA;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 11px;
+    background: #E8E8E8;
+}
+
+h3{
+font-style: italic;
+font-weight:bold;
+line-height:130%;
+color: #770000;
+font-family: Georgia, serif;
+}
+
+h4{
+background: #FFFFFF;
+color: black;
+border-top: solid 1px slategray;
+border-bottom: solid 1px slategray;
+text-align:center;
+font-size:14px;
+font-weight:bold;
+font-style:italic;
+margin: 5px 0 0 0;
+padding: 2px 0;
+}
+
+.questions{
+font-size:12px;
+font-style: italic;
+font-weight:bold;
+color: #770000;
+font-family: Georgia, serif;
+margin:0px;
+}
+
+.top input.largeBox{
+width: 210px;
+}
+</style>
+                
+
+                
+
+            <div id="IdeaScale_Header"></div>
+
+                
+
+            <TABLE id="IdeaScale_MainContent" cellspacing="0" cellpadding="0" align="center">
+                <TR>
+                    <TD id="IdeaScale_Navigation_Container" width="20%" valign="top">
+
+                        <table align="center" width="100%" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <!-- For WordPress CSS Import -->
+                                    <div id="IdeaScale_Navigation_Sidebar">
+                                        
+
+
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+<div align="center">
+    <a id="NewIdeaButton"
+       href="javascript:ajaxInlinePopup('NewIdeaButton', '/akira/showCreateTopic.do')">
+        <img alt="New Idea"
+             src="/images/ideascale/new_idea.png"
+             border="0"></img>
+    </a>
+</div>
+
+
+  
+    
+
+
+
+
+
+<h3>Categories</h3>
+<ul class="notice">
+  <li><a href="/akira/panel.do?id=4049"><span id="NavigationAll">All (1186)</span></a></li>
+  
+  
+    
+    <li>
+      <b>1. Transparency</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2236"><span id="NavigationCategory_2236">Making Data More Accessible (111)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2237"><span id="NavigationCategory_2237">Making Government Operations More Open (183)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2238"><span id="NavigationCategory_2238">Records Management (46)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>2. Participation</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2242"><span id="NavigationCategory_2242">New Strategies and Techniques (170)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2243"><span id="NavigationCategory_2243">New Tools and Technologies (73)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2244"><span id="NavigationCategory_2244">Federal Advisory Committees (15)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2245"><span id="NavigationCategory_2245">Rulemaking (34)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>3. Collaboration</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2246"><span id="NavigationCategory_2246">Between Federal Agencies (22)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2247"><span id="NavigationCategory_2247">Between Federal, State, and Local Governments (48)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2248"><span id="NavigationCategory_2248">Public-Private Partnerships (38)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2249"><span id="NavigationCategory_2249">Do-It-Yourself Government (13)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>4. Capacity Building</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2250"><span id="NavigationCategory_2250">Hiring &amp; Recruitment (26)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2251"><span id="NavigationCategory_2251">Performance Appraisal (22)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2252"><span id="NavigationCategory_2252">Training and Development (41)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2253"><span id="NavigationCategory_2253">Communications Strategies (27)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2254"><span id="NavigationCategory_2254">Strategic Planning and Budgeting (42)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>5. Legal &amp; Policy Challenges</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2294"><span id="NavigationCategory_2294">Legal &amp; Policy Challenges (150)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>Uncategorized</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2255"><span id="NavigationCategory_2255">Uncategorized (125)</span></a></li>        
+        
+      </ul>      
+  
+  
+</ul>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+    <tr>
+        <td align="center">
+            <br/> <br/> <br/>
+
+            <table  cellspacing="0" cellpadding="0"><tr><td style="background:url('/images/btn_left.gif') no-repeat;" height="25" class="buttonLeft"></td><td style="background:url('/images/btn_center.gif') repeat-x;" height="25" align="center" class="buttonCenter">
+                <div id="SubscribeFooter">
+                    <a style="text-decoration:none" href="/akira/ideafactoryStats.do">
+                        Subscribe
+                        &nbsp; &nbsp; &nbsp;
+
+                        <img alt="Mail" class="iconLink" src="/images/iconshock/mail_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="Twitter" class="iconLink" src="/images/iconshock/twitter_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="RSS" class="iconLink" src="/images/iconshock/rss_16.gif" border="0">&nbsp;
+                    </a>
+                </div>
+            </td><td style="background:url('/images/btn_right.gif') no-repeat;" height="25" class="buttonRight"></td></tr></table>
+
+            <div style="font-size:.8em" align="center" id="IdeaFactoryStats">
+	      
+
+
+
+
+
+<a href="/akira/ideafactoryStats.do">
+  1186&nbsp;Ideas,&nbsp;2428&nbsp;Comments,&nbsp;49K&nbsp;Votes&nbsp;&raquo;
+</a>
+ 
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+
+
+
+                                        
+
+                                        
+                                        <div align="center" style="margin-top: 15px;">
+                                            <a href="http://www.ideascale.com"
+                                               title="Idea Management"
+                                               border="0"><img border="0"
+                                                               src="/images/ideascale-poweredby-160.png"></img></a>
+                                        </div>
+                                        
+
+                                        
+                                        <div style="height: 50px;"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+
+                    </TD>
+                    <TD width="80%" valign="top">
+
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+<tr> 
+  <td valign="top">
+    <a href="/akira/panel.do?id=4049">&laquo;&nbsp;Back To Open Government Brainstorm</a>
+  </td>
+  <td valign="top" align="right">
+    
+  </td>
+</tr>
+</table>
+
+    <div id="AlertMessage" align="center">
+      
+    </div>
+
+
+
+
+<table width="100%">
+<tr>
+  <td valign="top">  
+  <div class="contentPadding">
+  
+  <div id="IdeaScale_IdeaTitle">Voting for Elected Officials by Telephone or by Internet </div>
+  <table width="100%">
+  <tr>
+    <td valign="top">
+    <div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4193-4049">Fuelie </a></b> <span class="IdeaScale_SecondaryText">5 days ago</span></div>
+    </td>
+    <td align="right">
+      
+
+
+
+
+
+    <div>
+      
+
+
+      
+
+      
+        <span id="FlagIdea"><a class="iconLink" href="javascript:ajaxInlinePopup('FlagIdea', '/akira/flagDiscussionTopic.do?ID=2930')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Flag</a></span>
+      
+
+      
+
+    </div>
+
+    </td>
+  </tr>
+  </table>
+    
+
+
+  <div id="DiscussionTopicText_2930">
+    
+
+
+
+
+
+  <div style="float:left; margin:3px;">
+      <div id="DiscussionTopicVote_2930">
+        <div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2930', '/akira/discussionVote.do?dbid=2243&topicID=2930&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 days ago</div><div>Votes For : 19</div><div>Votes Against : 17</div>', document.getElementById('TopicVote_2930'))" style="text-decoration:none;" id="TopicVote_2930" href="javascript:Bubble.showTip('<div>Idea Created : 5 days ago</div><div>Votes For : 19</div><div>Votes Against : 17</div>', document.getElementById('TopicVote_2930'))">2</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2930', '/akira/discussionVote.do?dbid=2243&topicID=2930&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+      </div>  
+  </div>
+
+  
+
+
+  All of us should be able to vote for elected officials by telephone or the Internet just like stock holders vote their proxies which includes voting for members of the Board of Directors. It is fast, centralized, accurate, convenient, and much less expensive than current practices using voting machines with paper ballots and lots of people power in each state.<br/><br/>Each voter would receive by USPS mail or by email during account setup a unique key code that is entered on the phone or web page login, and that key is applied to each vote that is cast.<br/><br/>There could be a central database for all local, state, and national elections. Votes would be tallied in real time as votes are cast, and statistics generated in real time as well.<br/><br/>No more excuses for not voting because of bad weather, and no more bad paper ballot punched holes. No more disputed ballots, recounts, or court cases over who won the election.<br/><br/>Edited 5/26/09<br/><br/>I think this idea is very timely because I just heard on our local Honolulu news that 2009 neighborhood board elections were conducted electronically by phone or Internet for the first time and saved an estimated $100,000 in paperwork and mailings. You can learn more at the following web links:<br/><br/>http://www.honolulu.gov/nco/<br/><br/>http://www.nbvote09.com/app/1627/2090<br/><br/>http://www.honolulu.gov/nco/2009electionfaq.htm<br/><br/>Edited 5/28/09<br/><br/>Here is a link to a local newspaper account of the first ever electronic ( Internet and Telephone ) elections held in the U.S. Turnout was not that good because it is a new approach to voting, and such change takes time. "Rome wasn't built in a day". At least Honolulu is taking the lead in this new technology just as Hawaii was the first to go all digital TV on February 15 while the rest of the mainland still lags behind.<br/><br/>http://www.honoluluadvertiser.com/article/20090527/NEWS01/905270371/1001
+
+  <h3>Why Is This Idea Important?</h3><div>It increases accuracy, efficiency, and therefore the cost effectiveness of the voting process, and encourages more people to vote because it is more convenient.</div>
+
+  </div>
+
+  <div style="clear:both"><div>
+
+  <div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;">Idea # 410</span><span id="DiscussionTopicTag_2930"><a href="/akira/ideafactory.do?discussionID=2243">New Tools and Technologies</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=voting databases computers elections internet">voting databases computers elections internet</a></span></div>  
+
+  
+
+
+  <div id="IdeaScale_SectionHeader">Comments</div>  
+
+  
+
+
+  <div id="DiscussionTopicComment_2930">
+    
+
+
+
+
+
+<table width="100%">
+
+
+  <tr id="row_2128" onmouseover="showDiv('CommentBar_2128');" onmouseout="hideDiv('CommentBar_2128')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/4276-4049">flexmatrix</a></b>
+          <span class="IdeaScale_SecondaryText">5 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_2128" style="display:none;">
+
+      
+      <span id="FlagComment_2128">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_2128', '/akira/flagDiscussionComment.do?topicID=2930&commentID=2128')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      The technology and logistics cannot yet be managed with current practices and sociological issues.  Great idea, great theory, needs a lot of work.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_2233" onmouseover="showDiv('CommentBar_2233');" onmouseout="hideDiv('CommentBar_2233')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/4381-4049">Robert David STEELE Vivas</a></b>
+          <span class="IdeaScale_SecondaryText">4 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_2233" style="display:none;">
+
+      
+      <span id="FlagComment_2233">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_2233', '/akira/flagDiscussionComment.do?topicID=2930&commentID=2233')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      This web site needs massive upgrade--it is so Web 1.0.  We need to be able to link good ideas like yours to others, and group like ideas together.  The way to implement your good idea given that the majority of the poor do not own computers or have Internet access is to mandate absentee voting without restrictions.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_2384" onmouseover="showDiv('CommentBar_2384');" onmouseout="hideDiv('CommentBar_2384')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/4419-4049">beebe75</a></b>
+          <span class="IdeaScale_SecondaryText">4 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_2384" style="display:none;">
+
+      
+      <span id="FlagComment_2384">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_2384', '/akira/flagDiscussionComment.do?topicID=2930&commentID=2384')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      The only problem I see with this would be unlawful hackers stealing or changing votes. If such a system was made possible...computer hacking laws should be upheld, such as hacking into a voting system one should be held accountable before society so that they can explain why they did what they did. We do Not need another 2000 election mishap!
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_2604" onmouseover="showDiv('CommentBar_2604');" onmouseout="hideDiv('CommentBar_2604')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/4924-4049">porklife</a></b>
+          <span class="IdeaScale_SecondaryText">3 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_2604" style="display:none;">
+
+      
+      <span id="FlagComment_2604">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_2604', '/akira/flagDiscussionComment.do?topicID=2930&commentID=2604')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      How would you verify who's making the phone call?  What's to stop someone from calling several times?  What measures can we put in place?  Immediately, I'm thinking social-security numbers, but those are all over the place and corporations now have them so that it's entirely possible to have that taken.  Registered voters could receive a new unique number for each election, I suppose.  But this isn't a matter of transparent government, this is a matter of voter convenience, is it even right for this web site?
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_2633" onmouseover="showDiv('CommentBar_2633');" onmouseout="hideDiv('CommentBar_2633')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/4193-4049">Fuelie </a></b>
+          <span class="IdeaScale_SecondaryText">3 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_2633" style="display:none;">
+
+      
+      <span id="FlagComment_2633">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_2633', '/akira/flagDiscussionComment.do?topicID=2930&commentID=2633')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      Entering SSNs or drivers license numbers would be unacceptable because of privacy and identity theft issues. The unique identifying key <br/>is what makes stock proxy voting so easy and successful. A person can call many times, but he won't be able to cast another vote once his key is applied to the votes he has already cast. He/she is basically locked out from voting any more.<br/><br/>Who is making the phone call is verified by the key that is entered. The database will already have the name and address of the person casting the vote with that key.<br/><br/>I would argue that this idea is a matter of open or transparent government because it makes government more readily available or open to those who would otherwise not vote. It isn't simply a matter of voter convenience.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_2680" onmouseover="showDiv('CommentBar_2680');" onmouseout="hideDiv('CommentBar_2680')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/4193-4049">Fuelie </a></b>
+          <span class="IdeaScale_SecondaryText">3 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_2680" style="display:none;">
+
+      
+      <span id="FlagComment_2680">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_2680', '/akira/flagDiscussionComment.do?topicID=2930&commentID=2680')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      For those who receive email alerts regarding idea comments, I just updated my idea with late breaking news from Honolulu using electronic voting.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_2923" onmouseover="showDiv('CommentBar_2923');" onmouseout="hideDiv('CommentBar_2923')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/4924-4049">porklife</a></b>
+          <span class="IdeaScale_SecondaryText">2 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_2923" style="display:none;">
+
+      
+      <span id="FlagComment_2923">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_2923', '/akira/flagDiscussionComment.do?topicID=2930&commentID=2923')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      Call me old-fashioned (or paranoid) but I am a firm believer in paper ballots.<br/><br/>That said, I think your idea is workable provided the software running the system is openly scrutinzable.  Even a phone vote (press one for democrat) could be cracked to record every third vote for Candidate A as having been for Candidate B.  A computer recorded tally might also be cracked and deleted.<br/><br/>If your system included a means of providing an instant, randomized receipt (that of another voter) then I could see the system working better.<br/><br/>I also might point out that just because more people vote doesn't make an election better.  By holding it in a centralized location, it helps weed out those too unconcerned with the political process to provide intelligent input.  On the other hand, our political process is so corrupted and unrepresentative of voters (see 2006 elections which were immediately followed by troop surge) that I can't blame anyone for not voting, and even wonder whether internet voting would really make much difference in turn-out.  Did the Honolulu vote gain participants?
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_3029" onmouseover="showDiv('CommentBar_3029');" onmouseout="hideDiv('CommentBar_3029')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/6105-4049">David Langer</a></b>
+          <span class="IdeaScale_SecondaryText">1 day ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_3029" style="display:none;">
+
+      
+      <span id="FlagComment_3029">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_3029', '/akira/flagDiscussionComment.do?topicID=2930&commentID=3029')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      Cross posting my comment from an idea to create an Online Citizen Participation Portal:<br/><br/>As a software developer, one of the most important points to me about this is that the software developed for anything to do with voting is open source (that is the source code can be read and reviewed by anyone. This is so that 'we the people' can review the code that is doing the work powering our democracy) and is owned by the government (and by extension, the people), not by some private sector company. Also, the release control process must be open and reviewable as well. It's all well and good to be able to see source code, but there is a lot that happens from source code to functioning computer system. It must be verifiable if it is to be able to provide us with any level of faith in 'the system'.<br/><br/>It will be a matter of utmost importance to verify the identity of people logging in to system to record their votes. Tampering with this system would need to be made a federal crime with stiff penalties. There are lots of ways to provide secure web access. In my opinion the absolute best would be to create a secure, enclosed, electronic kiosk network available at post offices, libraries, government buildings and the like where anyone can go to record their votes in an extremely secure manner so that it is not subject to the vagaries of viruses, worms, keystroke-loggers and such that plague the common home computer. This also provides folks who do not have home computers access to the same electronic voting system as those more fortunate.<br/><br/>It would be fine to make the site accessible from home computers to review materials, record voting intentions and such. However, for absolute security, the final voting should be only possible via the kiosk network.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_3141" onmouseover="showDiv('CommentBar_3141');" onmouseout="hideDiv('CommentBar_3141')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/4193-4049">Fuelie </a></b>
+          <span class="IdeaScale_SecondaryText">1 day ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_3141" style="display:none;">
+
+      
+      <span id="FlagComment_3141">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_3141', '/akira/flagDiscussionComment.do?topicID=2930&commentID=3141')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      This is in response to porklife - I just edited my idea to include comments and a link to a local newspaper article about the results of our electronic voting pilot. 
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_3180" onmouseover="showDiv('CommentBar_3180');" onmouseout="hideDiv('CommentBar_3180')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/6538-4049">liveaninspiredlife</a></b>
+          <span class="IdeaScale_SecondaryText">1 day ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_3180" style="display:none;">
+
+      
+      <span id="FlagComment_3180">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_3180', '/akira/flagDiscussionComment.do?topicID=2930&commentID=3180')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      What we have learned is that computer voting, via internet, DRE's etc is NOT SAFE as the results  can be easily manipulated. The only safe method is PAPER BALLOTS with MANDITORY audits. Election Day should be a federal holiday, thus making it easier for people to get to the polls. <br/>Cindy
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_3433" onmouseover="showDiv('CommentBar_3433');" onmouseout="hideDiv('CommentBar_3433')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/4193-4049">Fuelie </a></b>
+          <span class="IdeaScale_SecondaryText">1 day ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_3433" style="display:none;">
+
+      
+      <span id="FlagComment_3433">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_3433', '/akira/flagDiscussionComment.do?topicID=2930&commentID=3433')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      I don't know how you have come to the conclusion that computer voting is unsafe and can be manipulated. Would you kindly explain? <br/><br/>I think the computer voting in Honolulu was a tremendous first step in going paperless and "green" and realizing its use in city, state, and national elections.I saw no evidence in the news that there was any tampering. Did you find such evidence? If so, I'd be interested in knowing.<br/><br/>Remember this was a pilot project. Baby steps were taken and lessons learned at the neighborhood level.<br/><br/>Remember to that this approach to voting has been in use for years by major corporations for shareholders to vote their proxies, including members of the board so it already has a good, proven track record.<br/><br/>Paper ballots are at the root cause of the still hotly contested Senate seat in Minnesota, and we don't want another fiasco like the 2000 Florida election where the court had to decide who was to be President, Al Gore or George Bush. What a disaster that turned out to be the last 8 years. I don't want that mistake repeated.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_3447" onmouseover="showDiv('CommentBar_3447');" onmouseout="hideDiv('CommentBar_3447')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/4924-4049">porklife</a></b>
+          <span class="IdeaScale_SecondaryText">1 day ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_3447" style="display:none;">
+
+      
+      <span id="FlagComment_3447">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_3447', '/akira/flagDiscussionComment.do?topicID=2930&commentID=3447')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      Fuelie, your lack of concern about security makes me think you have little understanding of issues relating to a society so heavily invested in computer technologies.<br/><br/>It's insecure simply because of the number of links in the chain (every household's computer and/or telephone).  It would be easy enough for someone to write malware that infects Internet Explorer (the dominant browser which is also known for its insecurity) and hijack the process, either tampering with the vote or compromising the voter's anonymity.  <br/><br/>Perhaps you are also unfamiliar with the Diebold fiasco and ongoing investigations by journalists and software engineers into the company's amateurish code and the very possible tampering done by outside parties.  In one horrifying example I recall, it was possible to hit one button and delete all previously recorded logs stored by a Diebold machine.<br/><br/>Re: paper ballots at the root cause of hotly contested seats:  I'd rather have the paper which leaves a trail than software written or hijacked to leave no trace of any changes.<br/><br/>Don't get me wrong, I love your concept, but I have to go with David's suggestion above: kiosks in a closed network, located in public spaces, running Open Source, publicly owned software.<br/><br/>There are better ways to go paperless and green than eliminating paper ballots used once every so many years.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_3451" onmouseover="showDiv('CommentBar_3451');" onmouseout="hideDiv('CommentBar_3451')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/4924-4049">porklife</a></b>
+          <span class="IdeaScale_SecondaryText">1 day ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_3451" style="display:none;">
+
+      
+      <span id="FlagComment_3451">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_3451', '/akira/flagDiscussionComment.do?topicID=2930&commentID=3451')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      Also, your link to the article doesn't help your argument.  It noted how few people actually bothered to vote.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_3453" onmouseover="showDiv('CommentBar_3453');" onmouseout="hideDiv('CommentBar_3453')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/6538-4049">liveaninspiredlife</a></b>
+          <span class="IdeaScale_SecondaryText">1 day ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_3453" style="display:none;">
+
+      
+      <span id="FlagComment_3453">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_3453', '/akira/flagDiscussionComment.do?topicID=2930&commentID=3453')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      Whoa...where do I begin? Why don't you google "blackbox voting" for starters. The computer voting system can be manipulated easily and without any trail. That's the danger. Votes can be programed to be flipped, votes can be wiped out completely...It's a total nightmare. Paper ballots can be seen, and counted physically, unlike the paperless DRE's. In NC thousands of votes were lost because the people didn't understand that the memory cards were full and the machines just wrote over other people's votes. There was no way to recover the lost votes.(That's just one example)<br/>Google Avi Rubin's  and check out his website and book. He is a professor at Hopkins and considered a computer expert. Also Edward Felten of Princeton, another computer professor and expert,has written about this problem . Both men have testified about the dangers of computer voting machines with no paper trail. 
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_3476" onmouseover="showDiv('CommentBar_3476');" onmouseout="hideDiv('CommentBar_3476')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/4193-4049">Fuelie </a></b>
+          <span class="IdeaScale_SecondaryText">1 day ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_3476" style="display:none;">
+
+      
+      <span id="FlagComment_3476">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_3476', '/akira/flagDiscussionComment.do?topicID=2930&commentID=3476')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      In response to porklife's comment:<br/><br/>It just so happens that I am a retired IT Specialist for the Department of Defense and U.S. Army after 25 years. I spent a lot of my time dealing with information security with Windows computers and Internet Explorer so I am acutely aware of continued Windows security flaws and the need for security in computerized voting. <br/><br/>That is why I called the National Academy of Public Administration responsible for this website to inform them of 2 security flaws with the site, including one related to voting.<br/><br/>That is why I also bought an Apple IMAC when I retired because it is much more secure than Windows, among other things, and I will never downgrade to Windows. I even favor the entire U.S. government and the world switching to Apple computers or just UNIX computers in general for security reasons. UNIX is just more secure and stable by design. I only applied 7 security patches to my IMAC last year and only 1 so far this year versus over 100 per year while I was still working with Windows. <br/><br/>I use open source products too, and it is good to have the software scrutinized by experts around the world for security flaws. UNIX is essentially open source software, although there are proprietary versions of it.  Windows is proprietary, closed software, and I think the registry is its biggest security flaw. I consider Windows to be a failed OS with a sloppy design. It is basically a piece of garbage that belongs in an incinerator.<br/><br/>Also, well designed secure computer systems have  audit trails that track and record everything that is done. A secure computerized voting system would require such an audit trail.<br/><br/>Computerized voting isn't going to happen overnight, but at least the dialog is beginning right here on the forum, and I think its implementation is inevitable. Can you imagine people of 23rd century Star Trek using paper ballots? I can't.<br/><br/>I think the kiosk approach is a good one. Perhaps that is the way the technology will develop. We can leave this in the hands of President Obama's first ever CTO, Aneesh Chopra , to work out the details of a secure, audited computerized voting system.<br/><br/>Thanks for the Diebold example. That is what this forum is all about, to generate and discuss new ideas and bring new information to bear on finding a good solution to a problem and learn lessons from things that don't work. Washington can't do it alone. <br/><br/>You also stated that my link to the local newspaper article didn't help my argument because the turnout wasn't good. Remember that this was the first ever pilot project done in the country. Baby steps must be taken to design a good system and to embrace new ideas. We all resist change because we are creatures of habit. <br/><br/>I suspect that a lot of people, including myself, didn't know about the new approach until they heard it on the TV news. Also, I think neighborhood board elections are not generally in the public mind or focus like city, state, and  national elections.<br/><br/>Thanks again or as we say here in Hawaii, Mahalo Nui Loa.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_3479" onmouseover="showDiv('CommentBar_3479');" onmouseout="hideDiv('CommentBar_3479')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/4924-4049">porklife</a></b>
+          <span class="IdeaScale_SecondaryText">1 day ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_3479" style="display:none;">
+
+      
+      <span id="FlagComment_3479">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_3479', '/akira/flagDiscussionComment.do?topicID=2930&commentID=3479')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      @ Fuelie:  Please excuse my questioning of your comprehension of IT issues, I could only base my assertion on what you had written, which sounded as though security is an afterthought and that such concerns will only hold up the process.<br/><br/>I fear that you're correct in saying computerized voting is inevitable.  However, your last post sounds like what the late Neil Postman would call that of a technopolist, in that it automatically assumes a newer technology is better than the previous one -- you're proposing that we base public policy decisions on what we imagine people in Star Trek would adopt.<br/><br/>The proper way to implement a new system of voting at the federal level can't include "baby steps," because the kinks in the system might deny voters' rights in the short term.  There should be a comprehensive discussion and implementation based on the values that you and I and also the poster David seem to agree on.<br/><br/>Something else occurs to me:  As currently legislated within the constitution, adoption of this technology will have to be a state-by-state process, requiring a federal mandate that all states must switch to the electronic system.<br/><br/>Also, I will second the suggestion of Avi Rubin's book. It was really an eye-opener.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_3481" onmouseover="showDiv('CommentBar_3481');" onmouseout="hideDiv('CommentBar_3481')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/4193-4049">Fuelie </a></b>
+          <span class="IdeaScale_SecondaryText">1 day ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_3481" style="display:none;">
+
+      
+      <span id="FlagComment_3481">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_3481', '/akira/flagDiscussionComment.do?topicID=2930&commentID=3481')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      In response to liveaninspiredlife:<br/><br/>Mahalo nui loa for the good feedback. Please see my previous comments to porklife. I'll checkout blackbox voting.<br/><br/>Perhaps Avi Rubin's and Edward Felten of Princeton can be brought on board by the President's CTO, Aneesh Chopra, to help in the design process to avoid past pitfalls. <br/><br/>As I mentioned to porklife, I'd like to point out to you that properly designed secure computer systems have audit trails that track every single addition, deletion, and modification, that is made in the course of doing business on the system.<br/><br/>We all resist change in our lives, especially as we grow older like me. I suspect that the younger, more computer literate and savvy generation will carry this idea to fruition, not the older folks like me.<br/><br/>It is good that you brought out an example of a NC problem using memory sticks, but I wonder how long ago did that take place. That too must have been a pilot project that just didn't work out well, and probably soured some people to the idea of finding a better way.<br/><br/>Again, developing the proper technology to do this securely and with the proper computerized audit trails will take time and there will be lessons learned as we move forward to any change that affects the whole of society.  <br/><br/>Malama Pono ( Take Care )
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_3484" onmouseover="showDiv('CommentBar_3484');" onmouseout="hideDiv('CommentBar_3484')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/4193-4049">Fuelie </a></b>
+          <span class="IdeaScale_SecondaryText">1 day ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_3484" style="display:none;">
+
+      
+      <span id="FlagComment_3484">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_3484', '/akira/flagDiscussionComment.do?topicID=2930&commentID=3484')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      To porklife,<br/><br/>A person to person dialog is always more productive and enlightening than email with its inherent delays. Perhaps we should all be invited to the White House to continue this discussion. :-)<br/><br/>
+
+                  
+    </td>
+  </tr>
+
+</table>
+
+
+
+    
+    <ul class="noimage">
+      <li>
+        <a class="iconLink" href="javascript:ajaxLink('PostComment_2930', '/akira/postComment.do?dbid=2243&topicID=2930&mode=add-comment-show')"><img alt="Add New" class="iconLink" src="/images/iconshock/add_16.gif" border="0">&nbsp;Post New Comment</a>
+
+        <div id="PostComment_2930"></div>
+      </li>
+    </ul>      
+    
+
+
+  </div>
+
+  
+
+  
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+  <div id="IdeaScale_SectionHeader">Activity Chart</div>
+  <div>
+    <object width="450" height="300" ><param name="movie" value="/images/fusionchart/Pie3D.swf"></param><param name="wmode" value="transparent"></param><param name="allowScriptAccess" value="always"></param><param name="flashvars" value="debugMode=0&amp;dataXML=<chart showPercentValues='1' palatte='2'><set label='Vote Up' value='19'/><set isSliced='1' label='Vote Down' value='17'/></chart>"></param><embed src="/images/fusionchart/Pie3D.swf" type="application/x-shockwave-flash" wmode="transparent" flashvars="debugMode=0&amp;dataXML=<chart showPercentValues='1' palatte='2'><set label='Vote Up' value='19'/><set isSliced='1' label='Vote Down' value='17'/></chart>" allowScriptAccess="always" width="450" height="300"></embed></object>
+  </div>
+
+
+  
+
+
+
+  </td>
+  <td width="200" valign="top" style="padding-left:10px;">
+  
+
+     
+
+      
+
+
+      
+      <div style="padding-top:10px;">
+        
+
+
+
+
+
+<div id="IdeaScale_WidgetHeader">Users Activity</div>
+<div id="IdeaScale_WidgetText">
+  <table>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/8419-4049">
+      simons
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/7569-4049">
+      lgwj1
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/8009-4049">
+      ellen
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/8290-4049">
+      dan
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/8314-4049">
+      pam
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/8272-4049">
+      susan
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6314-4049">
+      ucatchme
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/7423-4049">
+      dwighthuth
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6538-4049">
+      liveaninspiredlife
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6428-4049">
+      niryk
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  </table>
+</div>
+
+
+
+
+  
+      </div>
+      
+
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+    
+
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+   <div id="IdeaScale_Footer">
+   <div style="background-color:#E8E8E8; height:20px;"></div>
+
+<div id="CO_Footer" style="height:200px;">Powered By <a href="http://www.ideascale.com" target="_BLANK"><strong>IdeaScale</strong></a> and the <a href="http://www.napawash.org" target="_BLANK"><strong>National Academy of Public Administration</strong></a>
+
+<p><a href="http://www.napawash.org" target="_BLANK"><img src="http://www.ideascale.com//userimages/sub-1/595334/NAPA_Logo_pagebottom.png" alt="National Academy of Public Administration" border=0 width="188" height="76"></a></p>
+
+<p style="width:80%;margin: 15px auto;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">All feedback received through the Open Government Dialogue</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+
+</div>
+
+   </div>
+
+
+
+</td></tr></table>
+
+
+
+  
+
+
+
+
+
+<table width="100%" id="IdeaScale_Theme_Footer" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="center" valign="top">
+    Copyright &copy; 2009 
+
+    &nbsp;&nbsp;
+    <a href="/">Home</a> 
+    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=contact">Contact</a> 
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=widget">Widgets</a>    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=api">Developers</a>    
+    
+    <!--
+     &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=feedback">Feedback</a>
+    -->
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var wpcomPageTracker = _gat._getTracker("UA-5056819-3");
+wpcomPageTracker._initData();
+wpcomPageTracker._trackPageview();
+</script>
+
+
+
+
+
+
+
+
+
+<div class="shadowedBox" id="shadowedBox" style="display:none;">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+          <td class="drop a"></td>
+          <td class="drop b"></td>
+          <td style="width: 623px;" class="drop c"></td>
+          <td class="drop d"></td>
+          <td class="drop e"></td>
+        </tr>
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        
+        <tr valign="top">
+          <td class="drop p">
+            <div>&nbsp;</div>
+          </td>
+          <td style="width: 663px;" class="shadowedBoxBody" rowspan="3">
+            <div align="right">
+            <a class="iconLink" href="javascript:closeInlinePopup('shadowedBox')"><img alt="Delete" class="iconLink" src="/images/iconshock/delete_16.gif" border="0">&nbsp;Close</a>
+            </div>
+            <div id="shadowedBoxBody">
+            </div>
+          </td>
+          <td class="drop f">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop o">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop g">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop n">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop h">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+    
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+            <td class="drop m"></td>
+            <td class="drop l"></td>
+            <td style="width: 623px;" class="drop k "></td>
+            <td class="drop j"></td>
+            <td class="drop i"></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+<table bgcolor="#ffffff"  border="0" cellpadding="0" cellspacing="0" style="display:none;">
+
+  <!-- Content | Right DS -->
+  <tr>
+    <td valign="top"> 
+      <div id="contentEnclosingDivID" style="position: absolute; background-color: #ffffff; display:none;z-index:2;" >
+
+      <!-- ContentTable -->
+      <table id="contentTableID" class="simpleBorder" style="height:300;width:500;" border="0" cellpadding="0" cellspacing="0">
+        <!-- close popup row -->
+        <tr>
+          <td align="right" valign="top">
+            <a href="javascript:closeLiteInlinePopup();">Close</a>
+          </td>
+        </tr>
+        <!-- Content Row -->
+        <tr>
+          <td valign="top">
+            <div id="contentDivID"></div>
+          </td>
+        </tr>
+      </table>
+      <!-- End Content Table -->
+      
+      </div>
+    </td>
+
+    <!-- Right DS -->
+    <td width="10" valign="top" height="100%">
+      <div id="rightShadowDivID" class="transparent" style="position:absolute;display:none;width:10;none;z-index:1;">
+      </div>
+    </td>
+  
+  </tr>
+
+  <!-- Bottom DS -->
+  <tr>
+    <td colspan="2">
+      <div id="bottomShadowDivID" class="transparent" style="position:absolute;display:none;height:10;display:none;z-index:1;">
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+
+</body>
+
+</html>
+
+

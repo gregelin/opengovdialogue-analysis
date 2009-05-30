@@ -1,0 +1,990 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>National Town Hall Meetings - by IdeaScale</title>
+
+    <!--[if lt IE 7.]>
+    <script defer type="text/javascript" src="/javascript/pngfix.js"></script>
+    <![endif]-->
+
+    <script language="JavaScript" SRC="/javascript/global.js?version=1"></script>
+
+    <link rel="stylesheet" type="text/css" href="/stylesheets/common.css"/>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/sitestyle.css"/>
+
+
+    
+        
+        <link rel="stylesheet" type="text/css"
+              href="/stylesheets/themes/clean_blue.css">
+        
+
+    
+
+    
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0"
+          href="http://www.ideascale.com//userimages/sub-1/595334/ideascale_4049.xml"/>
+    
+
+</head>
+
+<body id="IdeaScale_Body">
+
+    
+
+    
+    
+    
+
+
+<table id="IdeaScale_Layout" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+
+        <td>
+
+
+                
+                <div align=center style="height:130px;*height:155px;overflow:hidden;border-top:25px solid #E8E8E8">
+<a href="http://opengov.ideascale.com"><img src="http://www.ideascale.com//userimages/sub-1/595334/opengov-banner.png" alt="Open Government Dialogue" border="0"/></a>
+</div>
+<style type="text/css">
+#IdeaScale_Navigation_Container{background:#F6F6F6 url(http://www.ostp.gov/galleries/default-image/bg_sidebar.gif) no-repeat;width:204px;border:1px solid #D1D1D1;}
+#ideaScale_CategoryTitle, h3{color:#003399;}
+p{color:#333;}
+a.IdeaScale_SelectedMenu{background:#003399 !important;color:#FFF;}
+a:hover.IdeaScale_SelectedMenu{color:#FFF;}
+
+#CO_Footer {
+    display: block;
+    color: #A0A0A0;
+    border-top: 1px solid #BABABA;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 11px;
+    background: #E8E8E8;
+}
+
+h3{
+font-style: italic;
+font-weight:bold;
+line-height:130%;
+color: #770000;
+font-family: Georgia, serif;
+}
+
+h4{
+background: #FFFFFF;
+color: black;
+border-top: solid 1px slategray;
+border-bottom: solid 1px slategray;
+text-align:center;
+font-size:14px;
+font-weight:bold;
+font-style:italic;
+margin: 5px 0 0 0;
+padding: 2px 0;
+}
+
+.questions{
+font-size:12px;
+font-style: italic;
+font-weight:bold;
+color: #770000;
+font-family: Georgia, serif;
+margin:0px;
+}
+
+.top input.largeBox{
+width: 210px;
+}
+</style>
+                
+
+                
+
+            <div id="IdeaScale_Header"></div>
+
+                
+
+            <TABLE id="IdeaScale_MainContent" cellspacing="0" cellpadding="0" align="center">
+                <TR>
+                    <TD id="IdeaScale_Navigation_Container" width="20%" valign="top">
+
+                        <table align="center" width="100%" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <!-- For WordPress CSS Import -->
+                                    <div id="IdeaScale_Navigation_Sidebar">
+                                        
+
+
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+<div align="center">
+    <a id="NewIdeaButton"
+       href="javascript:ajaxInlinePopup('NewIdeaButton', '/akira/showCreateTopic.do')">
+        <img alt="New Idea"
+             src="/images/ideascale/new_idea.png"
+             border="0"></img>
+    </a>
+</div>
+
+
+  
+    
+
+
+
+
+
+<h3>Categories</h3>
+<ul class="notice">
+  <li><a href="/akira/panel.do?id=4049"><span id="NavigationAll">All (1185)</span></a></li>
+  
+  
+    
+    <li>
+      <b>1. Transparency</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2236"><span id="NavigationCategory_2236">Making Data More Accessible (111)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2237"><span id="NavigationCategory_2237">Making Government Operations More Open (183)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2238"><span id="NavigationCategory_2238">Records Management (46)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>2. Participation</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2242"><span id="NavigationCategory_2242">New Strategies and Techniques (170)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2243"><span id="NavigationCategory_2243">New Tools and Technologies (73)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2244"><span id="NavigationCategory_2244">Federal Advisory Committees (15)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2245"><span id="NavigationCategory_2245">Rulemaking (34)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>3. Collaboration</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2246"><span id="NavigationCategory_2246">Between Federal Agencies (22)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2247"><span id="NavigationCategory_2247">Between Federal, State, and Local Governments (48)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2248"><span id="NavigationCategory_2248">Public-Private Partnerships (38)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2249"><span id="NavigationCategory_2249">Do-It-Yourself Government (13)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>4. Capacity Building</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2250"><span id="NavigationCategory_2250">Hiring &amp; Recruitment (26)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2251"><span id="NavigationCategory_2251">Performance Appraisal (22)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2252"><span id="NavigationCategory_2252">Training and Development (41)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2253"><span id="NavigationCategory_2253">Communications Strategies (27)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2254"><span id="NavigationCategory_2254">Strategic Planning and Budgeting (42)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>5. Legal &amp; Policy Challenges</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2294"><span id="NavigationCategory_2294">Legal &amp; Policy Challenges (150)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>Uncategorized</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2255"><span id="NavigationCategory_2255">Uncategorized (124)</span></a></li>        
+        
+      </ul>      
+  
+  
+</ul>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+    <tr>
+        <td align="center">
+            <br/> <br/> <br/>
+
+            <table  cellspacing="0" cellpadding="0"><tr><td style="background:url('/images/btn_left.gif') no-repeat;" height="25" class="buttonLeft"></td><td style="background:url('/images/btn_center.gif') repeat-x;" height="25" align="center" class="buttonCenter">
+                <div id="SubscribeFooter">
+                    <a style="text-decoration:none" href="/akira/ideafactoryStats.do">
+                        Subscribe
+                        &nbsp; &nbsp; &nbsp;
+
+                        <img alt="Mail" class="iconLink" src="/images/iconshock/mail_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="Twitter" class="iconLink" src="/images/iconshock/twitter_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="RSS" class="iconLink" src="/images/iconshock/rss_16.gif" border="0">&nbsp;
+                    </a>
+                </div>
+            </td><td style="background:url('/images/btn_right.gif') no-repeat;" height="25" class="buttonRight"></td></tr></table>
+
+            <div style="font-size:.8em" align="center" id="IdeaFactoryStats">
+	      
+
+
+
+
+
+<a href="/akira/ideafactoryStats.do">
+  1185&nbsp;Ideas,&nbsp;2427&nbsp;Comments,&nbsp;49K&nbsp;Votes&nbsp;&raquo;
+</a>
+ 
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+
+
+
+                                        
+
+                                        
+                                        <div align="center" style="margin-top: 15px;">
+                                            <a href="http://www.ideascale.com"
+                                               title="Idea Management"
+                                               border="0"><img border="0"
+                                                               src="/images/ideascale-poweredby-160.png"></img></a>
+                                        </div>
+                                        
+
+                                        
+                                        <div style="height: 50px;"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+
+                    </TD>
+                    <TD width="80%" valign="top">
+
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+<tr> 
+  <td valign="top">
+    <a href="/akira/panel.do?id=4049">&laquo;&nbsp;Back To Open Government Brainstorm</a>
+  </td>
+  <td valign="top" align="right">
+    
+  </td>
+</tr>
+</table>
+
+    <div id="AlertMessage" align="center">
+      
+    </div>
+
+
+
+
+<table width="100%">
+<tr>
+  <td valign="top">  
+  <div class="contentPadding">
+  
+  <div id="IdeaScale_IdeaTitle">National Town Hall Meetings</div>
+  <table width="100%">
+  <tr>
+    <td valign="top">
+    <div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/3892-4049">Edward </a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div>
+    </td>
+    <td align="right">
+      
+
+
+
+
+
+    <div>
+      
+
+
+      
+
+      
+        <span id="FlagIdea"><a class="iconLink" href="javascript:ajaxInlinePopup('FlagIdea', '/akira/flagDiscussionTopic.do?ID=2487')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Flag</a></span>
+      
+
+      
+
+    </div>
+
+    </td>
+  </tr>
+  </table>
+    
+
+
+  <div id="DiscussionTopicText_2487">
+    
+
+
+
+
+
+  <div style="float:left; margin:3px;">
+      <div id="DiscussionTopicVote_2487">
+        <div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2487', '/akira/discussionVote.do?dbid=2242&topicID=2487&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 12</div><div>Votes Against : 34</div>', document.getElementById('TopicVote_2487'))" style="text-decoration:none;" id="TopicVote_2487" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 12</div><div>Votes Against : 34</div>', document.getElementById('TopicVote_2487'))">-22</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2487', '/akira/discussionVote.do?dbid=2242&topicID=2487&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+      </div>  
+  </div>
+
+  
+
+
+  Hold National Town Hall meetings which would be conducted according to Robert's Rules of Order. The President would call a national town hall meeting, set the agenda including the issues to be discussed and will determine the number of states, counties and cities to be involved and specify the date and time of these meetings.<br/><br/>CONDUCTING TOWN HALLS<br/><br/>A person representing the President and members of Congress from the district would call each meeting to order, and put the question of who will be elected meeting chair to those attending. The meeting would then vote on who will be Chair and the Chair will read the agenda and divide the group up into policy issues or small groups of 5-10 people who will then elect group moderators who will lead the group in discussion and ensure Robert's Rules are followed.<br/><br/>At a specified time the group will vote on their issues electronically or by voice vote. This will then be electronically passed to the group moderator or the group moderator will pass the information to the group moderator who will enter it electronically. <br/><br/>Then the entire meeting will be called back to order and the Chair will lead a discussion of the issues as voted on by the various groups. Once discussion has been completed and everyone has had the opportunity to speak or the fixed time has been reached the Meeting Chair will put the question(s) to attendees who will vote on each issue either electronically (depending on the software being used) or in person. The issues and votes will then be entered into the computer if they haven't already and the President, members of Congress and other town halls will be able to see how each town hall voted.<br/><br/>Then the President will call on the first town hall to obtain the floor by logging on and ask the Group Chair to present their conclusions. If he or members of Congress who are co-hosting the meeting have questions they would be able to ask them. <br/><br/>The President would then go through the list of town hall meetings until each group has had the opportunity to speak at least once. Then the attendees of the national town hall would be asked to vote on what was discussed. This if at all possible would be done electronically or directly but either way the results would be electronically or manually entered into a computer.<br/><br/>The President would then conclude the meeting, thank everyone for their time and turn the meeting back over to the town hall chairs. Each chair would then conclude the meeting.<br/><br/>TECHNOLOGY TO BE USED<br/><br/>Depending on the needs of each town hall the technology used may vary but the technology exists and the technology used by the town halls would vary based on size and current needs and resources yet the administration would provide each state, legislative district, or city town hall representative with basic to be used at the meeting. Depending on the size of the meeting the President may choose to provide each attendee with a voting machine (simple clickers which are inexpensive could also be used).<br/><br/>HOW MANY ATTENDEES<br/><br/>Depending on the issues and what the administration and members of Congress would like to accomplish anywhere from 1 to 1,000's of town hall meetings could attend the national town hall meeting. The number of attendees at each would vary but the administration could (on a first come, first serve) basis determine a fixed number of attendees at each of the town hall meetings.<br/><br/>Let's assume that the President would like to hold one meeting in each state to be held at its State Capitol. The number he wishes to attend is 1,000. The town halls would be divided up into small groups of 10 (as I noted above) and the total number of groups at each town hall would be 10. These meeting would convene on the specified day and time with an agenda. <br/><br/>The meetings would last or about 2 to 3 hours depending on the agenda and then they would link up with the White House, members of Congress and the other town halls through the chosen online medium. <br/><br/>If each town hall would be allowed to address the President for 10 minutes that would be a total of 50 minutes of the President's time and a commitment of 3-4 hours of attendees time. The voting results would be provided to the President in aggregate form and he could use the information to make decisions or if he chooses he could ask the attendees to stay for a prolonged discussion that lasts for a few more hours.<br/><br/>CONCLUSION<br/><br/>As you can see the idea could be tailored depending on specific circumstances and could be a major town hall involving millions of Americans in cities and states around the country or a town hall meeting with several legislative districts. I have tried to avoid going into the details of such town halls because that would detract from the simplicity of what can be done and which can be expanded to include millions of Americans.
+
+  <h3>Why Is This Idea Important?</h3><div>Allow the President to hear and speak with average Americans through an online medium that allows for interchange of ideas.</div>
+
+  </div>
+
+  <div style="clear:both"><div>
+
+  <div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;">Idea # 44</span><span id="DiscussionTopicTag_2487"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a></span></div>  
+
+  
+
+
+  <div id="IdeaScale_SectionHeader">Comments</div>  
+
+  
+
+
+  <div id="DiscussionTopicComment_2487">
+    
+
+
+
+
+
+<table width="100%">
+
+
+  <tr id="row_1554" onmouseover="showDiv('CommentBar_1554');" onmouseout="hideDiv('CommentBar_1554')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/3899-4049">johnbrose</a></b>
+          <span class="IdeaScale_SecondaryText">8 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_1554" style="display:none;">
+
+      
+      <span id="FlagComment_1554">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_1554', '/akira/flagDiscussionComment.do?topicID=2487&commentID=1554')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      I agree with the thrust of Edward's suggestion for town meetings and having them convened by government representatives would make them worthwhile for people to attend.<br/><br/>I disagree with trying to format the meetings too thoroughly. Let such organization happen more from the bottom up than from the top down. <br/><br/>My own post urging identifiable responses to comments and continuing into a conversaton was stimulated by the need for such more extensive interchange in order to achieve that sense of participation that leads to genuine consent to whatever the final decision might be. It takes a while before people have thought and talked their way to accepting what needs to be done. <br/><br/>
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_1559" onmouseover="showDiv('CommentBar_1559');" onmouseout="hideDiv('CommentBar_1559')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/3892-4049">Edward </a></b>
+          <span class="IdeaScale_SecondaryText">8 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_1559" style="display:none;">
+
+      
+      <span id="FlagComment_1559">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_1559', '/akira/flagDiscussionComment.do?topicID=2487&commentID=1559')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      They wouldn't need to be so through once people get into them and understand how to participate in such meetings. Right now a lot of people do not have the experience to be involved in such meetings or have an adequate knowledge of the issues that would be discussed which means that a through, detailed and informative town hall is better than a brief, free for all discussion of issues of the day.<br/><br/>Let's take education as an issue. If people don't know anything about how our education system works then there's going to have to be more discussion. <br/><br/>Also, the meetings will be inclusive of people with a wide range of views, opinions and ideas.  Without following Robert's Rules (which can be simplified if necessary) there is likely to be a handful of people who take over a town hall. <br/><br/>The agenda, on the other hand, can be something as simple as one issue that people can just talk about but if we don't use Robert's Rules then everyone at the meeting should have the same or similar opinions since you don't get a group of people who disagree into the same room and expect them to not get into arguments if you don't have a clear set of rules protecting the rights of the majority and a large minority.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_1603" onmouseover="showDiv('CommentBar_1603');" onmouseout="hideDiv('CommentBar_1603')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/3884-4049">sandy</a></b>
+          <span class="IdeaScale_SecondaryText">7 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_1603" style="display:none;">
+
+      
+      <span id="FlagComment_1603">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_1603', '/akira/flagDiscussionComment.do?topicID=2487&commentID=1603')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      You lost me at "conducted according to Robert's Rules of Order," Edward.  This category is called "New Strategies and Techniques" and meetings conducted with Robert's Rules are anything but new and have been shown to promote divisiveness and extreme power imbalances between the chair and participants.<br/><br/>There are many techniques that have been used at the community level, state level, and even national and international levels to engage citizens in tough issues as equal participants in dialogue and deliberation.  These techniques often provide people with background info on the issue from a variety of perspectives, involve people from a wide variety of backgrounds, and are designed to handle disagreement and conflict in order to generate new and useful data for policymakers and/or help people decide how they want to take action on the issue themselves.<br/><br/>I invite you to check out the video playlists posted at www.youtube.com/profile?user=sheierbacher&view=playlists .  Watch a few of the videos in the playlist "dialogue and deliberation in action" and you'll get the sense of how meetings involving citizens and decision-makers can best be held today.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_1611" onmouseover="showDiv('CommentBar_1611');" onmouseout="hideDiv('CommentBar_1611')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/3892-4049">Edward </a></b>
+          <span class="IdeaScale_SecondaryText">7 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_1611" style="display:none;">
+
+      
+      <span id="FlagComment_1611">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_1611', '/akira/flagDiscussionComment.do?topicID=2487&commentID=1611')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      I'm not exactly sure what you mean when you say "This category is called "New Strategies and Techniques" and meetings conducted with Robert's Rules are anything but new and have been shown to promote divisiveness and extreme power imbalances between the chair and participants."<br/><br/>First, this belongs in the New Strategies and Techniques section because it deals with the use of technology to hold national town halls.<br/><br/>Second, unless you believe a Chair should have more power than the assembly then I'm not sure what you are trying to get at since the balance of power under "Robert's Rules" is in favor of participants who have almost absolute power.<br/><br/>Let me list a few simple Robert's Rules:<br/><br/>1) A majority rules;<br/>2) A minority has the right to be heard;<br/>3) A person who makes motion speaks first;<br/>4) Only one person may speak at a time;<br/>5) People who want to speak must be recognized;<br/>6) You can't interrupt somebody whose speaking;<br/>7) You talk to the Chair; not other people;<br/>8) Comments must be pertinent to current issue;<br/>9) Chair must rotate from pro to con speakers;<br/>9) A person can't speak twice until everyone has an opportunity to speak;<br/>10) No one can speak more than twice to the same motion;<br/>11) Each speaker is limited to 10 minutes;<br/>12) You must decide what to do before moving on; <br/><br/>To suspend Rule #2 and prevent someone from speaking requires a 2/3rds vote of everyone present. So how is there a "power imbalance" between a Chair who can't silence someone or prevent them from speaking and participants who can only do so with a 2/3rds vote.<br/><br/>The only reason there may be an imbalance in favor of a Chair is because the participants don't know Robert's Rules and we shortchange people if we don't expect them to learn them and how to apply these rules.<br/><br/>Because when the rules are properly applied the Chair has absolutely no control over anyone but a minority but even then that minority even if its one person has the ABSOLUTE right to appeal decisions of the Chair to the entire assembly.<br/><br/>The assembly have such absolute power that they by a super-majority can vote to suspend Roberts Rules if they are interfering with the ability to conduct their business.<br/><br/>Just doing away with them altogeter isn't fair to people since some day those people may go on to become elected officials and have almost no knowledge of how legislatures operate because they haven't had practice in applying Robert's Rules.<br/><br/>If you have a handful of people meeting you may get away with not using Robert's Rules but when the number increases and you fail to use those Rules you will soon have a free for all and not a single thing gets done.<br/><br/>I also don't agree with "There are many techniques that have been used at the community level, state level, and even national and international levels to engage citizens in tough issues as equal participants in dialogue and deliberation"<br/><br/>The reason I don't agree with this is because someone always ends up making those rules and then applying them to everyone who attends and no one is on equal ground except for those who created the rules and who conduct the meeting. <br/><br/>I'm concerned when people speaks against the use of Robert's Rules because they are the only thing that can keep a meeting from becoming a zoo. If I don't agree with a meeting, you are conducting, not applying Robert's Rules. What would you do? How would you deal with those of us who don't like the idea that you get to set the rules?<br/><br/>Not using Robert's Rules almost certainly make us unequal and the funny thing about Robert's Rules is that they are almost always based on common sense so those who are not familiar with the rules are already using them in their day to day life. When you are having a chat with a friend you almost always follow the rule that you never speak when another person is speaking and you certainly don't interrupt them.
+
+                  
+    </td>
+  </tr>
+
+</table>
+
+
+
+    
+    <ul class="noimage">
+      <li>
+        <a class="iconLink" href="javascript:ajaxLink('PostComment_2487', '/akira/postComment.do?dbid=2242&topicID=2487&mode=add-comment-show')"><img alt="Add New" class="iconLink" src="/images/iconshock/add_16.gif" border="0">&nbsp;Post New Comment</a>
+
+        <div id="PostComment_2487"></div>
+      </li>
+    </ul>      
+    
+
+
+  </div>
+
+  
+
+  
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+  <div id="IdeaScale_SectionHeader">Activity Chart</div>
+  <div>
+    <object width="450" height="300" ><param name="movie" value="/images/fusionchart/Pie3D.swf"></param><param name="wmode" value="transparent"></param><param name="allowScriptAccess" value="always"></param><param name="flashvars" value="debugMode=0&amp;dataXML=<chart showPercentValues='1' palatte='2'><set label='Vote Up' value='12'/><set isSliced='1' label='Vote Down' value='34'/></chart>"></param><embed src="/images/fusionchart/Pie3D.swf" type="application/x-shockwave-flash" wmode="transparent" flashvars="debugMode=0&amp;dataXML=<chart showPercentValues='1' palatte='2'><set label='Vote Up' value='12'/><set isSliced='1' label='Vote Down' value='34'/></chart>" allowScriptAccess="always" width="450" height="300"></embed></object>
+  </div>
+
+
+  
+
+
+
+  </td>
+  <td width="200" valign="top" style="padding-left:10px;">
+  
+
+     
+
+      
+
+
+      
+      <div style="padding-top:10px;">
+        
+
+
+
+
+
+<div id="IdeaScale_WidgetHeader">Users Activity</div>
+<div id="IdeaScale_WidgetText">
+  <table>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/8198-4049">
+      cmarsh214
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/7445-4049">
+      david
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6182-4049">
+      lmichaelson
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4329-4049">
+      lisaheft
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/5744-4049">
+      lewisre3
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4741-4049">
+      joy.fulton
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4662-4049">
+      david-brackbill
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4582-4049">
+      gnosismaster616
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4219-4049">
+      cjis1982
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4174-4049">
+      paulacoup
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  </table>
+</div>
+
+
+
+
+  
+      </div>
+      
+
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+    
+
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+   <div id="IdeaScale_Footer">
+   <div style="background-color:#E8E8E8; height:20px;"></div>
+
+<div id="CO_Footer" style="height:200px;">Powered By <a href="http://www.ideascale.com" target="_BLANK"><strong>IdeaScale</strong></a> and the <a href="http://www.napawash.org" target="_BLANK"><strong>National Academy of Public Administration</strong></a>
+
+<p><a href="http://www.napawash.org" target="_BLANK"><img src="http://www.ideascale.com//userimages/sub-1/595334/NAPA_Logo_pagebottom.png" alt="National Academy of Public Administration" border=0 width="188" height="76"></a></p>
+
+<p style="width:80%;margin: 15px auto;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">All feedback received through the Open Government Dialogue</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+
+</div>
+
+   </div>
+
+
+
+</td></tr></table>
+
+
+
+  
+
+
+
+
+
+<table width="100%" id="IdeaScale_Theme_Footer" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="center" valign="top">
+    Copyright &copy; 2009 
+
+    &nbsp;&nbsp;
+    <a href="/">Home</a> 
+    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=contact">Contact</a> 
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=widget">Widgets</a>    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=api">Developers</a>    
+    
+    <!--
+     &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=feedback">Feedback</a>
+    -->
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var wpcomPageTracker = _gat._getTracker("UA-5056819-3");
+wpcomPageTracker._initData();
+wpcomPageTracker._trackPageview();
+</script>
+
+
+
+
+
+
+
+
+
+<div class="shadowedBox" id="shadowedBox" style="display:none;">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+          <td class="drop a"></td>
+          <td class="drop b"></td>
+          <td style="width: 623px;" class="drop c"></td>
+          <td class="drop d"></td>
+          <td class="drop e"></td>
+        </tr>
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        
+        <tr valign="top">
+          <td class="drop p">
+            <div>&nbsp;</div>
+          </td>
+          <td style="width: 663px;" class="shadowedBoxBody" rowspan="3">
+            <div align="right">
+            <a class="iconLink" href="javascript:closeInlinePopup('shadowedBox')"><img alt="Delete" class="iconLink" src="/images/iconshock/delete_16.gif" border="0">&nbsp;Close</a>
+            </div>
+            <div id="shadowedBoxBody">
+            </div>
+          </td>
+          <td class="drop f">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop o">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop g">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop n">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop h">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+    
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+            <td class="drop m"></td>
+            <td class="drop l"></td>
+            <td style="width: 623px;" class="drop k "></td>
+            <td class="drop j"></td>
+            <td class="drop i"></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+<table bgcolor="#ffffff"  border="0" cellpadding="0" cellspacing="0" style="display:none;">
+
+  <!-- Content | Right DS -->
+  <tr>
+    <td valign="top"> 
+      <div id="contentEnclosingDivID" style="position: absolute; background-color: #ffffff; display:none;z-index:2;" >
+
+      <!-- ContentTable -->
+      <table id="contentTableID" class="simpleBorder" style="height:300;width:500;" border="0" cellpadding="0" cellspacing="0">
+        <!-- close popup row -->
+        <tr>
+          <td align="right" valign="top">
+            <a href="javascript:closeLiteInlinePopup();">Close</a>
+          </td>
+        </tr>
+        <!-- Content Row -->
+        <tr>
+          <td valign="top">
+            <div id="contentDivID"></div>
+          </td>
+        </tr>
+      </table>
+      <!-- End Content Table -->
+      
+      </div>
+    </td>
+
+    <!-- Right DS -->
+    <td width="10" valign="top" height="100%">
+      <div id="rightShadowDivID" class="transparent" style="position:absolute;display:none;width:10;none;z-index:1;">
+      </div>
+    </td>
+  
+  </tr>
+
+  <!-- Bottom DS -->
+  <tr>
+    <td colspan="2">
+      <div id="bottomShadowDivID" class="transparent" style="position:absolute;display:none;height:10;display:none;z-index:1;">
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+
+</body>
+
+</html>
+
+

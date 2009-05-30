@@ -1,0 +1,1026 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>A Workers Compensation Manifesto - by IdeaScale</title>
+
+    <!--[if lt IE 7.]>
+    <script defer type="text/javascript" src="/javascript/pngfix.js"></script>
+    <![endif]-->
+
+    <script language="JavaScript" SRC="/javascript/global.js?version=1"></script>
+
+    <link rel="stylesheet" type="text/css" href="/stylesheets/common.css"/>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/sitestyle.css"/>
+
+
+    
+        
+        <link rel="stylesheet" type="text/css"
+              href="/stylesheets/themes/clean_blue.css">
+        
+
+    
+
+    
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0"
+          href="http://www.ideascale.com//userimages/sub-1/595334/ideascale_4049.xml"/>
+    
+
+</head>
+
+<body id="IdeaScale_Body">
+
+    
+
+    
+    
+    
+
+
+<table id="IdeaScale_Layout" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+
+        <td>
+
+
+                
+                <div align=center style="height:130px;*height:155px;overflow:hidden;border-top:25px solid #E8E8E8">
+<a href="http://opengov.ideascale.com"><img src="http://www.ideascale.com//userimages/sub-1/595334/opengov-banner.png" alt="Open Government Dialogue" border="0"/></a>
+</div>
+<style type="text/css">
+#IdeaScale_Navigation_Container{background:#F6F6F6 url(http://www.ostp.gov/galleries/default-image/bg_sidebar.gif) no-repeat;width:204px;border:1px solid #D1D1D1;}
+#ideaScale_CategoryTitle, h3{color:#003399;}
+p{color:#333;}
+a.IdeaScale_SelectedMenu{background:#003399 !important;color:#FFF;}
+a:hover.IdeaScale_SelectedMenu{color:#FFF;}
+
+#CO_Footer {
+    display: block;
+    color: #A0A0A0;
+    border-top: 1px solid #BABABA;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 11px;
+    background: #E8E8E8;
+}
+
+h3{
+font-style: italic;
+font-weight:bold;
+line-height:130%;
+color: #770000;
+font-family: Georgia, serif;
+}
+
+h4{
+background: #FFFFFF;
+color: black;
+border-top: solid 1px slategray;
+border-bottom: solid 1px slategray;
+text-align:center;
+font-size:14px;
+font-weight:bold;
+font-style:italic;
+margin: 5px 0 0 0;
+padding: 2px 0;
+}
+
+.questions{
+font-size:12px;
+font-style: italic;
+font-weight:bold;
+color: #770000;
+font-family: Georgia, serif;
+margin:0px;
+}
+
+.top input.largeBox{
+width: 210px;
+}
+</style>
+                
+
+                
+
+            <div id="IdeaScale_Header"></div>
+
+                
+
+            <TABLE id="IdeaScale_MainContent" cellspacing="0" cellpadding="0" align="center">
+                <TR>
+                    <TD id="IdeaScale_Navigation_Container" width="20%" valign="top">
+
+                        <table align="center" width="100%" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <!-- For WordPress CSS Import -->
+                                    <div id="IdeaScale_Navigation_Sidebar">
+                                        
+
+
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+<div align="center">
+    <a id="NewIdeaButton"
+       href="javascript:ajaxInlinePopup('NewIdeaButton', '/akira/showCreateTopic.do')">
+        <img alt="New Idea"
+             src="/images/ideascale/new_idea.png"
+             border="0"></img>
+    </a>
+</div>
+
+
+  
+    
+
+
+
+
+
+<h3>Categories</h3>
+<ul class="notice">
+  <li><a href="/akira/panel.do?id=4049"><span id="NavigationAll">All (1185)</span></a></li>
+  
+  
+    
+    <li>
+      <b>1. Transparency</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2236"><span id="NavigationCategory_2236">Making Data More Accessible (111)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2237"><span id="NavigationCategory_2237">Making Government Operations More Open (183)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2238"><span id="NavigationCategory_2238">Records Management (46)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>2. Participation</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2242"><span id="NavigationCategory_2242">New Strategies and Techniques (170)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2243"><span id="NavigationCategory_2243">New Tools and Technologies (73)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2244"><span id="NavigationCategory_2244">Federal Advisory Committees (15)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2245"><span id="NavigationCategory_2245">Rulemaking (34)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>3. Collaboration</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2246"><span id="NavigationCategory_2246">Between Federal Agencies (22)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2247"><span id="NavigationCategory_2247">Between Federal, State, and Local Governments (48)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2248"><span id="NavigationCategory_2248">Public-Private Partnerships (38)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2249"><span id="NavigationCategory_2249">Do-It-Yourself Government (13)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>4. Capacity Building</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2250"><span id="NavigationCategory_2250">Hiring &amp; Recruitment (26)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2251"><span id="NavigationCategory_2251">Performance Appraisal (22)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2252"><span id="NavigationCategory_2252">Training and Development (41)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2253"><span id="NavigationCategory_2253">Communications Strategies (27)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2254"><span id="NavigationCategory_2254">Strategic Planning and Budgeting (42)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>5. Legal &amp; Policy Challenges</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2294"><span id="NavigationCategory_2294">Legal &amp; Policy Challenges (150)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>Uncategorized</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2255"><span id="NavigationCategory_2255">Uncategorized (124)</span></a></li>        
+        
+      </ul>      
+  
+  
+</ul>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+    <tr>
+        <td align="center">
+            <br/> <br/> <br/>
+
+            <table  cellspacing="0" cellpadding="0"><tr><td style="background:url('/images/btn_left.gif') no-repeat;" height="25" class="buttonLeft"></td><td style="background:url('/images/btn_center.gif') repeat-x;" height="25" align="center" class="buttonCenter">
+                <div id="SubscribeFooter">
+                    <a style="text-decoration:none" href="/akira/ideafactoryStats.do">
+                        Subscribe
+                        &nbsp; &nbsp; &nbsp;
+
+                        <img alt="Mail" class="iconLink" src="/images/iconshock/mail_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="Twitter" class="iconLink" src="/images/iconshock/twitter_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="RSS" class="iconLink" src="/images/iconshock/rss_16.gif" border="0">&nbsp;
+                    </a>
+                </div>
+            </td><td style="background:url('/images/btn_right.gif') no-repeat;" height="25" class="buttonRight"></td></tr></table>
+
+            <div style="font-size:.8em" align="center" id="IdeaFactoryStats">
+	      
+
+
+
+
+
+<a href="/akira/ideafactoryStats.do">
+  1185&nbsp;Ideas,&nbsp;2427&nbsp;Comments,&nbsp;49K&nbsp;Votes&nbsp;&raquo;
+</a>
+ 
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+
+
+
+                                        
+
+                                        
+                                        <div align="center" style="margin-top: 15px;">
+                                            <a href="http://www.ideascale.com"
+                                               title="Idea Management"
+                                               border="0"><img border="0"
+                                                               src="/images/ideascale-poweredby-160.png"></img></a>
+                                        </div>
+                                        
+
+                                        
+                                        <div style="height: 50px;"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+
+                    </TD>
+                    <TD width="80%" valign="top">
+
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+<tr> 
+  <td valign="top">
+    <a href="/akira/panel.do?id=4049">&laquo;&nbsp;Back To Open Government Brainstorm</a>
+  </td>
+  <td valign="top" align="right">
+    
+  </td>
+</tr>
+</table>
+
+    <div id="AlertMessage" align="center">
+      
+    </div>
+
+
+
+
+<table width="100%">
+<tr>
+  <td valign="top">  
+  <div class="contentPadding">
+  
+  <div id="IdeaScale_IdeaTitle">A Workers Compensation Manifesto</div>
+  <table width="100%">
+  <tr>
+    <td valign="top">
+    <div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/0-4049">Gclanman</a></b> <span class="IdeaScale_SecondaryText">7 days ago</span></div>
+    </td>
+    <td align="right">
+      
+
+
+
+
+
+    <div>
+      
+
+
+      
+
+      
+        <span id="FlagIdea"><a class="iconLink" href="javascript:ajaxInlinePopup('FlagIdea', '/akira/flagDiscussionTopic.do?ID=2675')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Flag</a></span>
+      
+
+      
+
+    </div>
+
+    </td>
+  </tr>
+  </table>
+    
+
+
+  <div id="DiscussionTopicText_2675">
+    
+
+
+
+
+
+  <div style="float:left; margin:3px;">
+      <div id="DiscussionTopicVote_2675">
+        <div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2675', '/akira/discussionVote.do?dbid=2247&topicID=2675&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 9</div><div>Votes Against : 26</div>', document.getElementById('TopicVote_2675'))" style="text-decoration:none;" id="TopicVote_2675" href="javascript:Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 9</div><div>Votes Against : 26</div>', document.getElementById('TopicVote_2675'))">-17</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2675', '/akira/discussionVote.do?dbid=2247&topicID=2675&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+      </div>  
+  </div>
+
+  
+
+
+  We, the Injured Workers of United States of Amrerica contend the following iniquities of the Workers' Compensation System.<br/>• The Workers Compensation System does NOT enforce its own laws and statutes<br/>already in place for the benefit of injured workers:<br/>a.	Timely diagnosis and medical treatment and approval of such treatment<br/>within the time frame set by existing laws <br/>b.	Timely automatic benefits within the time frame set by existing law<br/>• The Workers Compensation system often obtains medical as well as personal information on injured workers which has no pertinence to the claim and serves no necessary purpose in resolving the claim, but rather is used as a tactic to deter and frighten claimants out of litigation and into unfair settlement.<br/>• The Workers Compensation System willfully prolongs litigation, knowing the compensations courts are overloaded with cases, causing further severe psychological, physical and financial<br/>damage to the claimants, in hopes of pushing claimants into premature and unfair settlement.<br/>• The Workers Compensation System takes advantage of their exemption from repercussion or liability from lawsuit leaving injured workers with no recourse.<br/>• The Workers Compensation System knowingly and willingly makes fraudulent charges against many claimants in order to intimidate them and to avoid having to medically or financially compensate claimants.<br/>• The Workers Compensation System consistently cuts and denies benefits in order to starve claimants out and force their acceptance of inadequate, unfair settlements, causing many claimants to lose everything they have worked for i.e.; homes, vehicles, savings, etc; and forcing many into bankruptcy, loss of credit standing, and even loss of family and spouses in many cases. and resulting in suicide of others.<br/>• The Workers Compensation System forces injured workers back to work on a light duty status prior to their recovery until their compensation has expired and then their employer discriminates against them with termination because they are unable to perform their job at 100% capability.<br/>• The Workers Compensation System consistently contends that claimants attorney fees are the major cause for insurance premium increases to the employer when in fact litigation in the majority of cases is NOT pursued by the claimant until the Workers Compensation System forces the claimant to seek an attorney because he has been continuously denied necessary medical treatment, medications and/or supplemental benefits.. The system itself is in fact, the cause of most compensation related litigation.<br/>• The Workers Compensation System is in collusion with many physicians to deny diagnosis and treatment in favor of getting the claimant back to work despite their medical problems, willfully neglecting needed treatment many physicians comply because to buck the system means the loss of a substantial number of patients.<br/>• The Workers Compensation System willfully and knowingly shifts the burden of<br/>responsibility for permanently disabled injured workers onto the already over burdened Social Security Disability system for which the injured worker paid half, himself. Why is the Workers Compensation System allowed to get off the hook and shift this burden?<br/>There are many more iniquities of the Workers Compensation System, that are too numerous to list one by one, but an investigation into the Workers Compensation system of any individual state will begin to reveal these iniquities enough to convince you that further investigation is indeed warranted.<br/>We feel confident, that you as the guardians of our great nation and representatives of we, the people, will share our concerns and act upon our request for help.<br/>WORKERS COMPENSATION<br/>A Modern Fairy Tale<br/>Once upon a time, in the greatest nation in the world, the United States Congress passed the "Occupational Safety and Health Act of 1970", (or the OSHA act). It was a very, very good law for the hard working people of this very great nation. It said:<br/>"...the vast majority of American workers, and their families, are dependant on workmen's (sic worker's) compensation for their basic economic security in the event such worker suffers disabling injury in the course of their employment; and that the full protection of American workers from job-related injury or death requires an adequate, prompt, and equitable system of workmen's compensation as well as an effective program of occupational health and safety regulation..."<br/>A short time later, The American Congress remarked:<br/>"In recent years serious questions have been raised concerning the fairness and adequacy of present workmen's compensation laws in light of the growth of the economy, the changing nature of the labor force, increases in medical knowledge, changes in the hazards associated with various types of employment, new technology creating new risks to health and safety, and increases in the general level of wages and the cost of living."<br/>Because of these serious concerns, the Congress established the National Commission on State Workmen's Compensation Statutes to "undertake a comprehensive study and evaluation of State workmen's compensation laws in order to determine if such laws provide an adequate, prompt and equitable system of compensation." July 31, 1972, was the date Congress decided upon for the transmittal of the report of the Commission to the President and Congress. The Commission was a large un-unified group, and no one truly expected them to complete the report on time (as often happens in large committees). But, lo and behold, to everyone's surprise, the report was completed and turned over right on time, and our tale continues.<br/>The 1972 Commission concluded: "...State workmen's compensation laws are, in general neither adequate nor equitable...Perhaps in another decade or two, an attractive alternative to workmen's compensation will emerge...For the foreseeable future we are convinced that, if our recommendations for a modern workmen's compensation program are adopted, the program should be retained."<br/>It was asked by some, why this problem had gone unresolved for so long. "We know why," responded the Commission. There are numerous reasons:<br/>a.	Lack of interest by State legislatures and the general public<br/>b.	Lack of understanding by State legislatures and the general public<br/>c.	In-fighting among special interest groups<br/>d.	The complexity of the problems<br/>e.	The irrational fear that the increases in premiums would drive employers<br/>away to States with less generous benefits and lower costs. (THIS was called "The Main Barrier."<br/>The Congress, OSHA and the Commission knew they had to conquer "The Main<br/>Barrier" before the problem could be resolved. Could they ever find the solution? YES!<br/>After considering an immediate complete federal takeover, after considering voluntary guidelines followed by a complete federal takeover in a few years if deficiencies are not corrected promptly, the Commission decided that the main barrier could be overcome if: The States were required to meet<br/>certain minimum standards for the essential requirements of a State workmen's compensation law no later than July 1, 1975.<br/>Now, you might very well be asking, "What are these Essential Elements" established by that great and benevolent Commission, so very long ago and meant to be fully complied with by the date of <br/>July 1, 1975 <br/>THE ESSENTIAL ELEMENTS:<br/>1.	Compulsory Coverage<br/>2.	No occupational or numerical exemptions to coverage<br/>3.	Full coverage of work related diseases<br/>4.	Full medical and physical rehabilitation services without arbitrary limits<br/>5.	Employee's choice of jurisdiction for filing interstate claims<br/>6.	Adequate weekly cash payments for Temporary Total Disability (TTD),<br/>Permanent Total Disability (PTD) and Death cases<br/>7.	No arbitrary limits on duration or sum of benefits<br/>The commission voted unanimously that Congressional intervention may be needed to bring about reforms in the State systems. The threat of, or if necessary, the enactment of Federal mandates will remove from each State the main barrier to effective workmen's compensation reform: The terrible irrational fear that compensation costs may drive employers to move away to States where protection for disabled workers is inadequate but less expensive. The Commission, on a majority vote, gave the States until July 1, 1975 to comply with The Essential Elements.<br/>Keeping in mind, that this Commission mandated total compliance by the States by the date of July 1, 1975, you the reader must have concluded that this Fairy Tale had to have a happy ending as do all good Fairy Tale's. Sadly, I must inform you that THIS Fairy Tale has NO happy ending.<br/>As of this date, July 1, 2001, almost 26 years to the day that this mandate was supposed to have been complied with, NOT EVEN ONE STATE OUT OF 50 HAS COMPLIED WITH THE ESSENTIAL ELEMENTS! In fact, not even one State out of 50 has even come close to compliance!<br/>The truth of the matter is that, in the intervening 26 years since this mandate was proclaimed, the individual State Worker's Compensation Systems have further deteriorated to such a devastating degree that they are not even remotely as adequate as they were when the Commission decided they were inadequate enough to mandate The Essential elements!<br/>An American worker who becomes injured under today's individual State Workers' Compensation Systems has become a victim of a holocaust, unequalled and unparalleled in American history. <br/>We, the Injured Workers of America have waited twenty six years for Congressional intervention which was promised when the Essential Elements Mandate was proposed.<br/><br/>It's time for our Congress to act on that promise.<br/>Originally created 2-1-2001 by:<br/>VOICES INC.<br/>7900-20 103rd Street<br/>Suite 16<br/>Jax, Fl 32210<br/>
+
+  <h3>Why Is This Idea Important?</h3><div>This is an important issue because the workers in the United States of America are being cheated, damaged, and sometimes even driven to suicide by big business and greedy insurance companies. The Chamber of Commerce Lobby pushes the States to keep injured workers from their rightful benefits thus maximizing business profits at the expense of the worker.</div>
+
+  </div>
+
+  <div style="clear:both"><div>
+
+  <div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;">Idea # 181</span><span id="DiscussionTopicTag_2675"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=injury">injury</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=workers">workers</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=insurance">insurance</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=family loss">family loss</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=compensation">compensation</a></span></div>  
+
+  
+
+
+  <div id="IdeaScale_SectionHeader">Comments</div>  
+
+  
+
+
+  <div id="DiscussionTopicComment_2675">
+    
+
+
+
+
+
+<table width="100%">
+
+
+  <tr id="row_1726" onmouseover="showDiv('CommentBar_1726');" onmouseout="hideDiv('CommentBar_1726')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/3859-4049">lfu</a></b>
+          <span class="IdeaScale_SecondaryText">7 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_1726" style="display:none;">
+
+      
+      <span id="FlagComment_1726">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_1726', '/akira/flagDiscussionComment.do?topicID=2675&commentID=1726')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      This appears to be unrelated to the issues about which this particular dialogue is seeking public input.
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_1831" onmouseover="showDiv('CommentBar_1831');" onmouseout="hideDiv('CommentBar_1831')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/0-4049">Gclanman</a></b>
+          <span class="IdeaScale_SecondaryText">7 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_1831" style="display:none;">
+
+      
+      <span id="FlagComment_1831">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_1831', '/akira/flagDiscussionComment.do?topicID=2675&commentID=1831')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      And where exactly should this be placed ifu?
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_1906" onmouseover="showDiv('CommentBar_1906');" onmouseout="hideDiv('CommentBar_1906')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/0-4049">Johnruuu</a></b>
+          <span class="IdeaScale_SecondaryText">6 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_1906" style="display:none;">
+
+      
+      <span id="FlagComment_1906">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_1906', '/akira/flagDiscussionComment.do?topicID=2675&commentID=1906')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      I think there are merits to what you have communicated. It's that it is presented in too long of fashion, perhaps with too much emotion and at this point in the process too many specifically defined (almost soapbox) solutions.<br/><br/>Those affected by Worker's Comp, much like Veterans, know the tribulations and shortcomings of those systems and I believe in my heart that there are likely widespread pressing issues and shortcomings that should be heard/resolved.<br/><br/>You need to prioritize them somehow as this read is WAAAAAYYYYY TOOOOOOO LOOOOONNNNNGGGGG to simply spark interest and support at this point in the process of the forum.<br/><br/>I am just trying to help...<br/>
+
+                  
+    </td>
+  </tr>
+
+
+  <tr id="row_2150" onmouseover="showDiv('CommentBar_2150');" onmouseout="hideDiv('CommentBar_2150')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/4283-4049">go2thesun</a></b>
+          <span class="IdeaScale_SecondaryText">5 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_2150" style="display:none;">
+
+      
+      <span id="FlagComment_2150">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_2150', '/akira/flagDiscussionComment.do?topicID=2675&commentID=2150')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      what many taxpayers don't realize is the failure of the work comp systems  often creates long term chronic pain and perm disability as well as much other loss in productivity.<br/>costing biz and worker and all of us.<br/><br/>
+
+                  
+    </td>
+  </tr>
+
+</table>
+
+
+
+    
+    <ul class="noimage">
+      <li>
+        <a class="iconLink" href="javascript:ajaxLink('PostComment_2675', '/akira/postComment.do?dbid=2247&topicID=2675&mode=add-comment-show')"><img alt="Add New" class="iconLink" src="/images/iconshock/add_16.gif" border="0">&nbsp;Post New Comment</a>
+
+        <div id="PostComment_2675"></div>
+      </li>
+    </ul>      
+    
+
+
+  </div>
+
+  
+
+  
+
+
+
+
+
+
+<div id="IdeaScale_SectionHeader">Related Topics/Ideas</div>
+<table width="100%" class="grid">
+<tr class="channelHeader">
+  <td width="100"></td>
+  <td>Title</td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">19</div><div><a href="http://opengov.ideascale.com/akira/dtd/3874-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/3874-4049">Create the Healthcare system the USA never has had</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2248">Public-Private Partnerships</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=health">health</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=healthcare">healthcare</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=insurance">insurance</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=medical">medical</a></div>
+  </td>
+</tr>
+
+<tr>
+  <td width="100"><div id="IdeaScale_Vote" align="center"><div style="padding:5px;font-size:2em">40</div><div><a href="http://opengov.ideascale.com/akira/dtd/2788-4049">Vote&nbsp;On&nbsp;Idea</a></div></div></td>
+  <td valign="top">
+    <div class="headingMedium">
+      <a href="http://opengov.ideascale.com/akira/dtd/2788-4049">Require employers to post workplace rights</a>
+    </div>
+    <br/>
+    
+    
+    <div><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=work">work</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=employers">employers</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=workers">workers</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=employmenr">employmenr</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=law">law</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=labor law">labor law</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=collective bargaining">collective bargaining</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=national labor relations act">national labor relations act</a></div>
+  </td>
+</tr>
+
+</table>
+
+
+
+
+  
+    
+
+
+
+
+
+
+  <div id="IdeaScale_SectionHeader">Activity Chart</div>
+  <div>
+    <object width="450" height="300" ><param name="movie" value="/images/fusionchart/Pie3D.swf"></param><param name="wmode" value="transparent"></param><param name="allowScriptAccess" value="always"></param><param name="flashvars" value="debugMode=0&amp;dataXML=<chart showPercentValues='1' palatte='2'><set label='Vote Up' value='9'/><set isSliced='1' label='Vote Down' value='26'/></chart>"></param><embed src="/images/fusionchart/Pie3D.swf" type="application/x-shockwave-flash" wmode="transparent" flashvars="debugMode=0&amp;dataXML=<chart showPercentValues='1' palatte='2'><set label='Vote Up' value='9'/><set isSliced='1' label='Vote Down' value='26'/></chart>" allowScriptAccess="always" width="450" height="300"></embed></object>
+  </div>
+
+
+  
+
+
+
+  </td>
+  <td width="200" valign="top" style="padding-left:10px;">
+  
+
+     
+
+      
+
+
+      
+      <div style="padding-top:10px;">
+        
+
+
+
+
+
+<div id="IdeaScale_WidgetHeader">Users Activity</div>
+<div id="IdeaScale_WidgetText">
+  <table>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/8120-4049">
+      rdittmann
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6834-4049">
+      lbingham
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6591-4049">
+      wkimbal2
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4564-4049">
+      nh.deering
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4403-4049">
+      truebluetexanq
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/3924-4049">
+      colingallagher
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/5099-4049">
+      bev_mancuso
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4332-4049">
+      suyeres
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4391-4049">
+      psychofarm
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4219-4049">
+      cjis1982
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  </table>
+</div>
+
+
+
+
+  
+      </div>
+      
+
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+    
+
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+   <div id="IdeaScale_Footer">
+   <div style="background-color:#E8E8E8; height:20px;"></div>
+
+<div id="CO_Footer" style="height:200px;">Powered By <a href="http://www.ideascale.com" target="_BLANK"><strong>IdeaScale</strong></a> and the <a href="http://www.napawash.org" target="_BLANK"><strong>National Academy of Public Administration</strong></a>
+
+<p><a href="http://www.napawash.org" target="_BLANK"><img src="http://www.ideascale.com//userimages/sub-1/595334/NAPA_Logo_pagebottom.png" alt="National Academy of Public Administration" border=0 width="188" height="76"></a></p>
+
+<p style="width:80%;margin: 15px auto;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">All feedback received through the Open Government Dialogue</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+
+</div>
+
+   </div>
+
+
+
+</td></tr></table>
+
+
+
+  
+
+
+
+
+
+<table width="100%" id="IdeaScale_Theme_Footer" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="center" valign="top">
+    Copyright &copy; 2009 
+
+    &nbsp;&nbsp;
+    <a href="/">Home</a> 
+    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=contact">Contact</a> 
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=widget">Widgets</a>    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=api">Developers</a>    
+    
+    <!--
+     &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=feedback">Feedback</a>
+    -->
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var wpcomPageTracker = _gat._getTracker("UA-5056819-3");
+wpcomPageTracker._initData();
+wpcomPageTracker._trackPageview();
+</script>
+
+
+
+
+
+
+
+
+
+<div class="shadowedBox" id="shadowedBox" style="display:none;">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+          <td class="drop a"></td>
+          <td class="drop b"></td>
+          <td style="width: 623px;" class="drop c"></td>
+          <td class="drop d"></td>
+          <td class="drop e"></td>
+        </tr>
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        
+        <tr valign="top">
+          <td class="drop p">
+            <div>&nbsp;</div>
+          </td>
+          <td style="width: 663px;" class="shadowedBoxBody" rowspan="3">
+            <div align="right">
+            <a class="iconLink" href="javascript:closeInlinePopup('shadowedBox')"><img alt="Delete" class="iconLink" src="/images/iconshock/delete_16.gif" border="0">&nbsp;Close</a>
+            </div>
+            <div id="shadowedBoxBody">
+            </div>
+          </td>
+          <td class="drop f">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop o">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop g">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop n">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop h">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+    
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+            <td class="drop m"></td>
+            <td class="drop l"></td>
+            <td style="width: 623px;" class="drop k "></td>
+            <td class="drop j"></td>
+            <td class="drop i"></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+<table bgcolor="#ffffff"  border="0" cellpadding="0" cellspacing="0" style="display:none;">
+
+  <!-- Content | Right DS -->
+  <tr>
+    <td valign="top"> 
+      <div id="contentEnclosingDivID" style="position: absolute; background-color: #ffffff; display:none;z-index:2;" >
+
+      <!-- ContentTable -->
+      <table id="contentTableID" class="simpleBorder" style="height:300;width:500;" border="0" cellpadding="0" cellspacing="0">
+        <!-- close popup row -->
+        <tr>
+          <td align="right" valign="top">
+            <a href="javascript:closeLiteInlinePopup();">Close</a>
+          </td>
+        </tr>
+        <!-- Content Row -->
+        <tr>
+          <td valign="top">
+            <div id="contentDivID"></div>
+          </td>
+        </tr>
+      </table>
+      <!-- End Content Table -->
+      
+      </div>
+    </td>
+
+    <!-- Right DS -->
+    <td width="10" valign="top" height="100%">
+      <div id="rightShadowDivID" class="transparent" style="position:absolute;display:none;width:10;none;z-index:1;">
+      </div>
+    </td>
+  
+  </tr>
+
+  <!-- Bottom DS -->
+  <tr>
+    <td colspan="2">
+      <div id="bottomShadowDivID" class="transparent" style="position:absolute;display:none;height:10;display:none;z-index:1;">
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+
+</body>
+
+</html>
+
+

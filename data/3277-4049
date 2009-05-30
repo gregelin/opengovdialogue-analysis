@@ -1,0 +1,873 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>A Critical Examination of the Existing Educational Paradigm:Its Framework, Processes, and Systems © - by IdeaScale</title>
+
+    <!--[if lt IE 7.]>
+    <script defer type="text/javascript" src="/javascript/pngfix.js"></script>
+    <![endif]-->
+
+    <script language="JavaScript" SRC="/javascript/global.js?version=1"></script>
+
+    <link rel="stylesheet" type="text/css" href="/stylesheets/common.css"/>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/sitestyle.css"/>
+
+
+    
+        
+        <link rel="stylesheet" type="text/css"
+              href="/stylesheets/themes/clean_blue.css">
+        
+
+    
+
+    
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0"
+          href="http://www.ideascale.com//userimages/sub-1/595334/ideascale_4049.xml"/>
+    
+
+</head>
+
+<body id="IdeaScale_Body">
+
+    
+
+    
+    
+    
+
+
+<table id="IdeaScale_Layout" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+
+        <td>
+
+
+                
+                <div align=center style="height:130px;*height:155px;overflow:hidden;border-top:25px solid #E8E8E8">
+<a href="http://opengov.ideascale.com"><img src="http://www.ideascale.com//userimages/sub-1/595334/opengov-banner.png" alt="Open Government Dialogue" border="0"/></a>
+</div>
+<style type="text/css">
+#IdeaScale_Navigation_Container{background:#F6F6F6 url(http://www.ostp.gov/galleries/default-image/bg_sidebar.gif) no-repeat;width:204px;border:1px solid #D1D1D1;}
+#ideaScale_CategoryTitle, h3{color:#003399;}
+p{color:#333;}
+a.IdeaScale_SelectedMenu{background:#003399 !important;color:#FFF;}
+a:hover.IdeaScale_SelectedMenu{color:#FFF;}
+
+#CO_Footer {
+    display: block;
+    color: #A0A0A0;
+    border-top: 1px solid #BABABA;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 11px;
+    background: #E8E8E8;
+}
+
+h3{
+font-style: italic;
+font-weight:bold;
+line-height:130%;
+color: #770000;
+font-family: Georgia, serif;
+}
+
+h4{
+background: #FFFFFF;
+color: black;
+border-top: solid 1px slategray;
+border-bottom: solid 1px slategray;
+text-align:center;
+font-size:14px;
+font-weight:bold;
+font-style:italic;
+margin: 5px 0 0 0;
+padding: 2px 0;
+}
+
+.questions{
+font-size:12px;
+font-style: italic;
+font-weight:bold;
+color: #770000;
+font-family: Georgia, serif;
+margin:0px;
+}
+
+.top input.largeBox{
+width: 210px;
+}
+</style>
+                
+
+                
+
+            <div id="IdeaScale_Header"></div>
+
+                
+
+            <TABLE id="IdeaScale_MainContent" cellspacing="0" cellpadding="0" align="center">
+                <TR>
+                    <TD id="IdeaScale_Navigation_Container" width="20%" valign="top">
+
+                        <table align="center" width="100%" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <!-- For WordPress CSS Import -->
+                                    <div id="IdeaScale_Navigation_Sidebar">
+                                        
+
+
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+<div align="center">
+    <a id="NewIdeaButton"
+       href="javascript:ajaxInlinePopup('NewIdeaButton', '/akira/showCreateTopic.do')">
+        <img alt="New Idea"
+             src="/images/ideascale/new_idea.png"
+             border="0"></img>
+    </a>
+</div>
+
+
+  
+    
+
+
+
+
+
+<h3>Categories</h3>
+<ul class="notice">
+  <li><a href="/akira/panel.do?id=4049"><span id="NavigationAll">All (1186)</span></a></li>
+  
+  
+    
+    <li>
+      <b>1. Transparency</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2236"><span id="NavigationCategory_2236">Making Data More Accessible (111)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2237"><span id="NavigationCategory_2237">Making Government Operations More Open (183)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2238"><span id="NavigationCategory_2238">Records Management (46)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>2. Participation</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2242"><span id="NavigationCategory_2242">New Strategies and Techniques (170)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2243"><span id="NavigationCategory_2243">New Tools and Technologies (73)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2244"><span id="NavigationCategory_2244">Federal Advisory Committees (15)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2245"><span id="NavigationCategory_2245">Rulemaking (34)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>3. Collaboration</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2246"><span id="NavigationCategory_2246">Between Federal Agencies (22)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2247"><span id="NavigationCategory_2247">Between Federal, State, and Local Governments (48)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2248"><span id="NavigationCategory_2248">Public-Private Partnerships (38)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2249"><span id="NavigationCategory_2249">Do-It-Yourself Government (13)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>4. Capacity Building</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2250"><span id="NavigationCategory_2250">Hiring &amp; Recruitment (26)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2251"><span id="NavigationCategory_2251">Performance Appraisal (22)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2252"><span id="NavigationCategory_2252">Training and Development (41)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2253"><span id="NavigationCategory_2253">Communications Strategies (27)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2254"><span id="NavigationCategory_2254">Strategic Planning and Budgeting (42)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>5. Legal &amp; Policy Challenges</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2294"><span id="NavigationCategory_2294">Legal &amp; Policy Challenges (150)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>Uncategorized</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2255"><span id="NavigationCategory_2255">Uncategorized (125)</span></a></li>        
+        
+      </ul>      
+  
+  
+</ul>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+    <tr>
+        <td align="center">
+            <br/> <br/> <br/>
+
+            <table  cellspacing="0" cellpadding="0"><tr><td style="background:url('/images/btn_left.gif') no-repeat;" height="25" class="buttonLeft"></td><td style="background:url('/images/btn_center.gif') repeat-x;" height="25" align="center" class="buttonCenter">
+                <div id="SubscribeFooter">
+                    <a style="text-decoration:none" href="/akira/ideafactoryStats.do">
+                        Subscribe
+                        &nbsp; &nbsp; &nbsp;
+
+                        <img alt="Mail" class="iconLink" src="/images/iconshock/mail_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="Twitter" class="iconLink" src="/images/iconshock/twitter_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="RSS" class="iconLink" src="/images/iconshock/rss_16.gif" border="0">&nbsp;
+                    </a>
+                </div>
+            </td><td style="background:url('/images/btn_right.gif') no-repeat;" height="25" class="buttonRight"></td></tr></table>
+
+            <div style="font-size:.8em" align="center" id="IdeaFactoryStats">
+	      
+
+
+
+
+
+<a href="/akira/ideafactoryStats.do">
+  1186&nbsp;Ideas,&nbsp;2429&nbsp;Comments,&nbsp;49K&nbsp;Votes&nbsp;&raquo;
+</a>
+ 
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+
+
+
+                                        
+
+                                        
+                                        <div align="center" style="margin-top: 15px;">
+                                            <a href="http://www.ideascale.com"
+                                               title="Idea Management"
+                                               border="0"><img border="0"
+                                                               src="/images/ideascale-poweredby-160.png"></img></a>
+                                        </div>
+                                        
+
+                                        
+                                        <div style="height: 50px;"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+
+                    </TD>
+                    <TD width="80%" valign="top">
+
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+<tr> 
+  <td valign="top">
+    <a href="/akira/panel.do?id=4049">&laquo;&nbsp;Back To Open Government Brainstorm</a>
+  </td>
+  <td valign="top" align="right">
+    
+  </td>
+</tr>
+</table>
+
+    <div id="AlertMessage" align="center">
+      
+    </div>
+
+
+
+
+<table width="100%">
+<tr>
+  <td valign="top">  
+  <div class="contentPadding">
+  
+  <div id="IdeaScale_IdeaTitle">A Critical Examination of the Existing Educational Paradigm:Its Framework, Processes, and Systems ©</div>
+  <table width="100%">
+  <tr>
+    <td valign="top">
+    <div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/5581-4049">educare</a></b> <span class="IdeaScale_SecondaryText">2 days ago</span></div>
+    </td>
+    <td align="right">
+      
+
+
+
+
+
+    <div>
+      
+
+
+      
+
+      
+        <span id="FlagIdea"><a class="iconLink" href="javascript:ajaxInlinePopup('FlagIdea', '/akira/flagDiscussionTopic.do?ID=3277')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Flag</a></span>
+      
+
+      
+
+    </div>
+
+    </td>
+  </tr>
+  </table>
+    
+
+
+  <div id="DiscussionTopicText_3277">
+    
+
+
+
+
+
+  <div style="float:left; margin:3px;">
+      <div id="DiscussionTopicVote_3277">
+        <div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3277', '/akira/discussionVote.do?dbid=2242&topicID=3277&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 2 days ago</div><div>Votes For : 23</div><div>Votes Against : 8</div>', document.getElementById('TopicVote_3277'))" style="text-decoration:none;" id="TopicVote_3277" href="javascript:Bubble.showTip('<div>Idea Created : 2 days ago</div><div>Votes For : 23</div><div>Votes Against : 8</div>', document.getElementById('TopicVote_3277'))">15</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3277', '/akira/discussionVote.do?dbid=2242&topicID=3277&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+      </div>  
+  </div>
+
+  
+
+
+  A Critical Examination of the Existing Educational Paradigm:<br/>Its Framework, Processes, and Systems ©<br/><br/> “America’s high schools are obsolete.  By obsolete, I don’t just mean that they’re broken, flawed or just underfunded, though a case could be made for every one of those points.  By obsolete, I mean our high schools – even when they’re working as designed—cannot teach all our students what they need to know today.”  <br/>by Bill Gates<br/><br/>PREFACE<br/>Although one may be certain that there is no single remedy to resolve the problem of what ails education, it must be noted that the existing framework supporting the present system of a standardized, one-size-curricula-fits-all model, in an all-out effort to funnel age-related cohorts lock-step through high school, is indeed, obsolete as Mr. Gates dutifully contends.  I totally agree with and acknowledge his sentiment.  The truth is our present system was not designed to teach students the skills needed for a global economy.  Furthermore a warning:  Do not count on entrenched educational leaders to do any more than reactively resort to patchwork policy measures that shall continue to bolster dysfunctional public education.<br/>In fact, as long as the existing public education paradigm’s framework is supported by the current funding process, then the present system and those responsible for its operation will continue to have little or no incentive to innovate in order to meet new challenges. A system comprised of quasi-professionals, supported by a nontransparent, unstable funding process, and finally, propped up by an obsolete paradigm is deeply mired in its own drama, and over time has demonstrated its inadequacy to cope with the challenges of preparing public school students to function effectively in a global 21st century environment.   That much is for sure.  Expecting improvement, by using the existing paradigm, is against all odds of success.  Thus, the impetus of most PK-14 state level, lobbyist-initiated reform measures or even a few grassroots/local level efforts  “aimed at solving problems and resolving issues” usually get weaker the longer they limp along and eventually die from apathy or as I refer to it “death by blandness.” These attempts at reform (while acknowledging that a few are initially well-intentioned efforts) amount to mere tweaking an outmoded paradigm.  Albeit, to those on the outside looking in, any effort aimed at change is perceived as a positive.<br/>I have reached this conclusion based on over five decades from both sides of an instructors’ desk as well as from career experience in a variety of educational situations: from special education programs designed for working with gifted students to working with students deemed  mentally challenged; from employment in more “traditional school settings” to a state penitentiary community college setting; from commitment to a K-12 parochial school environment to commitment to a K-12 public school environment; from teaching at-risk student athletes to teaching at-risk adults; from attending kindergarten-grammar school to finishing law school; from the perspective of a discontented teenage student to that of a more thoughtful adult instructor; and finally, to a more insightful professional administrator. <br/>Throughout the gamut of our my professional experience, I maintained a classroom instructor’s point of view with a mindset focused on identification of all aspects of instructional best practices: a) developing effective disciplinary strategies and time management tactics; b) utilizing appropriate methodological applications and delivery systems to enhance knowledge transfer; c) ensuring curriculum relevance in the content area; d) maintaining the highest level of course-content rigor; and finally, d) increasing human potential through reliable and valid performance measures of individual achievement.<br/>During the last twenty years, many national report cards that compare state-to-state data have found Alabama education practices and student achievement levels consistently below par.  Some claimed that where scarce resources exist for education, as is the case in Alabama’s Educational Trust Fund (ETF), funding inequities among all K-14 systems and Higher Education will continue.  Others argued, “Whether there has ever been enough revenue generated to adequately fund an ‘appropriate’ public education.”  However, for educational leadership to engage in continual turf battles and to quarrel over funding-level formulas is like paramedics performing triage on cadavers – it is an exercise in futility and fails to address more pressing long term needs. <br/>Our nation’s continued preeminence on the world stage is reliant on a superior-trained faculty cohort whose continuing professional development aims at implementing instructional best practices including the following:  a) employing effective classroom management as well as time management skills; b) understanding age appropriate social-psychological behavior; c) utilizing methodologies and technological delivery systems to accommodate diverse learning styles; d) adopting seamless web career counseling from early childhood; e) developing appropriate performance measures to gauge individual academic achievement; f) prescribing individual remediation measures; and g) developing dropout profiles that proactively focus on preventative interventions instead of prison as a last resort.  Even with recent, significant improvements in Alabama’s public schools, the evidence continues to demonstrate results that remain far from outstanding.  It should serve as a wake-up call to all:  What is going on inside our classrooms is serious business and failure to resolve recurring issues will have severe economic consequences.  Furthermore, although it is unfortunate and often contrary to reason, I believe that as long as the existing, paradigmatic framework continues to sustain the entrenched agenda of the status quo - - a genuine, authentic response to the problem shall remain an untenable reality.  Consequently, the objective of this report is to establish in the public consciousness the need for constructive dialogue among all stakeholders in an effort to validate the authenticity of perceived reality.  In other words, I propose a pilot program to accomplish on a small scale what I believe can and must be sustained on a large scale:  A New American School.   <br/>This study demonstrates those precise economic development linkage points that by necessity demand administrative leadership and accountability throughout the public education framework.  Moreover, the explicit recommendations in the accompanying Action Plan are not intended to infer a final destination; but rather, to point towards a new American school.   James Henley (Jim) Hethcox, J.D., Ed.D, MCP (April 9, 2009)<br/><br/>Overview<br/>The American education transfer process essentially entails the transfer of past generations’ culture, factual knowledge base, and core values.  The current public educational experience in the U.S. has its roots in the early 1900s.  The educational establishment solution to the problem of ensuring a large labor pool existed to meet increasing demands of industrial assembly lines was to design instructional programs that could mass-produce public school graduates.  Further complicating the problem was the integration into the workforce of not only an unskilled, semi-literate, homegrown cliental, but millions of non-English speaking immigrants as well.  <br/>It may or may not have been the best way to educate millions of non-English speaking Europeans; however, it could be argued that the then-existing educational establishment’s response to a burgeoning industrial sector’s insatiable demand for human resources was resourceful as well as a practical solution.  For example, the era between 1895-to-1939 overwhelmingly demonstrated the effectiveness of repetitive instructional programs designed to introduce age-related cohorts to a “minimum course of study.” The apparent success of that intervention, unfortunately, created a paradigm whose processes and systems have reified.<br/>Moreover, anachronistic policies and procedures that range from teacher credentialing to institutional accreditation are firmly entrenched.  The current myriad legislative funding processes and county or city or metro administrative systems are necessary and vital to support and maintain the establishment status quo which regrettably has little or no incentive to adapt and respond to a practical, resourceful solution to the unique requirements of yet unknown future circumstances.  <br/>Throughout the turmoil of the Great Depression, WW II, the baby boom, and racial integration, second and third generation immigrant families continued to assimilate through the local public and parochial school systems.  Given the fact that a century old solution to a then pressing workforce development problem is no longer relevant in our  current global economy, why do we continue to support and to maintain processes and systems that lethargically mass-produce students?  Why, given the tremendous advances in our understanding of cognitive development and computer technology, is the PK -14 educational transfer process virtually the same as it was in the 1960s?  Visit a PK-14 classroom during a lecture, if you don’t believe it.<br/>What if the emphasis on student testing mandated, albeit unfunded at the federal level, by NCLB has unintended consequences? For example, student achievement may soon become a euphemism for “meet and/or exceed group standardized test objectives,” rather than a valid and reliable measure of individual cognitive ability. Ironically, the dysfunction of the traditional public education paradigm may ultimately prove to be directly correlated with the increasing number of those who choose to opt-out, i.e., “drop-out.”  <br/>What if a portion of those students who opt-out are actually more perceptive, more demanding of content rigor, more inclined to think critically and challenge authority than those who placidly remain in their desks? What if opt-outs “pierce the veil” and perceive that the traditional school setting, by offering an extended childhood to all those willing to abide contentedly, nonetheless exhibits signs of a human-warehouse mechanism designed to maintain the nations’ labor pool at a consistent level?  What if, in addition to the poor learner or slow student, our nation is forfeiting its best and brightest-- a gifted segment? What if disgruntled opt-outs perceive concerted state efforts to “stay in school” amount to little more than coercive abuse of the states’ police power to mandate an intellectually boring, redundant, minimal program of study that by default punishes the non-conformist and anyone else who question its authenticity?<br/>Perhaps, to many parent/caregivers the conventional perception of education has been that it is something that happens to children and adolescents, and then finally, it is over - - with the beneficiary fully equipped to face adult life.  For decades, this was the conventional view of education that has held sway over not only caregivers; but also, policy makers in the United States.  Nevertheless, neither caregivers nor policy makers are engineers by profession and should not be expected to be aware of the typical engineering school dilemma, i.e., by the time graduates receive an engineering degree, approximately half of what they learned in the beginning has already become irrelevant (White House Science Council, 1986).<br/>Those on the economic development bandwagon inside the educational establishment seek to court industry through slick-finished, tri-fold brochures and resort to the use of buzzwords such as “continuing and lifelong education” or “competing in a global economy.”  What essential concepts lie behind the professional jargon?  What are the real implications?  If “continuing and lifelong” implies from cradle to grave, then continuing education courses are presently the best solution to the engineering school dilemma; in addition to maintaining proficiency among all professions.  However, such phrases have serious implications including the way in which traditional instructional delivery systems operate and the manner in which curriculum innovations are designed to more closely parallel the unique needs of 21st century public and private sector employers as well as the students they seek to employ.  In the face of mounting obstacles to remain competitive, clichés are only the answer if one is satisfied with counterfeit gestures and public posturing.  Furthermore, if the proper questions are not posed to decision makers and policy wonks, then what difference does it make which answers they spin?<br/>If we are not willing to admit the present system’s unequivocal inability to perform at an acceptable level, then it is highly unlikely we shall be willing to take vital measures necessary to arrive at the next level.  It is a truism that only when an individual hits bottom can meaningful change and rehabilitation begin.  Perhaps that holds true for institutions as well.  For too long, the armed forces and private-sector employers have had to spend billions per year to (re)train recent graduates simply to perform basic skills.  Faced with mounting operating cost, the day will come when employers will finally balk at funding a sole, state-operated enterprise that fails to deliver warranted merchandise.  Consequently, further analysis and/or recommendations, by legislatively appointed either blue ribbon committees or executive appointed commissions, of policies, programs, and initiatives shall no longer be seen as a sign that “help is on the way.”   <br/>While high schools must be held accountable for the lack of college and workplace readiness among their graduates, unprepared students represent a failure of the entire PK-16 system -- -- a dysfunctional academic pipeline with weak standards and misaligned policies.  Policy makers have long approached the high school and higher education systems as independent entities, whose practices do whose practices do not impinge on one another.  This is even true at the federal level, where most education legislation focuses on either K-12 or higher education (Boser, Ulrich and Burd, Stephen, 2009).   <br/>Since the late 1980s, foreign nationals increasingly have enroll at American colleges and universities rather than choosing to matriculate at any other countries’ higher education institutions, including their own.  The irony is that American PK-14 student achievement scores indicate skills that are sorely lacking compared to other developed nations who send their better academically-prepared child to benefit from our superior, research-oriented, Tier 1 institutions.  As a consequence, the more the public demands from Pk-12, the higher the expectation becomes, until the teaching profession is at a lost to explain lack of “student performance” except to point towards the “Fruit not falling far from the tree” theory of HRD.  In any event and regardless of who is to blame, a direct results of the consequences of our cumulative behavior has become our shame:    As HRD dries up and dies on the vine, so does our ability to invent and innovate.<br/>Our nation needs citizens that have been prepared to be productive. Yet one-third of students who enter the ninth grade never graduate from high school. Clearly, the United States cannot accept a 33 percent failure rate if it is to keep pace economically and militarily (SREB, 2007).<br/><br/>Billions of scarce dollars are wasted on postsecondary student remediation in a bizarre attempt to academically prepare them to attend two year college or state and land grant institutions.  Unfortunately, after all the time, money, and energy spent to remediate unprepared American students approximately twenty per cent (20%) of entering freshman will complete a degree program in seven years (NCES, 2005).<br/>This dysfunctional, 19th Century paradigm continues to distort what should be public educations’ essential mission in the 21st Century - - human capital, formerly conceived as man-hour mass labor, now transformed by the burgeoning demands for knowledge workers.  Conscious development of an individual’s unique potential joined to others flowing through a process-pipeline of human resource development activities then finally, pouring over a spillway - - out into a vast reservoir . . . a pool of human talent.  <br/>If the locomotive that drives the train of a state’s economic development is higher education, then its effectiveness demands a more comprehensive role involving higher education in the entire educational process from kindergarten through graduate school.  Resolving the issue of how to proceed with such an arrangement involves posing the fundamental question -- What is the purpose of public education?  <br/>The posing of that particular question by enough concerned individuals shall establish the initial motivation for beginning a process that leads to strategic planning.  A successful strategic plan, when implemented embodies future aspirations in the form of goals and objectives.  Each advance is a necessary step to achieve the missions’ purpose.  Finally, parents, students, and all other stakeholders/ grandparents /interested parties/ employers, i.e., industry, small business owners, local government, must demand a blueprint for a new American school.  With the goal of such a blueprint in mind, let us consider our weakest lynchpin, the perilous nexus whereby PK-14 fails to connect fully with the end link - - American higher education institutions.<br/><br/>Strategic Decision Model<br/>Proof of well-conceived strategic decisions is most amply demonstrated  when tactical decisions integrate with operational decisions, so that as a natural consequence, the strategic vision that set the process in motion is “in sync” with reality, instead of being stretched over reality like an ill-fitting bed sheet.  Consequently, our purpose should act as a compass to provide direction so that our mental map not only absorbs a comprehension of the whole; but is able to conceive an insight into the most advantageous tactical and operational directives that will guide us successfully to our destination, i.e., demonstrate the means necessary for initiating specific goals in order to obtain desired results.  <br/>A proper purpose must be derived from an honest examination of perceived strengths and weaknesses that informs the total educational design process.  The most crucial factor in the entire design process centers on whether its collaborators / authors shall have the resolve to be able to successfully initiate, execute, and complete the action plan portion of the strategic plan.  It is solely the responsibility of the leadership to acknowledge:  Whether the entire community prospers or fails to prosper shall ultimately be determined by the leaderships’ ability to anticipate the long-term needs, to identify all available resources, and to develop human capital to meet those needs in order to be able even to compete in a 21st Century global economy.<br/>Moreover, if the first round of discussion leads to proposed changes that prove too great a challenge for the existing system to implement, then the leadership is duty-bound to be adaptable, retrench and anticipate where remaining interests exist to overcome remaining differences, and be able to adopt another plan and place it on the examination table.  If that examination proves fruitful, then let that mandate be the call to action.  The following model exemplifies that goal:<br/>	Strategic Decisions: Establish the major parameters for organizational effort and generally answer the question - - What are we going to do?<br/>	Tactical Decisions: Derived from strategic decisions (above) and help answer the question - - How are we going to do it?<br/>	Operational Decisions: Establish procedures and answers the question- - Who will do what?<br/>(Chaffee, 1983)<br/>Thus, the responsibility for initiating and executing the recommended actions of a strategic plan falls on the leadership.  Finally, it is critical to the success of our mission that we become more conscious of the value of language’s precision and accuracy i.e., “terms of art” to describe the educational characteristics that drive the strategic plan.<br/>•	Paradigm - A set of assumptions, concepts, values, and practices that constitutes a way of viewing reality for the community that shares them, especially in an intellectual discipline.<br/>•	Process Innovation is the act of engagement in basic research, distribution of findings, and assistance to anyone whose applied research interests is in using those findings i.e., converting them into a useful concept/product/service.<br/>•	Process Innovation Pipeline Completion Cycle – a collaborative group action similar to the Manhattan Project that involves 1) performing basic research from conception to dispersal of findings, and 2) using applied research skills in order to convert basic research findings into a concept that provides a product or service useful to a niche market. <br/>•	Imagineer – a highly skilled person in process innovation professionally trained to marshal required forces through a completion cycle pipeline in order to meet established group goals and team objectives.<br/>All of the following educational characteristics are referenced in terms of a distinctive American educational paradigm:<br/>•	Framework – a reified, institutional apparatus that lobbies for the status quo.<br/>•       Process – a legislatively, legally-appropriated, publicly-funding scheme designed to foster the goals and objectives of interests vested in the preservation of the status quo.<br/>•	System – by and large, a chain of command, administratively-driven,	organizational reaction to allocate formerly appropriated tax dollars ostensibly	to make available a professional, instructional, public agenda that, among other	things, seeks to assimilate the desires inherently a part of American social	change, patched together for over a century, and is most often referred to as (or	poses as) education.<br/>•	HRD - Human Resource Development (HRD), more aptly characterizes what most really mean when referring to education. The term Human Resource Development (HRD), more aptly characterizes what most people really mean when referring to education.  Consequently, HRD involves integration of four essential elements inherent in the human maturation process (PK-16) that include the following:<br/>1.	a highly-trained, nurturing professional skilled at enabling an individual to achieve means to discover their own potential, <br/>2.	a societal comprehension and appreciation of each and every individual's potentially, unique contribution, <br/>3.	an innovative system and process that facilitates HRD by utilizing the existing public education framework, where possible, in the most appropriate, efficient manner, and <br/>4.	a local dedication to inculcate the value of the rigorous approach required for sustaining a life-long and continuing, cradle-to-grave,  personal commitment to knowledge acquisition.<br/><br/>Introduction<br/>By the end of summer 1969, The United States of America had executed the plan to put human beings on the moon within the decade.  Fourteen years later, a challenge no less daunting was raised when the findings from A Nation at Risk (1983) confronted the educational establishment and launched a media blitz to reform our public schools.  Although the sense of urgency that prompted the original report has subsided, be assured the risk posed then is just as menacing now.   <br/>Alabama has made significant increases in its commitment to education in recent years with its overall education budget growing by approxi¬mately 50 percent between 2000 and 2006.  Most of the state’s current workers, however, did not have the opportunity to benefit from these investments.  More than half a million Alabamians between the ages of 18 and 64 remain caught in the education gap, lacking a high school diploma or a GED.  Ala¬bama’s educational system has failed to equip these workers with the skills and certifications neces¬sary to compete in today’s global economy.  And for many other Alabamians, education ended with high school graduation; less than one-third of all adults between the ages of 25 and 54 have an associate’s degree or higher.14 With the workplace becoming more complex, and employers demanding higher skill levels, many of these workers will be unable to compete in the job market without additional education and training. Until Alabama renews its commitment to education and training for adults, a basic education gap likely will persist for four decades or longer, until today’s 25-year-olds retire.  (Bridging the Gap, 2008, emphasis mine)<br/><br/>It is again time to examine the progress of our public schools.  However, it is past time for the public to demand accountability. Moreover, the Arise Citizens’ Policy Project entitled, Bridging the Gap 2009, focuses on an unwieldy, PK-16 system and emphasizes remediation efforts to address underlying factors pressuring the dropout issue and the apparent discrepancy of public educations’ inability to prepare students to succeed in a post secondary environment (Boser and Burd, 2009).   <br/>A critical examination of the education framework, process, and system associated with our children’s future, its impact on our collective survival in a global economy, and the increasing frustration over moral, ethical, legal, academic issues that confound it continue to be a worthy topic for consideration.   Whatever else ails American education, in general, and Alabama education, in particular, it should be understood from the outset that the existing educational framework comprised of the funding process and administrative system that it supports, is not broken – but rather designed to deliver mass-produce training to perform low-to-mid level skills.  It simply has been inoculated with repeated doses of status quo; and as a consequence, has become totally resistant to real change other than faddish counterfeits posing as innovation.  <br/>Moreover, national, state, and local efforts continually aiming at improving education often are at cross-purposes over where to focus their reform-minded initiatives or precisely what must be done. What must be done cannot be done “on top of the existing” or “integrated into the present model.” What must be done involves integration of content and facilities to inculcate values that emphasize and cherish character development, critical thinking, problem solving, team work, competitive-cooperation, and above all --- self-esteem.  What can be done involves a personal commitment of the community’s leadership to initiate the first steps in that direction:  developing a prototype that moves us closer Towards a New American School.<br/><br/>Statement of the Problem<br/>At the state level, a legislative mechanism that serves primarily as a funding source legally appropriating the scarce dollars that are to be allocated for educating our children through a local school system.  the funding process evolved into Some perceive the “system” as a reified institutional entity, i.e., the State Department of Education in Montgomery or the main office building where the superintendent works with other administrators and staff.  Others might perceive the same system comprised of myriad individuals that daily care for students inside thousands of hallways, lunchrooms, band rooms, basketball courts, and classrooms across Alabama.  Essentially, each perspective is value-laden and offers insight into the underlying principles relevant to the publics’ perception of “actors in the ongoing drama.”<br/>The framework defines an alignment of the process and the system to direct a revenue stream from the public tax coffers to be dispersed according to legislatively binding spending measures, and then allocated to the recipients or local school authority (LEA).  Since teaching is such a labor-intensive profession, approximately eighty percent (80%) to eighty-five (85%) of all funding goes towards employee wages and benefits with any remaining to fund the rest.  It should be noted:  Faculty have little direct input and absolutely no legal authority over the dispersal of funding. <br/>Economic development in the 21st century begins with an entrepreneur seeking a readily available, high-skilled, adaptive, pool of human-resource capital.  In fact, of the seven emerging roles of higher education's involvement in economic development described in a comprehensive review of the literature, human capital, broadly defined as targeted human-resource development (HRD), was the most important (Hethcox, 1990).  The definition of  Human Capital has been expressed in a variety of  ways.  Depending on who is the beneficiary, human capital might be expressed in terms of a commodity (emphasized as a cost of labor) or HRD as a capital investment in knowledge acquisition ie., providing employee opportunities to a seamless education.  Decision makers must be willing to acknowledge commitment to capital investment in HRD with its purse, i.e., incentives offered for demonstrated evidence of best practices of instruction in an information-based global economy.  Finally, the Wye Plantation Conference in Eastern Shore, MD, identified four major general resource development trends bearing on higher education: <br/>1.	the needs of students,<br/>2.	the delivery of information, <br/>3.	the organization of knowledge, and <br/>4.	the relationship of higher education to economic development.<br/>The conference conclusion found that changing demographics meant academia must adjust to continuing, lifelong education of nontraditional students (Preer, 1984). Twenty-five years later, what significant adjustments have been made in teaching teachers or in student/faculty performance evaluations or in curricula innovations or in the manner in which knowledge is dispensed that seeks to accommodate those nontraditional students who increasingly choose to opt-out?  Perhaps, the essential difference between the more successful as opposed to those who are not lies in the eyes of the beholder to determine whether education is perceived as an investment or as an expense.<br/><br/>The Target in an Information Based Society:<br/>Human Resource Development <br/>Since WWII, successful universities’ have distinguished themselves by an ability to adapt to an information-based global economy. Higher education, administrative, institutional cultures’ ability to maintain flexibility was related directly to the way it perceives HRD:<br/>1)	With respect to what constitutes scholarly activity in light of increasing pedagogical demands on faculty;<br/>2)	With regard to format, location, and timing of instruction;<br/>3)	In response to external demands regarding new courses and curriculum; and <br/>4)	With regard to potential faculty collaboration with industry, government, and community needs.<br/>The model of a modern university requires faculty to be in active contact with the world outside academia.  If colleges and universities are to engage in economic development activities such as capacity building, technical assistance, technology transfer, human resource development, then faculty effort towards those ends must be rewarded.  Although public service was the backbone of economic development at the local level, most faculty members believe that their public service activities were not rewarded.  Furthermore, there were no mechanisms for measuring the amount of public service in higher education, no longitudinal studies of service activity, and no studies that linked reward systems and public service.  Consequently, under the existing paradigm little institutional reward promotes faculty involvement in economic development activities.<br/>In addition, few universities advocated rewarding faculty activity that: (a) created new knowledge, (b) trained others in their discipline or area of expertise, (c) interpreted aggregate-knowledge to make it more understandable and useful, and (d) disseminated knowledge to the appropriate audience.  Under the present tenure and promotion system, faculty is rewarded for contributions to the research literature in professional journals.  However, faculty are neither rewarded for synthesizing that literature in forms that might be useful to others, nor for providing policy analysis to industry, nor for developing applications of research to practical problems, nor for delivering technical assistance to either emerging or established industries, and especially not meaningfully rewarded for excellence in teaching.  Outside of medicine and other hard sciences, this anachronistic university policy should have been challenged decades ago. <br/>Another major aspect of human resource development that went beyond traditional postsecondary education and training activities and yet proved indicative of the need for higher education to adapt to the changing demographics of an adult student population was the issue of childcare (AASCU, 1986; Osborne, 1987).<br/>Today, mothers of half of the children one year of age and under are at work.  Most of these women need to and will stay at work.  They and their families require good childcare.  Only 1,800 of our six million employers provide such assistance in any form such as employee benefits, on-site care, or financing.  (Choate cited in AASCU, 1986, p. 17)  As a result of changing American lifestyles, more children were entering school from: "single-parent households; minority backgrounds; poverty households; teen-age mothers; Asian-American backgrounds with increasing language difficulties; and Hispanic backgrounds with a 40% high school drop out rate" (Hodgkinson, 1985, p. 10).  <br/><br/>The severity of social and economic consequences for failure to ameliorate eroding human resource losses has prompted states to examine ways to expand and improve childcare (Osborne, 1987).  Reich (1988) estimated 20% of American 18-year-olds are functionally illiterate, and 25% drop out of high school before graduating and he acknowledged that this was not the sort of population likely to generate high productivity in the future (pp. 526-527).  Postsecondary strategies of intervention were restricted by the nature of their mission, role, and scope; however, a viable community/technical college response might include offering workfare subsidized, on-campus day care facilities to students' children, and state and local subsidies to faculty, staff, and other students who qualify.  <br/>In addition, colleges of education could provide local pre-school programs a source for undergraduate practice teaching, graduate internships, and research grant opportunities to evaluate effective curricula and teaching methodologies, and to analyze early childhood learning behaviors: especially those related to disabilities and other aspects of rehabilitative special education. Thus, an approach to an institutional mission that fulfilled public service, teaching, and research responsibilities while addressing an urgent economic development and human resource need prompted this innovative response:<br/>Provide a pre-school program for families of faculty, staff, and students.<br/>The National Center for Education Statistics (NCES, 2000) compiles high school completion rates for the nation.  These completion rates represent the proportion of 18- through 24-year-olds, not currently enrolled in high school or below, who have completed a high school diploma or an equivalent credential, including a General Educational Development (GED) credential.  The data reveals that<br/>♦ In 2000, 86.5 percent of all 18- through 24-year-olds not enrolled in high school had completed high school.  Completion rates rose slightly from the early 1970s to the late 1980s, but have remained fairly constant during the 1990s; <br/>♦ High school completion rates increased for White and Black young adults between the early 1970s and late 1980s, but have remained relatively constant in the 1990s; and<br/>♦ By 2000, 91.8 percent of White and 83.7 percent of Black 18- through 24-year-olds had completed high school.<br/>A more recent study builds upon a series of National Center for Education Statistics (NCES, 2005) reports on high school dropout and completion rates that began in 1988.  It presents estimates of rates in 2005, provides data about trends in dropout and completion rates over the last three decades (1972–2005), and examines the characteristics of high school dropouts and high school completers in 2005.  Four rates, “contributing unique information”, purportedly presented to provide a broad picture of high school dropouts and completers in the United States; instead demonstrate what might be more aptly characterized as obfuscating the essential with the tangential.<br/><br/>Again, NCES demonstrated that dropping out of high school is related to a number of negative outcomes.  For example, the average income of persons ages 18 through 65 who had not completed high school was roughly $20,100 in 2005.  By comparison, the average income of person’s ages 18 through 65 who completed their education with a high school credential, including a General Educational Development (GED) certificate, was nearly $29,700.  Dropouts are also less likely to be in the labor force than those with a high school credential or higher and are more likely to be unemployed if they are in the labor force.  In terms of health, dropouts older than age 24 tend to report being in worse health than adults who are not dropouts, regardless of income (NCES, 2005).  <br/>Dropouts also make up disproportionately higher percentages of the nation’s prison and death row inmates.  Again, this is far from the sort of population likely to generate high productivity in the future (NCES, 2005).  Postsecondary strategies of intervention have been restricted by the nature of their mission, roll, and scope; however, a viable community / technical college response might include offering workfare subsidized, on-campus day-care facilities to students’ children, and state and local subsidies to faculty, staff, and other students who qualify.  In addition, colleges of education PK programs could provide a source for undergraduate practice teaching, graduate internships, and research grant opportunities to evaluate effective curricula and teaching methodologies, and to analyze early childhood learning behaviors: especially those related to disabilities and other aspects of rehabilitative special education -- for example, the equestrian learning experience at the Alabama School for the Deaf and Blind (AIDB) in Talladega, Alabama.<br/>A flexible response by academia to external demands regarding periodic reevaluation of new courses and curricula should be based on objective data that reflect the particular mission of the institution with respect to its role in human resource development.  For example, the expansion of foreign trade in economic development has increased the role of postsecondary education in human resource development (Osborne, 1987).  In particular, core instruction in international studies and promotion of foreign language requirements were cited most often as examples that effectively prepared students to cope with a global economy (AASCU, 1986; Choate & Linger, 1986; Doyle & Brisson, 1985; Levine, 1984; NEBHE, 1987).  Although there were similar recommendations to strengthen the undergraduate core curriculum at the University of Maryland in 1981, it is even more appropriate in 2009 to advocate their inclusion in a senior high school curriculum in anticipation of college:<br/>Promote a foreign language requirement.<br/>Promote international studies that enhance knowledge of other cultures as a core requirement.<br/>Conduct a year abroad foreign exchange program.<br/>In the past, it was widely assumed that upon completion of a college education it was time to move on to the real world and to apply that knowledge; however, the increasingly rapid pace of technological change has made such a view totally unacceptable (WHSC, 1986, p. 27).  For example, the half-life of an engineer's knowledge is thought to be three to five years (AASCU, 1986, p. 12) and implied the need for closer university-industry collaboration in continuing education with regard to curricula review and development. <br/>Also, the current use of pedagogic methodologies is not conducive to adequate preparation of students for coping with problems in the face of rapid technological change (Choate & Linger, 1986; Levin, 1984; Li, 1980).  For example, Kerr and Pipes argued that the crises in engineering education was a result of the emphasis placed on engineering science to develop basic knowledge at the expense of engineering design which entailed devising a system or process to meet desired needs (1987, pp. 37-38).  Sample (1988) contended that being considered educated in America today demanded fluency in two languages--English and calculus.  He concluded the concept of whole-person education, far from being a romantic notion was a necessity, "These times cry out for truly liberal and truly integrative education, both in the arts and sciences and in the undergraduate professional curricula" (Sample, 1988, p. 56).  <br/>Furthermore, Tucker (1983), in a paper presented at the National Conference on Higher Education entitled Reflections on Retooling America for Economic Growth through Investments in Higher Education, advocated educating nor just more engineers, but rather more engineers who are creative and broadly educated enough to tackle confidently quite unfamiliar problems.  Tucker noted university efforts to respond to development of new fields of knowledge often cut across the old,<br/>it adds interdisciplinary structures (institutes, laboratories, centers, and so on) that do not replace the old [departmental] structure, but are rather layered on above it. . . .  But it is precisely in these interdisciplinary structures that students stand the best chance of working on large technical projects and on unconventional problems with a lot of colleagues in relatively flat organizational structures.  Emphasis mine (1983, p. 5) <br/>Consequently, if American engineering education intends to continue to be a vital part of economic growth through technological advancement, then curriculum changes to overcome lack of creativity and a practical sense of intervention to anticipate public needs are prerequisites for the engineering graduate of tomorrow.  In this context, Parameter Analysis was born. <br/>What is Parameter Analysis?<br/>Professor Li, in Technological Innovation in Education and Industry, argued that while content knowledge may become obsolete, comprehension of innovation developed entrepreneurship. He advocated a methodology to instruct a population that found it difficult to verbalize - undergraduate engineering students.  Li proposed a solution that sought to educate engineers through an interdisciplinary study approach and subsequent assessment through case study analysis.  He described a classroom methodology that enhanced understanding of innovation and promoted entrepreneurship, called parameter analysis.  Parameter analysis imitated the innovation process, i.e., a creative endeavor involving continual selection, analysis, evaluation, and synthesis:<br/>Creative writing, music composition, dance, and athletics are taught in schools, even though achievement in each activity hinges heavily on individual talent.  By contrast, in the conventional curriculum of engineering and management schools, very few courses emphasize developing creativity in invention and entrepreneurship.  Emphasis Mine (Li, 1980, p. 23) <br/>In addition to Parameter Analysis, methodology advocating interdepartmental cooperation that combined case studies with problem solving simulations.  In order to promote problem solving, Li (1980) advocated multiple perspectives gained from multidisciplinary study and emphasized the importance of creativity in addition to content knowledge.  His recommendations for enhancing student problem solving included:<br/>Encourage undergraduate interdepartmental studies, and<br/>Devise instructional methodologies across curricula that utilize multidisciplinary case studies in combination with problem solving simulations.<br/>Other methodological strategies to promote understanding of the innovation process included conflict strategy models (Schelling, 1960), and multiple scenarios based on conceptual simulations (Allison, 1971).  Advocates of conceptual models of a modern university insisted on the explicit recognition of the role of technology in science and industry and suggested the result of the separation of the two would be counter-productive for both (National Academy of Engineering Science, 1985).  <br/>Yet, in spite of the increased need for innovation, educational researchers who lack practical insight, continue to naively recommend a creative application of new perspective be layered on top of the existing framework, so that a finding “to encourage academic policy that requires multidisciplinary graduate study within the framework of traditional departments” (Hethcox, 1990) actually discounts the traditional university departments’ propensity to adopt change with malice; and thus, stymie authentic efforts to stimulate lasting innovation.    In spite of academia’s efforts to stymie change in higher education administration policies, procedures and practices, occasionally evidence demonstrates that technological advances will erode such resistance if it can offer significant financial incentives to do so<br/>Besides methodological changes in how we teach, new fields of study have emerged as a result of space exploration, advanced medical technology, and applications of computer science to other fields that have implications regarding what we teach.  For example, the application of principles in computer science and management created a new field whose purpose was to manage and apply information systems (IS) technology.  As a result IS has emerged as one of the most prolific management areas (AASCU, 1986). <br/>Interestingly, unlike higher education, industry resistance to the status quo is counter balanced to some degree by competition, so that future entrepreneurial Davids can continue to overcome Goliaths.   For example, in 1986 Microsoft went public and in combination with upstart Apple, eventually ended the era of mainframes and the domination of IBM.  <br/>In fact, the White House Science Council reported "the most exciting and fruitful research opportunities are to be found in the interface areas between the traditional disciplines" and encouraged federal funding to enhance multidisciplinary activities within the universities (Klingman & Phillips, 1988). (See Appendix 2 for a more full treatment of issues surrounding interdisciplinary studies in 2009).  In addition to collaboration with industry and government, Lynton and Elman included community collaboration as well (1987, p. 110).  Rolzinski defined community in terms of economic development that included "planning and implementing programs to improve the economic well-being of people within their social context" (1986, p. 90).<br/><br/>As higher education institutions increase emphasis on economic development, the challenge of collaborative arrangements with business, organized labor, government, and community organizations presented unique problems considering the range of learner needs (Rolzinski, 1986, p. 93).  She noted, at its most basic level, collaboration involved a single academic community working with a single business community, adult community, or labor community, and at its most advanced level, collaboration involved many organizational communities (1986, p. 93).  The traditional roles of academia to collect and examine data and to explore ways of stating problems were valuable skills in helping community groups perceive how to develop the best possible strategies to mitigate large economic forces that affected them (Rolzinski, 1986, pp. 94-95).  <br/>In addition, the traditional human resource development role of academia made it an ideal capacity-building mechanism for helping community organizations define their own problems and find unique solutions (AASCU, 1986).  Some institutions found that they could further contribute to community economic development efforts by encouraging collaboration of diverse groups through university-sponsored programs on a wide range of topics, such as advanced technology, exporting, new business development and raised these items of higher education human resource efforts aimed at community needs:<br/>Establish advisory councils and other linkage mechanisms to keep in touch with community needs (AASCU, 1986, p. 48).<br/>Build capacity through symposia and conferences involving diverse community groups including business, labor, and local government leaders and faculty to address economic development priorities (AASCU, 1986, p. 16).<br/>Educate policy makers and the general public about university resources that could promote local economic development (Doyle & Brisson, 1985, p. 18).<br/>Why are administrators slow to act, if in fact for decades, the White House Science Council has encouraged federal funding to enhance multidisciplinary activity within the university?  Research indicates that behemoth institutions, i.e., the church, government, public schools, etc. are historically slow to act to make any change.  Consequently, a key principle inherent in many vast, bureaucratic, institution’s inability to influence meaningful policy directives (such as those involved in a state’s education appropriation or course transfer processes) is typically characterized by fierce, well-organized, resistance to any change that would disrupt the status quo.  What is their underlying concern?  <br/>Some have argued that such is the nature of a bureaucratic, plantation mentality; some claim inept administrators or powerful teacher unions are to blame; while still others blame either a left-or-right wing conspiracy depending on their personal political bias.  More than likely, it is a combination of factors that may or may not include all the above.  Application of Occam’s razor infers the answer is simply that no genuine impetus exists within the organization for systemic change.  Perhaps, the more astute administrator perceives any pronounced deviance from the status quo is an unnecessarily foolish risk to career advancement already fraught with considerable unknowns.  Thus, incentives should be implemented that would make it worth the career risks for administrators to propose innovation and for faculty (and all other significant stakeholders) to accept responsibility for its execution.<br/>As higher education institutions increase emphasis on economic development, the challenge of collaborative agreements with business, organized labor, government, and community organizations presented unique problems considering the range of learner needs.  In addition to collaboration with industry and government, community collaboration should also be included.  At its most basic level, collaboration involved a single academic community working with a single business community, adult community, or labor community, and at its most advanced level, collaboration involved many organizational communities.  In terms of economic development, community collaboration included planning and implementing programs to improve the economic well being of people within their social context. <br/>The traditional roles in academia to collect and examine data and to explore ways of stating problems were valuable skills in helping community groups perceive how to develop the best possible strategies to mitigate large economic forces that affected them.  In addition, the traditional human resource development role in academia made it an ideal capacity building mechanism for helping community organizations define their own problems and find unique solutions.  Some postsecondary institutions found that they could further contribute to community economic development efforts by encouraging collaboration of diverse groups through University-sponsored programs on a wide range of topics, such as:  practical application of advanced technology in nurturing new business development, i.e., exporting.  These efforts should include the most appropriate methodologies as well as the most efficient delivery systems to transfer that knowledge to intended end-users. <br/><br/>New American School<br/>I propose a New American School.  It would be a hybrid based on an expansion of the post-WW I Bauhaus concept and Lockheed’s Skunk Works research & design model.  The primary mission of a New American School is do no harm to those entrusted to our care for cognitive development.  The goal of a New American School is creation of an environment that fosters innovation and promotes the unique characteristic-set pertinent to human inspiration; and especially, the quality of earned respect which is vital to development of authentic self-esteem.  Upon these two uniquely, genuine human responses – inspiration and self esteem, success of such a program relies. In order to accomplish these goals a New American School seeks to integrate the concept of form follows function by recognition of the influence that physical facilities have on the social interactive environment and its subsequent impact on human resource development. The singular initiative of a New American School is the promotion, growth, and development of a new kind of engineer – an Imagineer or one who is skilled in the process innovation pipeline completion cycle.  A process innovation pipeline completion cycle requires a collaborative group action similar to the Manhattan Project that involves marshaling all forces necessary in 1) performing basic research from conception to dispersal of findings, and 2) using applied research skills in order to convert basic research findings into a concept that provides a product or service useful to a niche market.  (See Appendices 7 & 8 for a more full treatment of the subject)<br/>Conclusion<br/>Several aspects of the increased importance of the critical role of higher education and PK-14 in human resource development have been noted.  Innovation that encouraged change was the major theme in the literature underlying the PK-14 and higher education partnership where the most successful engagements of economic development occurred at the regional, state, and local levels.  Change that reflected the small, incremental steps in perception that are essential, in the early stages of the innovation process as the prevailing paradigm shifts to another.  Interestingly, the predominant source of change initially was rarely due to any professional organization or trade association; but rather by a single advocate who painstakingly nurtured enduring change, i.e., a change agent or a champion.  Change of that type fosters economic development and includes the following:<br/>	Changes in administrative attitudes toward faculty;<br/>	Changes in administrative perspectives of student needs with regard to format, to location, and to timing of instruction; and<br/>	Changes in the organization of knowledge.<br/>As with most behemoth social institutions, except for cosmetic changes, real change is relatively rare.  It can be argued that administrators, at all levels, are slow to become an agent of change because there is a negative incentive to do so, i.e., charting new directions into the unknown as opposed to maintaining the status quo is rationally perceived as an unnecessary risk to career advancement.  Consequently, if there is no impetus from within the organization for systemic change, then by necessity, pressure from outside the traditional avenues should and must make those demands on behalf of those beneficiaries whose trust fund has been violated.  <br/>In other words, real change means a charting a new course utilizing meaningful reports based on accurate, reliable data; rather than on, vendettas, ego-driven turf battles, and stale political agendas.  It means focusing on the issues that stretch out directly in front of us rather than facing backwards walking into the future because “that’s the way things always have been done.”  Attempting to apply lipstick to a pig-snout is not only counterproductive; it delays what posterity demands - - the social, economic, and political courage to implement genuine change regarding the manner in which this nation conducts the enterprise of teaching the adults of tomorrow.  Consequently, all involved in rebuilding a 21st century educational framework must possess the intellectual integrity to be able to acknowledge the substantial difference between cosmetic changes merely for the sake of appearance as opposed to authentic innovation.  The former rightly complain of the exorbitant expense while the latter willingly acknowledge the wise investment. <br/>References<br/><br/>Allison, G. (1971).  Essence of decision: Explaining the Cuban missile crises.  Boston:	Little, Brown, and Company.<br/> <br/>American Association of State Colleges and Universities (AASCU, 1986).  The higher education-economic development connection: Emerging roles for public colleges universities in a changing economy.  Washington, DC: Author.<br/><br/>Arise Citizens’ Policy Project, 2008.  Bridging the Gap: Alabama’s working families and the broken promise of economic opportunity.<br/><br/><br/>Baldridge, J. V., & Deal, T. E. (1977).  Change processes in educational organizations. <br/>In G. L. Riley & J. V. Baldridge (Eds.), Governing Academic Organizations.  Berkeley: McCutchan.<br/><br/>Boser, Ulrich and Burd, Stephen   (January, 2009).   Bridging the gap: how to strengthen<br/>the PK 16 pipeline to improve college readiness. The new American foundation.  Education policy program federal education budget project.  www.edbudgetproject.org<br/><br/>Choate, P. & Linger, J.K. (1986).  The high-flex society:  Shaping America’s economic	future.  New York:  Alfred A. Knopf.<br/><br/>Doyle, P.  & Brisson, C. (1985).  Partners in growth:  Business-higher education	development strategies.  Washington, DC:  Northeast-Midwest Institute for	Regional Policy.<br/><br/>Chaffee, Ellen Earle (1983).  Rational Decision-making in Higher Education.  National	Center for Higher Education Management System, 1983. <br/><br/>Gates Budget Project: Progress Report to the State Board of Higher Education (April 6,	2007 ).  Gates Budget Project: A New Budget Framework for Oregon’s PK-20	Education Enterprise, 2007.<br/><br/>Kerr, A. & Pipes, B. (1987, October).  Why we need hands-on engineering education.	Technology Review, pp. 17-42.<br/><br/>Klingman, D. & Phillips, N. (1988).   Integrating information systems technology and	graduate management education.  Academic Computing, pp. 22-56, 56-60.<br/><br/>Hethcox, J. Henley (1990).  Validation of Higher Education Economic Development	survey instrument with state university and land grant institute research	administrators.  Unpublished doctoral dissertation, Auburn University, AL<br/><br/>Levin, H.M. (1984, October).  Jobs—A changing workforce, a changing education?	Change, pp. 32-37. <br/><br/>Li, V. (1980).  Technological innovation in education and industry.  New York: Van	Nostrand Rienhold.<br/><br/>Lynton, E.A. & Elman, S.E.  (1987). New priorities for the university.  San Francisco:	Jossey-Bass. <br/><br/>National Academy of Engineering Science.  (1985). Education for the manufacturing	world of the future.  Wasington, DC:  National Academy Press.<br/><br/>National Science Foundation (NSF) (2008).  Division of Science Resources Statistics,	National Patterns of R&D Resources: 2007 Data Update. NSF 08-318.	Arlington, VA. Available at http://www.nsf.gov/statistics/nsf08318/.<br/>New England Board of Higher Education (NEBHE) (1987). [1987 survey of business, government, and higher education leaders: The future of New England]. Unpublished survey instrument.<br/>Osborne, D. (1987). Economic competitiveness: The states  take the lead. Washington, DC: Economic Policy Institute.<br/><br/>Preer, J. (1984, Nov).  Challenges to higher education.  Washington, DC: National	University Continuing Education Association (ERIC document reproduction	services No.  ED 273 159).<br/><br/>Reich, R. B. (1989, October).  The quiet path to technological preeminence.  Scientific	American, 261 (4), pp. 41-47.<br/><br/>Rolzinski, C.  (1986). The power of the people in community economic development.	Issues in higher education and economic development  (pp. 89-98).	Washington, DC: AASCU<br/><br/>Sample, S.  (1988).  Engineering education and the liberal arts tradition.  IEEE	transactions on education.  31 (2),  54-57.<br/><br/>Schelling, T. (1960).  The strategy of conflict.  Cambridge, MA: Harvard University	Press.<br/><br/>Southen Regional Educational Board (SREB).  (2007).  Best Practices for Implementing	HSTW and MMGW.    Presentations to support Conference Objective 2 (Increase	success	and reduce failure by aligning career/technical studies to 21st-century	postsecondary and workplace requirements), from the 21st Annual HSTW	Staff	Development Conference, held July 11–14, 2007, in New Orleans, Louisiana.<br/><br/>The National Commission on Excellence in Education (April 1983).  A nation at risk:	The imperative for educational reform a report to the nation and the secretary	of education.  Washington, D.C., United States Department of Education.<br/><br/>U.S. Department of Education, National Center for Education Statistics.  (2000). The	condition of education: 2000.  Washington, D.C., U.S. Government Printing	Office.  http://nces.ed.gov/http://nces.ed.gov/<br/><br/>U.S. Department of Education, National Center for Education Statistics.  (2005).	Dropout rates in the United States: 2005.  Washington, D.C., U.S. Government	Printing Office.  http://nces.ed.gov/http://nces.ed.gov/<br/><br/>White House Science Council Panel on the Health of U.S. College and Universities.	(1986).   A renewed partnership.  Washington D.C: Author<br/><br/>
+
+  <h3>Why Is This Idea Important?</h3><div>Evaluation of any given system must include the delivery system as part and parcel of the frameworks' paradigm.</div>
+
+  </div>
+
+  <div style="clear:both"><div>
+
+  <div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;">Idea # 665</span><span id="DiscussionTopicTag_3277"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a></span></div>  
+
+  
+
+
+  <div id="IdeaScale_SectionHeader">Comments</div>  
+
+  
+
+
+  <div id="DiscussionTopicComment_3277">
+    
+
+
+
+
+
+<table width="100%">
+
+
+  <tr id="row_2741" onmouseover="showDiv('CommentBar_2741');" onmouseout="hideDiv('CommentBar_2741')" class="IdeaScale_Comment_Normal">
+    <td valign="top" style="padding:3px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <div id="IdeaScale_IdeaSubtitle">
+          <b><a href="http://opengov.ideascale.com/akira/pmd/4381-4049">Robert David STEELE Vivas</a></b>
+          <span class="IdeaScale_SecondaryText">2 days ago<span>
+        </div>
+      </td>
+      <td valign="top" align="right">
+      <div id="CommentBar_2741" style="display:none;">
+
+      
+      <span id="FlagComment_2741">
+        <a class="iconLink" href="javascript:ajaxLink('FlagComment_2741', '/akira/flagDiscussionComment.do?topicID=3277&commentID=2741')"><img alt="Warning" class="iconLink" src="/images/iconshock/warning_16.gif" border="0">&nbsp;Report Abuse</a>
+      </span>
+      
+
+
+            
+
+
+      </div>
+      </td>
+    </tr>
+    </table>
+
+      
+
+
+      Voted for this, and really respect the detail you have provided.<br/><br/>Am regretfully dropping out of this entire process, the designers screwed this up so badly that it is now counter-productive.<br/><br/>Version 2.0, if there is one (the Administration appears to have wanted to dip a toe in and NOT actually attract more than the 2.000 or so we have here), is going to have to be MUCH more sophisticated.
+
+                  
+    </td>
+  </tr>
+
+</table>
+
+
+
+    
+    <ul class="noimage">
+      <li>
+        <a class="iconLink" href="javascript:ajaxLink('PostComment_3277', '/akira/postComment.do?dbid=2242&topicID=3277&mode=add-comment-show')"><img alt="Add New" class="iconLink" src="/images/iconshock/add_16.gif" border="0">&nbsp;Post New Comment</a>
+
+        <div id="PostComment_3277"></div>
+      </li>
+    </ul>      
+    
+
+
+  </div>
+
+  
+
+  
+
+
+
+
+
+
+
+
+  
+    
+
+
+
+
+
+
+  <div id="IdeaScale_SectionHeader">Activity Chart</div>
+  <div>
+    <object width="450" height="300" ><param name="movie" value="/images/fusionchart/Pie3D.swf"></param><param name="wmode" value="transparent"></param><param name="allowScriptAccess" value="always"></param><param name="flashvars" value="debugMode=0&amp;dataXML=<chart showPercentValues='1' palatte='2'><set label='Vote Up' value='23'/><set isSliced='1' label='Vote Down' value='8'/></chart>"></param><embed src="/images/fusionchart/Pie3D.swf" type="application/x-shockwave-flash" wmode="transparent" flashvars="debugMode=0&amp;dataXML=<chart showPercentValues='1' palatte='2'><set label='Vote Up' value='23'/><set isSliced='1' label='Vote Down' value='8'/></chart>" allowScriptAccess="always" width="450" height="300"></embed></object>
+  </div>
+
+
+  
+
+
+
+  </td>
+  <td width="200" valign="top" style="padding-left:10px;">
+  
+
+     
+
+      
+
+
+      
+      <div style="padding-top:10px;">
+        
+
+
+
+
+
+<div id="IdeaScale_WidgetHeader">Users Activity</div>
+<div id="IdeaScale_WidgetText">
+  <table>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/8275-4049">
+      omajulia
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6201-4049">
+      goggins
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4508-4049">
+      rogerweaton
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6314-4049">
+      ucatchme
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/7244-4049">
+      burroughsjh
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4219-4049">
+      cjis1982
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6102-4049">
+      agammel
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6960-4049">
+      sea_of_mirth
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/6856-4049">
+      polsi33
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Up" class="iconLink" src="/images/iconshock/voteup_16.gif" border="0">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    <a href="http://opengov.ideascale.com/akira/pmd/4651-4049">
+      ted3937
+    </a>
+    </td>
+    <td align="right">
+    <img alt="Vote Down" class="iconLink" src="/images/iconshock/votedown_16.gif" border="0">
+    </td>
+  </tr>
+  
+  </table>
+</div>
+
+
+
+
+  
+      </div>
+      
+
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+    
+
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+   <div id="IdeaScale_Footer">
+   <div style="background-color:#E8E8E8; height:20px;"></div>
+
+<div id="CO_Footer" style="height:200px;">Powered By <a href="http://www.ideascale.com" target="_BLANK"><strong>IdeaScale</strong></a> and the <a href="http://www.napawash.org" target="_BLANK"><strong>National Academy of Public Administration</strong></a>
+
+<p><a href="http://www.napawash.org" target="_BLANK"><img src="http://www.ideascale.com//userimages/sub-1/595334/NAPA_Logo_pagebottom.png" alt="National Academy of Public Administration" border=0 width="188" height="76"></a></p>
+
+<p style="width:80%;margin: 15px auto;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">All feedback received through the Open Government Dialogue</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+
+</div>
+
+   </div>
+
+
+
+</td></tr></table>
+
+
+
+  
+
+
+
+
+
+<table width="100%" id="IdeaScale_Theme_Footer" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="center" valign="top">
+    Copyright &copy; 2009 
+
+    &nbsp;&nbsp;
+    <a href="/">Home</a> 
+    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=contact">Contact</a> 
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=widget">Widgets</a>    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=api">Developers</a>    
+    
+    <!--
+     &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=feedback">Feedback</a>
+    -->
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var wpcomPageTracker = _gat._getTracker("UA-5056819-3");
+wpcomPageTracker._initData();
+wpcomPageTracker._trackPageview();
+</script>
+
+
+
+
+
+
+
+
+
+<div class="shadowedBox" id="shadowedBox" style="display:none;">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+          <td class="drop a"></td>
+          <td class="drop b"></td>
+          <td style="width: 623px;" class="drop c"></td>
+          <td class="drop d"></td>
+          <td class="drop e"></td>
+        </tr>
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        
+        <tr valign="top">
+          <td class="drop p">
+            <div>&nbsp;</div>
+          </td>
+          <td style="width: 663px;" class="shadowedBoxBody" rowspan="3">
+            <div align="right">
+            <a class="iconLink" href="javascript:closeInlinePopup('shadowedBox')"><img alt="Delete" class="iconLink" src="/images/iconshock/delete_16.gif" border="0">&nbsp;Close</a>
+            </div>
+            <div id="shadowedBoxBody">
+            </div>
+          </td>
+          <td class="drop f">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop o">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop g">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop n">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop h">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+    
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+            <td class="drop m"></td>
+            <td class="drop l"></td>
+            <td style="width: 623px;" class="drop k "></td>
+            <td class="drop j"></td>
+            <td class="drop i"></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+<table bgcolor="#ffffff"  border="0" cellpadding="0" cellspacing="0" style="display:none;">
+
+  <!-- Content | Right DS -->
+  <tr>
+    <td valign="top"> 
+      <div id="contentEnclosingDivID" style="position: absolute; background-color: #ffffff; display:none;z-index:2;" >
+
+      <!-- ContentTable -->
+      <table id="contentTableID" class="simpleBorder" style="height:300;width:500;" border="0" cellpadding="0" cellspacing="0">
+        <!-- close popup row -->
+        <tr>
+          <td align="right" valign="top">
+            <a href="javascript:closeLiteInlinePopup();">Close</a>
+          </td>
+        </tr>
+        <!-- Content Row -->
+        <tr>
+          <td valign="top">
+            <div id="contentDivID"></div>
+          </td>
+        </tr>
+      </table>
+      <!-- End Content Table -->
+      
+      </div>
+    </td>
+
+    <!-- Right DS -->
+    <td width="10" valign="top" height="100%">
+      <div id="rightShadowDivID" class="transparent" style="position:absolute;display:none;width:10;none;z-index:1;">
+      </div>
+    </td>
+  
+  </tr>
+
+  <!-- Bottom DS -->
+  <tr>
+    <td colspan="2">
+      <div id="bottomShadowDivID" class="transparent" style="position:absolute;display:none;height:10;display:none;z-index:1;">
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+
+</body>
+
+</html>
+
+
