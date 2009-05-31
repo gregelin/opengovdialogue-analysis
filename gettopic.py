@@ -1,6 +1,8 @@
 #!/usr/bin/python
 """A script to parse Open Gov Dialogue
 
+   Changes:
+   05.31.2009: Created IdeaScaleScrapeExtractor Class
 """
 
 __author__="Greg Elin"
@@ -13,10 +15,6 @@ __license__="Python"
 # TODO - why is the following line removing \r and other items? Too greedy?
 #'<(?!\/?a(?=>|\s.*>))\/?.*?>' : ' ',
 
-# Config
-testfile="data/2468-4049"
-testfile2="data/2430-4049"
-
 # Imports
 from BeautifulSoup import BeautifulSoup
 import urllib2
@@ -24,6 +22,12 @@ import re
 import datetime
 import glob
 
+# Config
+testfile="data/2468-4049"
+testfile2="data/2430-4049"
+scrape_date=datetime.datetime(2009,05,28)
+
+# Utilities
 def clean(text):
     try:
         text = text.replace("&nbsp; ","")
@@ -89,87 +93,128 @@ def clean_line_endings(text):
         text = re.sub(key,patterns[key],text)
     return text
 
-def get_topic(soup):
-    # Start at find(id="DiscussionTopicText_2426").contents[2]
-    # End at <h3>Why Is This Idea Important?</h3>
-    text_soup=soup.find('div', id=re.compile('DiscussionTopicText_'))
-    r="".join(["%s" % text for text in text_soup.contents[2:]])
-    r=clean_line_endings(clean_utf8(r))
-    return r
+# Extractor Class
+
+class IdeaScaleScrapeExtractor(object):
+    """Extract various content from a scrape of IdeaScale Idea page"""
     
-def get_votes(soup):
-    # Start at <div id="IdeaScale_Vote" 
-    r="0"
-    text_soup=soup.find('div',id=re.compile('IdeaScale_Vote'))
-    #return text_soup
-    vfor=int(re.search("[0-9]+",text_soup.contents[1].contents[0].contents[1].contents[0]).group()) # votes for
-    vagainst=int(re.search("[0-9]+",text_soup.contents[1].contents[0].contents[2].contents[0]).group()) # votes against
-    vtotal=vfor-vagainst
-    return vfor,vagainst,vtotal
+    def __init__(self, file=None, scrape_date=datetime.datetime(2009,05,28)):
+        super(IdeaScaleScrapeExtractor, self).__init__()
+        self.file=file
+        self.scrape_date=scrape_date
+        
+        self.id=None
+        self.relative_age=None
+        self.created=None
+        self.author=None
+        self.comment_count=None
+        self.title=None
+        self.ideas=None
+        self.votes=None
+        
+        try:
+            self.soup=BeautifulSoup(open(self.file))
+            self.set_id()
+            self.set_link()
+            self.set_valid()
+            if self.valid==True:
+                self.set_relative_age()
+                self.set_created()
+                self.set_author()
+                self.set_comment_count()
+                self.set_title()
+                self.set_idea()
+                self.set_votes()
+        except Exception, e:
+            raise e
+
+    def set_valid(self):
+        # Determine if file is an idea or invalid link
+        self.valid=False
+        if self.soup.find(text=re.compile("The link you have clicked is invalid."))==None:
+            self.valid=True
+        
+    def set_relative_age(self):
+        # start IdeaScale_IdeaSubTitle
+        try:
+            self.relative_age=self.soup.find('div', id=re.compile('IdeaScale_IdeaSubTitle')).contents[0].nextSibling.nextSibling.contents[0]
+        except Exception, e:
+            raise e
+        
+    def set_created(self):
+        hd=re.search("hour|day",self.relative_age).group()
+        self.created=hd
+        val=int(re.search("[0-9]+",self.relative_age).group())
+        self.created=val
+        self.created=self.scrape_date
+        if hd=="day":
+            self.created=self.scrape_date - datetime.timedelta(days=val)
+        
+    def set_author(self):
+        # start IdeaScale_IdeaSubTitle
+        self.author=self.soup.find('div', id=re.compile('IdeaScale_IdeaSubTitle')).contents[0].contents[0].contents[0]
+        #self.author=text_soup.contents[0].contents[0].contents[0]
+
+    def set_comment_count(self):
+        # start FlagComment
+        self.comment_count=len(self.soup.findAll('span', id=re.compile('FlagComment')))
+        
+    def set_link(self):
+        self.link="http://opengov.ideascale.com/akira/dtd/%s" % self.id
+
+    def set_title(self):
+        # start IdeaScale_IdeaTitle
+        self.title=self.soup.find('div', id=re.compile('IdeaScale_IdeaTitle')).contents[0]
+
+    def set_id(self):
+        self.id=re.search("[0-9]+-4049",self.file).group()
     
-def get_author(soup):
-    """
-    IdeaScale_IdeaSubTitle
+    def set_idea(self):
+        # Start at find(id="DiscussionTopicText_2426").contents[2]
+        # End at <h3>Why Is This Idea Important?</h3>
+        text_soup=self.soup.find('div', id=re.compile('DiscussionTopicText_'))
+        idea="".join(["%s" % text for text in text_soup.contents[2:]])
+        idea=clean_line_endings(clean_utf8(idea))
+        self.idea=re.sub(r'^(<br /><br /><br /><br /><br />)(.*)',r'\2',idea,1).strip()
     
-    """
-    text_soup=soup.find('div', id=re.compile('IdeaScale_IdeaSubTitle'))
-    a=text_soup.contents[0].contents[0].contents[0]
-    return a
-    
-def get_comment_count(soup):
-    text_soup=soup.findAll('span', id=re.compile('FlagComment'))
-    cnt=len(text_soup)
-    return cnt
-    
-def get_idea_title(soup):
-    # start IdeaScale_IdeaTitle
-    text_soup=soup.find('div', id=re.compile('IdeaScale_IdeaTitle'))
-    t=text_soup.contents[0]
-    return t
-    
-    
+    def set_votes(self):
+        # Start at <div id="IdeaScale_Vote" 
+        self.fvor=0
+        self.vagainst=0
+        text_soup=self.soup.find('div',id=re.compile('IdeaScale_Vote'))
+        self.vfor=int(re.search("[0-9]+",text_soup.contents[1].contents[0].contents[1].contents[0]).group()) # votes for
+        self.vagainst=int(re.search("[0-9]+",text_soup.contents[1].contents[0].contents[2].contents[0]).group()) # votes against
+        self.vtotal=self.vfor-self.vagainst
+
+# Main
+
 def main():
     files=glob.glob('data/*-4049')
-    #print "<table>"
-    #print """<tr>
-    #<td>id</td>
-    #<td>link</td>
-    #<td>title</td>
-    #<td>author</td>
-    #<td>votes</td>
-    #<td>votes_for</td>
-    #<td>votes_against</td>
-    #<td>idea</td>
-    #</tr>
-    #"""
-    print "id\ttitle\tidea\tauthor\tvotes\tvotes_for\tvotes_against\tcomment_count\tlink"
+    print "id\ttitle\tcreated\tidea\tauthor\tvotes\tvotes_for\tvotes_against\tcomment_count\tlink"
     
-    for file in files:
-        id=re.search("[0-9]+-4049",file).group()
-        try:
-            soup=BeautifulSoup(open(file))
-            title=get_idea_title(soup)
-            idea=get_topic(soup)
-            vfor,vagainst,vtotal=get_votes(soup)
-            author=get_author(soup)
-            cnt=get_comment_count(soup)
-            link = "http://opengov.ideascale.com/akira/dtd/%s" % id
-            print "%s\t%s\t%s\t%s\t%d\t%d\t%d\t%d\t%s" % (id,title,re.sub(r'^(<br /><br /><br /><br /><br />)(.*)',r'\2',idea,1).strip(),author.strip(),vtotal,vfor,vagainst,cnt,link)
-            
-            #print "<tr>"
-            #print "<td class='id'>%s</td>" % id
-            #print "<td class='link'>http://opengov.ideascale.com/akira/dtd/%s</td>" % id
-            #print "<td class='title'>%s</td>" % title
-            #print "<td class='author'>%s</td>" % author
-            #print "<td class='votes'>%d</td>" % vtotal
-            #print "<td class='votes_for'>%d</td>" % vfor
-            #print "<td class='votes_against'>%d</td>" % vagainst
-            #print "<td class='idea'>%s</td>" % idea.strip()
-            #print "</tr>"
-        except:
-            pass
-            #print "Problem with file %s" % file
-    #print "</table>"
-        
+    for file in files[1100:1120]:
+        myIdea=IdeaScaleScrapeExtractor(file,scrape_date)
+        if myIdea.valid==True:
+            try:
+                #myIdea=IdeaScaleScrapeExtractor()
+                #myIdea.soup=BeautifulSoup(open(file))
+                #print myIdea.file
+                #print myIdea.soup
+                #print "id: %s" % myIdea.id
+                #print "author: %s" % myIdea.author
+                #print "relative_age: %s" % myIdea.relative_age
+                #print "created: %s" % myIdea.created
+                #print "comment_count: %s" % myIdea.comment_count
+                #print "idea: %s" % myIdea.idea
+                #print "vfor: %d vagainst: %d vtotal: %d" % (myIdea.vfor, myIdea.vagainst, myIdea.vtotal)
+                #print myIdea.soup
+                #idea=myIdea.get_topic(soup)
+                #link = "http://opengov.ideascale.com/akira/dtd/%s" % id
+
+                print "%s\t%s\t%s\t%s\t%s\t%d\t%d\t%d\t%d\t%s" % (myIdea.id,myIdea.title,myIdea.created,myIdea.idea,myIdea.author.strip(),myIdea.vtotal,myIdea.vfor,myIdea.vagainst,myIdea.comment_count,myIdea.link)
+            except Exception, e:
+                raise e
+
+
 if __name__ == '__main__':
     main()
