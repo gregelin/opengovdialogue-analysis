@@ -14,6 +14,7 @@ __license__="Python"
 # TODO:
 # TODO - why is the following line removing \r and other items? Too greedy?
 #'<(?!\/?a(?=>|\s.*>))\/?.*?>' : ' ',
+# Deal with replacement of all unknown utf8 codes
 
 # Imports
 from BeautifulSoup import BeautifulSoup
@@ -102,6 +103,7 @@ class IdeaScaleScrapeExtractor(object):
         super(IdeaScaleScrapeExtractor, self).__init__()
         self.file=file
         self.scrape_date=scrape_date
+        self.errors=""
         
         self.id=None
         self.relative_age=None
@@ -112,21 +114,27 @@ class IdeaScaleScrapeExtractor(object):
         self.ideas=None
         self.votes=None
         
-        try:
-            self.soup=BeautifulSoup(open(self.file))
-            self.set_id()
-            self.set_link()
-            self.set_valid()
-            if self.valid==True:
-                self.set_relative_age()
-                self.set_created()
-                self.set_author()
-                self.set_comment_count()
-                self.set_title()
-                self.set_idea()
-                self.set_votes()
-        except Exception, e:
-            raise e
+        try: self.soup=BeautifulSoup(open(self.file))
+        except Exception, e: raise e
+        self.set_id()
+        self.set_link()
+        try: self.set_valid()
+        except Exception, e: raise e
+        
+        if self.valid==True:
+            try: self.set_relative_age()
+            except Exception, e: raise e
+            try: self.set_created()
+            except Exception, e: raise e
+            self.set_author()
+            try: self.set_comment_count()
+            except Exception, e: raise e
+            try: self.set_title()
+            except Exception, e: raise e
+            try: self.set_idea()
+            except Exception, e: raise e
+            try: self.set_votes()
+            except Exception, e: raise e
 
     def set_valid(self):
         # Determine if file is an idea or invalid link
@@ -152,9 +160,11 @@ class IdeaScaleScrapeExtractor(object):
         
     def set_author(self):
         # start IdeaScale_IdeaSubTitle
-        self.author=self.soup.find('div', id=re.compile('IdeaScale_IdeaSubTitle')).contents[0].contents[0].contents[0]
-        #self.author=text_soup.contents[0].contents[0].contents[0]
-
+        try: self.author=self.soup.find('div', id=re.compile('IdeaScale_IdeaSubTitle')).contents[0].contents[0].contents[0]
+        except Exception, e:
+            self.author="Error: Author Missing"
+            self.add_error("author",e)
+            
     def set_comment_count(self):
         # start FlagComment
         self.comment_count=len(self.soup.findAll('span', id=re.compile('FlagComment')))
@@ -164,8 +174,11 @@ class IdeaScaleScrapeExtractor(object):
 
     def set_title(self):
         # start IdeaScale_IdeaTitle
-        self.title=self.soup.find('div', id=re.compile('IdeaScale_IdeaTitle')).contents[0]
-
+        try: self.title=clean_line_endings(self.soup.find('div', id=re.compile('IdeaScale_IdeaTitle')).contents[0])
+        except Exception, e:
+            self.title="Error: title Missing"
+            self.add_error("title",e)
+            
     def set_id(self):
         self.id=re.search("[0-9]+-4049",self.file).group()
     
@@ -185,23 +198,38 @@ class IdeaScaleScrapeExtractor(object):
         self.vfor=int(re.search("[0-9]+",text_soup.contents[1].contents[0].contents[1].contents[0]).group()) # votes for
         self.vagainst=int(re.search("[0-9]+",text_soup.contents[1].contents[0].contents[2].contents[0]).group()) # votes against
         self.vtotal=self.vfor-self.vagainst
+        
+    def add_error(self,property, error):
+        self.errors=self.errors+"%s: %s; " % (property,error)
+
+class IdeaScaleSpam(object):
+    """Dictionary of ideas that have special problems and need to be removed."""
+    
+    def __init__(self):
+        super(IdeaScaleSpam, self).__init__() 
+        self.spam={"2979-4049": "Idea skipped. Appears to be machine spam."}
 
 # Main
 
 def main():
     files=glob.glob('data/*-4049')
-    print "id\ttitle\tcreated\tidea\tauthor\tvotes\tvotes_for\tvotes_against\tcomment_count\tlink"
+    print "id\ttitle\tcreated\tidea\tauthor\tvotes\tvotes_for\tvotes_against\tcomment_count\tlink\terrors"
+    mySpam=IdeaScaleSpam()
     
-    for file in files[1100:1120]:
+    for file in files:
         myIdea=IdeaScaleScrapeExtractor(file,scrape_date)
+        if mySpam.spam.has_key(myIdea.id): continue
+        
         if myIdea.valid==True:
             try:
                 #myIdea=IdeaScaleScrapeExtractor()
                 #myIdea.soup=BeautifulSoup(open(file))
-                #print myIdea.file
+                #print myIdea.id
+                #print myIdea.title
                 #print myIdea.soup
                 #print "id: %s" % myIdea.id
                 #print "author: %s" % myIdea.author
+                #print "errors: %s" % myIdea.errors
                 #print "relative_age: %s" % myIdea.relative_age
                 #print "created: %s" % myIdea.created
                 #print "comment_count: %s" % myIdea.comment_count
@@ -211,7 +239,7 @@ def main():
                 #idea=myIdea.get_topic(soup)
                 #link = "http://opengov.ideascale.com/akira/dtd/%s" % id
 
-                print "%s\t%s\t%s\t%s\t%s\t%d\t%d\t%d\t%d\t%s" % (myIdea.id,myIdea.title,myIdea.created,myIdea.idea,myIdea.author.strip(),myIdea.vtotal,myIdea.vfor,myIdea.vagainst,myIdea.comment_count,myIdea.link)
+                print "%s\t%s\t%s\t%s\t%s\t%d\t%d\t%d\t%d\t%s\t%s" % (myIdea.id,myIdea.title,myIdea.created,myIdea.idea,myIdea.author.strip(),myIdea.vtotal,myIdea.vfor,myIdea.vagainst,myIdea.comment_count,myIdea.link,myIdea.errors)
             except Exception, e:
                 raise e
 
